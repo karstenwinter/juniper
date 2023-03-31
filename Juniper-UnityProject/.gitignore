@@ -66,4 +66,5 @@ crashlytics-build.properties
 .firebaseconfig
 .vsconfig
 
-
+firebase-debug.log
+*.log

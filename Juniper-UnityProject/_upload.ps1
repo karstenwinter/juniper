@@ -14,4 +14,4 @@ $c = $c.replace('<div class="fullscreen" on', '<div class="fullscreen" style="cu
 
 set-content "./Build/index.html" $c
 
-%firebase-tools-instant-win% firebase deploy
+./firebase-tools-instant-win firebase deploy

@@ -20,6 +20,8 @@ public class World : MonoBehaviour
     public Transform player;
     public Tilemap tilemap;
     public TileBase tile;
+    public Tilemap tilemapVisual;
+    public TileBase tileVisual;
     public Image fader;
 
     public float scale = 1;
@@ -58,6 +60,7 @@ public class World : MonoBehaviour
                         if (c == "⬛") //"⬛") "\u2B1B"
                         {
                             tilemap.SetTile(new Vector3Int(x, -y, z), tile);
+                            tilemapVisual.SetTile(new Vector3Int(x, -y, z), tileVisual);
                             // var newObj = Instantiate(sprite, new Vector3(x, -y, z) * scale, Quaternion.identity, transform);
                             //   newObj.GetComponent<SpriteRenderer>();
                         }
