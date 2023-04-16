@@ -1,4 +1,4 @@
-<pre style="line-height: 80%; letter-spacing: -0.4px;">
+<pre style="line-height: 70%; letter-spacing: -0.4px;">
   ▄▄▄▄▄        ▄   ▄█ █▀▄▄  ▄▄██▄   █▄▄▄▄ █   ▄▄▄▄▄       █▀▄▄  ██     ▄▄▄▄ ▄   █ 
 ▄▀  █     ▄     █  ██ █   █ █▀   ▀  █  ▄█    █     ▀      █   █ █ █ ▀▀▀ █   █   █ 
     █ █   █ ██   █ ██ █▀▀▀  ██▄▄    █▀▀▌   ▄  ▀▀▀▀▌       █▀▀▀  █▄▄█    █   ██▀▀█ 
@@ -12,6 +12,8 @@
 - The Game: [playload.web.app](https://playload.web.app)
 - Community: [discord.gg/PHXRWVf](https://discord.gg/PHXRWVf)
 
+<a href="https://github.com/karstenwinter/juniper/issues/new?assignees=&labels=&template=bug_report.md&title=">Report a Bug 🪲</a> | 
+<a href="https://github.com/karstenwinter/juniper/issues/new?assignees=&labels=&template=feature_request.md&title=">Suggest a Feature 💡</a>
 
 # Contributors
 - Christoph Schröder ♫
