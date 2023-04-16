@@ -56,15 +56,17 @@ sysinfo.txt
 *.unitypackage
 Build
 
-firebase-tools-instant-win.exe
+# IDE
+.vsconfig
 
 # Crashlytics generated file
 crashlytics-build.properties
 
+# firebase
+firebase-tools-instant-win.exe
 .firebase
 .firebaserc
 .firebaseconfig
-.vsconfig
 
+firebase.json
 firebase-debug.log
-*.log

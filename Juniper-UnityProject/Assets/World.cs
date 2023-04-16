@@ -176,6 +176,7 @@ public class World : MonoBehaviour
         if (textInfo != null)
             textInfo.text = "";
     }
+
     string codeForChar(string c)
     {
         return "U+" + BitConverter.ToInt32(enc.GetBytes(c), 0).ToString("X");
@@ -197,7 +198,7 @@ public class World : MonoBehaviour
         fader.color = colorFader;
         var start = DateTime.Now;
 
-        var url = ""; //"https://docs.google.com/spreadsheets/d/1wWr9c588Fg5bKED99buWJaaC6_Gc4b555nuNT3tC8QM/gviz/tq?tqx=out:csv";
+        var url = "https://docs.google.com/spreadsheets/d/1wWr9c588Fg5bKED99buWJaaC6_Gc4b555nuNT3tC8QM/gviz/tq?tqx=out:csv";
         Download(url, whenDone: csv =>
         {
             Debug.Log("FoundCsv, took " + (DateTime.Now - start));
