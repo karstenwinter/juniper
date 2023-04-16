@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: d3832666a1f7a17488debbb7f496f5cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1086102794672004434
+    second: GeckoP2_0
+  - first:
+      213: 1742633576549210856
+    second: GeckoP2_1
+  - first:
+      213: 7122482356088745383
+    second: GeckoP2_2
+  - first:
+      213: 2606046417854056637
+    second: GeckoP2_3
+  - first:
+      213: -131101665499666736
+    second: GeckoP2_4
+  - first:
+      213: 2231644250530823261
+    second: GeckoP2_5
+  - first:
+      213: -3439075695122950650
+    second: GeckoP2_6
+  - first:
+      213: 6331121252259595086
+    second: GeckoP2_7
+  - first:
+      213: -8053434329461527420
+    second: GeckoP2_8
+  - first:
+      213: -8026177590260630069
+    second: GeckoP2_9
+  - first:
+      213: -8529979063145481505
+    second: GeckoP2_10
+  - first:
+      213: -2595673651950043061
+    second: GeckoP2_11
+  - first:
+      213: -3966601099007434578
+    second: GeckoP2_12
+  - first:
+      213: 3558293066525545167
+    second: GeckoP2_13
+  - first:
+      213: -8372410846111041438
+    second: GeckoP2_14
+  - first:
+      213: -3668604450206569888
+    second: GeckoP2_15
+  - first:
+      213: 6244177105710754020
+    second: GeckoP2_16
+  - first:
+      213: -1009728247637886734
+    second: GeckoP2_17
+  - first:
+      213: 1626494354700230355
+    second: GeckoP2_18
+  - first:
+      213: -6756387513044461892
+    second: GeckoP2_19
+  - first:
+      213: 6734243795906498867
+    second: GeckoP2_20
+  - first:
+      213: 5062832007833317525
+    second: GeckoP2_21
+  - first:
+      213: -4791160571846876809
+    second: GeckoP2_22
+  - first:
+      213: -1490619424301160770
+    second: GeckoP2_23
+  - first:
+      213: 5465108463052038969
+    second: GeckoP2_24
+  - first:
+      213: 6940247438912687333
+    second: GeckoP2_25
+  - first:
+      213: 1647352074421699655
+    second: GeckoP2_26
+  - first:
+      213: 8237514462090648215
+    second: GeckoP2_27
+  - first:
+      213: 8540033467690711809
+    second: GeckoP2_28
+  - first:
+      213: 1972326463394337337
+    second: GeckoP2_29
+  - first:
+      213: -6907237384722133656
+    second: GeckoP2_30
+  - first:
+      213: -361512163591705500
+    second: GeckoP2_31
+  - first:
+      213: 3112278029156520316
+    second: GeckoP2_32
+  - first:
+      213: 6541015159344347335
+    second: GeckoP2_33
+  - first:
+      213: 3764305092731730873
+    second: GeckoP2_34
+  - first:
+      213: 2348592244667281248
+    second: GeckoP2_35
+  - first:
+      213: -2229792091401717569
+    second: GeckoP2_36
+  - first:
+      213: -2785983110625319894
+    second: GeckoP2_37
+  - first:
+      213: -5700140841134009261
+    second: GeckoP2_38
+  - first:
+      213: 3004993839971751637
+    second: GeckoP2_39
+  - first:
+      213: 8236743951329032608
+    second: GeckoP2_40
+  - first:
+      213: 3119937564011427676
+    second: GeckoP2_41
+  - first:
+      213: -1505247338979766494
+    second: GeckoP2_42
+  - first:
+      213: 6863918675072652890
+    second: GeckoP2_43
+  - first:
+      213: 682258740975138903
+    second: GeckoP2_44
+  - first:
+      213: 731780817025615556
+    second: GeckoP2_45
+  - first:
+      213: 3969104865220069623
+    second: GeckoP2_46
+  - first:
+      213: -1093145124851095509
+    second: GeckoP2_47
+  - first:
+      213: 4831250180967520823
+    second: GeckoP2_48
+  - first:
+      213: -2534398949448220940
+    second: GeckoP2_49
+  - first:
+      213: 5323669070986986919
+    second: GeckoP2_50
+  - first:
+      213: -7415234893416545553
+    second: GeckoP2_51
+  - first:
+      213: -2617250203188123645
+    second: GeckoP2_52
+  - first:
+      213: -6189836522603130617
+    second: GeckoP2_53
+  - first:
+      213: -1423844890947670058
+    second: GeckoP2_54
+  - first:
+      213: 1691251346169320927
+    second: GeckoP2_55
+  - first:
+      213: -6798953138537595974
+    second: GeckoP2_56
+  - first:
+      213: 536924283741332361
+    second: GeckoP2_57
+  - first:
+      213: -6211837431781765386
+    second: GeckoP2_58
+  - first:
+      213: -5141171102248983261
+    second: GeckoP2_59
+  - first:
+      213: -7739531319682299802
+    second: GeckoP2_60
+  - first:
+      213: -826873935147438510
+    second: GeckoP2_61
+  - first:
+      213: 2050360174340152571
+    second: GeckoP2_62
+  - first:
+      213: 5467801600924271491
+    second: GeckoP2_63
+  - first:
+      213: 5141145413489769218
+    second: GeckoP2_64
+  - first:
+      213: -3400612933248405752
+    second: GeckoP2_65
+  - first:
+      213: -6123988138397039739
+    second: GeckoP2_66
+  - first:
+      213: 2843079309600954918
+    second: GeckoP2_67
+  - first:
+      213: 2876956984940872185
+    second: GeckoP2_68
+  - first:
+      213: 27605955206339407
+    second: GeckoP2_69
+  - first:
+      213: -979327087416625752
+    second: GeckoP2_70
+  - first:
+      213: 8039649553847494642
+    second: GeckoP2_71
+  - first:
+      213: 7327854528543429650
+    second: GeckoP2_72
+  - first:
+      213: 8262396476948963076
+    second: GeckoP2_73
+  - first:
+      213: -2551053325211240536
+    second: GeckoP2_74
+  - first:
+      213: -1093521053039585261
+    second: GeckoP2_75
+  - first:
+      213: 633030658659981786
+    second: GeckoP2_76
+  - first:
+      213: -494798801896968988
+    second: GeckoP2_77
+  - first:
+      213: 1953318254317741890
+    second: GeckoP2_78
+  - first:
+      213: 737682638139274651
+    second: GeckoP2_79
+  - first:
+      213: -7246090246831855682
+    second: GeckoP2_80
+  - first:
+      213: 4806935532689428078
+    second: GeckoP2_81
+  - first:
+      213: -7322072993103348142
+    second: GeckoP2_82
+  - first:
+      213: 6871736662582308054
+    second: GeckoP2_83
+  - first:
+      213: 8329716093975401795
+    second: GeckoP2_84
+  - first:
+      213: -2657875691903823297
+    second: GeckoP2_85
+  - first:
+      213: -416965706388448370
+    second: GeckoP2_86
+  - first:
+      213: -7799038525741379759
+    second: GeckoP2_87
+  - first:
+      213: 3683825613368154944
+    second: GeckoP2_88
+  - first:
+      213: -4935203757571143126
+    second: GeckoP2_89
+  - first:
+      213: -6089204594521203231
+    second: GeckoP2_90
+  - first:
+      213: -4244085522348618616
+    second: GeckoP2_91
+  - first:
+      213: -8802431543846328576
+    second: GeckoP2_92
+  - first:
+      213: 2728188443892101998
+    second: GeckoP2_93
+  - first:
+      213: -8023811728243687930
+    second: GeckoP2_94
+  - first:
+      213: 6204056288965000797
+    second: GeckoP2_95
+  - first:
+      213: 2788764384152155549
+    second: GeckoP2_96
+  - first:
+      213: 918361830926578584
+    second: GeckoP2_97
+  - first:
+      213: -2956971533516770760
+    second: GeckoP2_98
+  - first:
+      213: 5259129141947357267
+    second: GeckoP2_99
+  - first:
+      213: -1990657165826676313
+    second: GeckoP2_100
+  - first:
+      213: -5638013677667694477
+    second: GeckoP2_101
+  - first:
+      213: 8309713102074573907
+    second: GeckoP2_102
+  - first:
+      213: -5302987175424956444
+    second: GeckoP2_103
+  - first:
+      213: -2608865201374326069
+    second: GeckoP2_104
+  - first:
+      213: -5004859093140523481
+    second: GeckoP2_105
+  - first:
+      213: 1984967837910525429
+    second: GeckoP2_106
+  - first:
+      213: -7049774181999026410
+    second: GeckoP2_107
+  - first:
+      213: -7547662668009323853
+    second: GeckoP2_108
+  - first:
+      213: -2126070009941574404
+    second: GeckoP2_109
+  - first:
+      213: 1068944798826712732
+    second: GeckoP2_110
+  - first:
+      213: 7704354146802035387
+    second: GeckoP2_111
+  - first:
+      213: -6716242593209530198
+    second: GeckoP2_112
+  - first:
+      213: -5669318503891280025
+    second: GeckoP2_113
+  - first:
+      213: 7670194096670478858
+    second: GeckoP2_114
+  - first:
+      213: 7996649353863047687
+    second: GeckoP2_115
+  - first:
+      213: -721707380064961741
+    second: GeckoP2_116
+  - first:
+      213: 6229178289024594291
+    second: GeckoP2_117
+  - first:
+      213: 3950794082219440977
+    second: GeckoP2_118
+  - first:
+      213: -3651248215371792823
+    second: GeckoP2_119
+  - first:
+      213: 3996860236414161705
+    second: GeckoP2_120
+  - first:
+      213: 2542581769581509037
+    second: GeckoP2_121
+  - first:
+      213: 5703307850716848272
+    second: GeckoP2_122
+  - first:
+      213: 6700756934657460292
+    second: GeckoP2_123
+  - first:
+      213: -5373311054617818291
+    second: GeckoP2_124
+  - first:
+      213: -6343874643467689060
+    second: GeckoP2_125
+  - first:
+      213: 2618872644717574079
+    second: GeckoP2_126
+  - first:
+      213: -4924952549022303958
+    second: GeckoP2_127
+  - first:
+      213: 8614935557820698434
+    second: GeckoP2_128
+  - first:
+      213: -8333896750821888359
+    second: GeckoP2_129
+  - first:
+      213: 8525657523125468320
+    second: GeckoP2_130
+  - first:
+      213: -2608315709278796175
+    second: GeckoP2_131
+  - first:
+      213: -4648439848422054375
+    second: GeckoP2_132
+  - first:
+      213: -7108261885606094885
+    second: GeckoP2_133
+  - first:
+      213: -7904877762027451672
+    second: GeckoP2_134
+  - first:
+      213: -8817961373725755803
+    second: GeckoP2_135
+  - first:
+      213: -2631381641040626157
+    second: GeckoP2_136
+  - first:
+      213: -5140564186745566505
+    second: GeckoP2_137
+  - first:
+      213: -4149732109024758690
+    second: GeckoP2_138
+  - first:
+      213: -6052133582583043004
+    second: GeckoP2_139
+  - first:
+      213: -7722982955209270087
+    second: GeckoP2_140
+  - first:
+      213: 473455280308461289
+    second: GeckoP2_141
+  - first:
+      213: -4639492777765600404
+    second: GeckoP2_142
+  - first:
+      213: -8331610270543035779
+    second: GeckoP2_143
+  - first:
+      213: 4651153872477105405
+    second: GeckoP2_144
+  - first:
+      213: -406304516238311084
+    second: GeckoP2_145
+  - first:
+      213: 1233396771581979448
+    second: GeckoP2_146
+  - first:
+      213: 4468952857144920943
+    second: GeckoP2_147
+  - first:
+      213: -1043453607464317005
+    second: GeckoP2_148
+  - first:
+      213: -1812576572344656606
+    second: GeckoP2_149
+  - first:
+      213: 3836441947689505972
+    second: GeckoP2_150
+  - first:
+      213: -5234211490813168788
+    second: GeckoP2_151
+  - first:
+      213: 1219382668263797772
+    second: GeckoP2_152
+  - first:
+      213: -1342725575997598769
+    second: GeckoP2_153
+  - first:
+      213: -2716068962429256210
+    second: GeckoP2_154
+  - first:
+      213: 1080732380793674693
+    second: GeckoP2_155
+  - first:
+      213: 4072223199706805031
+    second: GeckoP2_156
+  - first:
+      213: 9013799245783798405
+    second: GeckoP2_157
+  - first:
+      213: 4199595067162744145
+    second: GeckoP2_158
+  - first:
+      213: -5400250484478833142
+    second: GeckoP2_159
+  - first:
+      213: -7007915816278253587
+    second: GeckoP2_160
+  - first:
+      213: -8183039114650700553
+    second: GeckoP2_161
+  - first:
+      213: -630068619402566399
+    second: GeckoP2_162
+  - first:
+      213: -6537366695825933863
+    second: GeckoP2_163
+  - first:
+      213: 2218611343245157516
+    second: GeckoP2_164
+  - first:
+      213: -5120830371047791575
+    second: GeckoP2_165
+  - first:
+      213: 4958417841716872428
+    second: GeckoP2_166
+  - first:
+      213: -1797871123450214079
+    second: GeckoP2_167
+  - first:
+      213: -5174198420937426941
+    second: GeckoP2_168
+  - first:
+      213: 7567731725178318883
+    second: GeckoP2_169
+  - first:
+      213: 8258599275350676686
+    second: GeckoP2_170
+  - first:
+      213: -8518231843744354772
+    second: GeckoP2_171
+  - first:
+      213: 1528058456178368241
+    second: GeckoP2_172
+  - first:
+      213: 3477244664317407625
+    second: GeckoP2_173
+  - first:
+      213: -9009903235779180242
+    second: GeckoP2_174
+  - first:
+      213: -2658051345733498937
+    second: GeckoP2_175
+  - first:
+      213: -6747959902539997843
+    second: GeckoP2_176
+  - first:
+      213: -9085026983393295935
+    second: GeckoP2_177
+  - first:
+      213: 7605755230028322619
+    second: GeckoP2_178
+  - first:
+      213: -6001519609261938299
+    second: GeckoP2_179
+  - first:
+      213: 7816145519020025895
+    second: GeckoP2_180
+  - first:
+      213: -6664169510392979523
+    second: GeckoP2_181
+  - first:
+      213: 5474093477743270748
+    second: GeckoP2_182
+  - first:
+      213: 1505819554953704199
+    second: GeckoP2_183
+  - first:
+      213: -5393597050799910608
+    second: GeckoP2_184
+  - first:
+      213: -6353469059948623231
+    second: GeckoP2_185
+  - first:
+      213: 3517649749403189541
+    second: GeckoP2_186
+  - first:
+      213: 2336728510673853920
+    second: GeckoP2_187
+  - first:
+      213: -1069038894474809643
+    second: GeckoP2_188
+  - first:
+      213: 4589843440632781889
+    second: GeckoP2_189
+  - first:
+      213: 4778976929668889128
+    second: GeckoP2_190
+  - first:
+      213: -758701897089768563
+    second: GeckoP2_191
+  - first:
+      213: -3858222336714532853
+    second: GeckoP2_192
+  - first:
+      213: -5043636102807730564
+    second: GeckoP2_193
+  - first:
+      213: -3982977079964654606
+    second: GeckoP2_194
+  - first:
+      213: -525794698238773610
+    second: GeckoP2_195
+  - first:
+      213: -5639270831922536807
+    second: GeckoP2_196
+  - first:
+      213: 6104374556100521631
+    second: GeckoP2_197
+  - first:
+      213: -5287211579580603192
+    second: GeckoP2_198
+  - first:
+      213: -3187515669653488383
+    second: GeckoP2_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GeckoP2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ddbf1ccbc921f00800000000000000
+      internalID: 1086102794672004434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea52e741041f2810800000000000000
+      internalID: 1742633576549210856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad28a167f328d260800000000000000
+      internalID: 7122482356088745383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ce5cd8698a2420800000000000000
+      internalID: 2606046417854056637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d62e66dabb3e2ef0800000000000000
+      internalID: -131101665499666736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cbee14f9468fe10800000000000000
+      internalID: 2231644250530823261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606548450e2f540d0800000000000000
+      internalID: -3439075695122950650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430cd63c39acd750800000000000000
+      internalID: 6331121252259595086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c628275247c3090800000000000000
+      internalID: -8053434329461527420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd7054910a4d9090800000000000000
+      internalID: -8026177590260630069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab1bf5c3d6f9980800000000000000
+      internalID: -8529979063145481505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b404da6e0905afbd0800000000000000
+      internalID: -2595673651950043061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ecfff05dc3f8c0800000000000000
+      internalID: -3966601099007434578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc29dfcf0b8916130800000000000000
+      internalID: 3558293066525545167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687ce3c1b83fcb80800000000000000
+      internalID: -8372410846111041438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a250c80bf761dc0800000000000000
+      internalID: -3668604450206569888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8248c9ef5c7a650800000000000000
+      internalID: 6244177105710754020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8bddf2289bcf1f0800000000000000
+      internalID: -1009728247637886734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ded5118ff7729610800000000000000
+      internalID: 1626494354700230355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb699109a5d7c32a0800000000000000
+      internalID: -6756387513044461892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33192e58d07d47d50800000000000000
+      internalID: 6734243795906498867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f16813eac24640800000000000000
+      internalID: 5062832007833317525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771a53538d0628db0800000000000000
+      internalID: -4791160571846876809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66b3ff781405be0800000000000000
+      internalID: -1490619424301160770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933a2371137f7db40800000000000000
+      internalID: 5465108463052038969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec84b15646b05060800000000000000
+      internalID: 6940247438912687333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74488efcbf19cd610800000000000000
+      internalID: 1647352074421699655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a5e0152c7815270800000000000000
+      internalID: 8237514462090648215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf6ab113b448670800000000000000
+      internalID: 8540033467690711809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d8b7f77c1f5b10800000000000000
+      internalID: 1972326463394337337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc658d1309420a0800000000000000
+      internalID: -6907237384722133656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c22234a96abfaf0800000000000000
+      internalID: -361512163591705500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c719022c068013b20800000000000000
+      internalID: 3112278029156520316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c83a23b1aa56ca50800000000000000
+      internalID: 6541015159344347335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf776a98f7d3430800000000000000
+      internalID: 3764305092731730873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f61a10430e79020800000000000000
+      internalID: 2348592244667281248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8760528ef2e01e0800000000000000
+      internalID: -2229792091401717569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a0f42f133659d0800000000000000
+      internalID: -2785983110625319894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d28a0b1805e0b0800000000000000
+      internalID: -5700140841134009261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d0cfe9f1e3b920800000000000000
+      internalID: 3004993839971751637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a970dccbface4270800000000000000
+      internalID: 8236743951329032608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577c403fae3c4b20800000000000000
+      internalID: 3119937564011427676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f420535894c1be0800000000000000
+      internalID: -1505247338979766494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5610ea1ba9814f50800000000000000
+      internalID: 6863918675072652890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7587abcc5bed77900800000000000000
+      internalID: 682258740975138903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c144a6cec72a00800000000000000
+      internalID: 731780817025615556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f887bf78d7151730800000000000000
+      internalID: 3969104865220069623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28ec49fc4e54d0f0800000000000000
+      internalID: -1093145124851095509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5c99417c0c0340800000000000000
+      internalID: 4831250180967520823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef303559104dcd0800000000000000
+      internalID: -2534398949448220940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5c9e560d871e940800000000000000
+      internalID: 5323669070986986919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe243dbe62bc71990800000000000000
+      internalID: -7415234893416545553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30827a69ec8adabd0800000000000000
+      internalID: -2617250203188123645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70150845a78491aa0800000000000000
+      internalID: -6189836522603130617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2fc39d9c7d3ce0800000000000000
+      internalID: -1423844890947670058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d2528328887710800000000000000
+      internalID: 1691251346169320927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb70f4942445a1a0800000000000000
+      internalID: -6798953138537595974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_57
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983eea39ac9837700800000000000000
+      internalID: 536924283741332361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_58
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4c2c74ce1bc9a0800000000000000
+      internalID: -6211837431781765386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_59
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32522f02f14e6a8b0800000000000000
+      internalID: -5141171102248983261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66883524549a79490800000000000000
+      internalID: -7739531319682299802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee185798a5684f0800000000000000
+      internalID: -826873935147438510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc172d17b7547c10800000000000000
+      internalID: 2050360174340152571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383476d169881eb40800000000000000
+      internalID: 5467801600924271491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bbfadb384095740800000000000000
+      internalID: 5141145413489769218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f212fed889ec0d0800000000000000
+      internalID: -3400612933248405752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58383220c39330ba0800000000000000
+      internalID: -6123988138397039739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a170d9195a47720800000000000000
+      internalID: 2843079309600954918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_68
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ca7192210de720800000000000000
+      internalID: 2876956984940872185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_69
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b52c15873126000800000000000000
+      internalID: 27605955206339407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53d93e33bb862f0800000000000000
+      internalID: -979327087416625752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f725bf5ca2929f60800000000000000
+      internalID: 8039649553847494642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214919b7ed4c1b560800000000000000
+      internalID: 7327854528543429650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5bf9d1dde9a270800000000000000
+      internalID: 8262396476948963076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a774bb4486d89cd0800000000000000
+      internalID: -2551053325211240536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3181a2f556803d0f0800000000000000
+      internalID: -1093521053039585261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad91c55b70af8c800800000000000000
+      internalID: 633030658659981786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec64a97c1f1229f0800000000000000
+      internalID: -494798801896968988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24725e96a949b1b10800000000000000
+      internalID: 1953318254317741890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b3437376cc3a00800000000000000
+      internalID: 737682638139274651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb72a2bdf47b07b90800000000000000
+      internalID: -7246090246831855682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e0824166aa5b240800000000000000
+      internalID: 4806935532689428078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef7922865c26a90800000000000000
+      internalID: -7322072993103348142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc2f3b26105d5f50800000000000000
+      internalID: 6871736662582308054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345124d97a8199370800000000000000
+      internalID: 8329716093975401795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325de6e3245d1bd0800000000000000
+      internalID: -2657875691903823297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b523336e3a63af0800000000000000
+      internalID: -416965706388448370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f499b28cf34c390800000000000000
+      internalID: -7799038525741379759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_88
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5b4ba0e39f1330800000000000000
+      internalID: 3683825613368154944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_89
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8ccf8452a28bb0800000000000000
+      internalID: -4935203757571143126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed13eaeeacce7ba0800000000000000
+      internalID: -6089204594521203231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c480c14baf915c0800000000000000
+      internalID: -4244085522348618616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a85de52b77d580800000000000000
+      internalID: -8802431543846328576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b3866fe87cd520800000000000000
+      internalID: 2728188443892101998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efb61ceb1b5a090800000000000000
+      internalID: -8023811728243687930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7946035c391650800000000000000
+      internalID: 6204056288965000797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9576af8e6ea3b620800000000000000
+      internalID: 2788764384152155549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_97
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f7a3383daebc00800000000000000
+      internalID: 918361830926578584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_98
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8327ac59e0ab6f6d0800000000000000
+      internalID: -2956971533516770760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_99
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3585dad271e2cf840800000000000000
+      internalID: 5259129141947357267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a059cad3cf54e0800000000000000
+      internalID: -1990657165826676313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c2df7e60c1c1b0800000000000000
+      internalID: -5638013677667694477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35470922a08025370800000000000000
+      internalID: 8309713102074573907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7e758a2410866b0800000000000000
+      internalID: -5302987175424956444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc29435fbe27bcbd0800000000000000
+      internalID: -2608865201374326069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726b972fb2b2b8ab0800000000000000
+      internalID: -5004859093140523481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_106
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f56b355bb50c8b10800000000000000
+      internalID: 1984967837910525429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_107
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5a379bbb2a2e90800000000000000
+      internalID: -7049774181999026410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_108
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c3dceac0514790800000000000000
+      internalID: -7547662668009323853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_109
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc32d1279eae72e0800000000000000
+      internalID: -2126070009941574404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e419a81a7a5de00800000000000000
+      internalID: 1068944798826712732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba61ffe64d5bea60800000000000000
+      internalID: 7704354146802035387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8c56612fc1bc2a0800000000000000
+      internalID: -6716242593209530198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fd209abd88251b0800000000000000
+      internalID: -5669318503891280025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02975a74e0027a60800000000000000
+      internalID: 7670194096670478858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2d52283ec9fe60800000000000000
+      internalID: 7996649353863047687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b337b26fafbf5f0800000000000000
+      internalID: -721707380064961741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_117
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f2e776ac727650800000000000000
+      internalID: 6229178289024594291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb76b194a04d630800000000000000
+      internalID: 3950794082219440977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_119
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3cffd719245dc0800000000000000
+      internalID: -3651248215371792823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92399507533b77730800000000000000
+      internalID: 3996860236414161705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da93a44f5a0194320800000000000000
+      internalID: 2542581769581509037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090aca6d548362f40800000000000000
+      internalID: 5703307850716848272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4484e701eeeddfc50800000000000000
+      internalID: 6700756934657460292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b43d9901a2e65b0800000000000000
+      internalID: -5373311054617818291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9320808f9706f7a0800000000000000
+      internalID: -6343874643467689060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_126
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f0648bca185420800000000000000
+      internalID: 2618872644717574079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_127
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29fedb00cd07abb0800000000000000
+      internalID: -4924952549022303958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_128
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc8c6fe366e8770800000000000000
+      internalID: 8614935557820698434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_129
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eaa7c5f0d085c80800000000000000
+      internalID: -8333896750821888359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb78ea858315670800000000000000
+      internalID: 8525657523125468320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176cd5e8ea66dcbd0800000000000000
+      internalID: -2608315709278796175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916680b169c6d7fb0800000000000000
+      internalID: -4648439848422054375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7100ae9716a5d90800000000000000
+      internalID: -7108261885606094885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea0879ae8b3c4290800000000000000
+      internalID: -7904877762027451672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_135
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f5f3a9de40a580800000000000000
+      internalID: -8817961373725755803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_136
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef941d6547b7bd0800000000000000
+      internalID: -2631381641040626157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_137
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da8fe7ab1c09a8b0800000000000000
+      internalID: -5140564186745566505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_138
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54fb8012a03966c0800000000000000
+      internalID: -4149732109024758690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_139
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cecec7290820ca0800000000000000
+      internalID: -6052133582583043004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcda5c9be372d490800000000000000
+      internalID: -7722982955209270087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee91d7a11d029600800000000000000
+      internalID: 473455280308461289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638a4356e53d9fb0800000000000000
+      internalID: -4639492777765600404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7249490a9c206c80800000000000000
+      internalID: -8331610270543035779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_144
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc2eacddc73c8040800000000000000
+      internalID: 4651153872477105405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518af6f1348c5af0800000000000000
+      internalID: -406304516238311084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_146
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be14534d7ed1110800000000000000
+      internalID: 1233396771581979448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_147
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b071032f8e40e30800000000000000
+      internalID: 4468952857144920943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_148
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf4d73f878e481f0800000000000000
+      internalID: -1043453607464317005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_149
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d933df53f68d6e0800000000000000
+      internalID: -1812576572344656606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d07500a7cd3530800000000000000
+      internalID: 3836441947689505972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6330d291685c57b0800000000000000
+      internalID: -5234211490813168788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b123831e1ce010800000000000000
+      internalID: 1219382668263797772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3d4d3e33ead5de0800000000000000
+      internalID: -1342725575997598769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_154
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedb0f44ba59e4ad0800000000000000
+      internalID: -2716068962429256210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1876df588ffe00800000000000000
+      internalID: 1080732380793674693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_156
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f0a0bc61738830800000000000000
+      internalID: 4072223199706805031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_157
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58290a928a2771d70800000000000000
+      internalID: 9013799245783798405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_158
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d7b29675f74a30800000000000000
+      internalID: 4199595067162744145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_159
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e028ecbc47e05b0800000000000000
+      internalID: -5400250484478833142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def94e2d1b1eebe90800000000000000
+      internalID: -7007915816278253587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43e14e741007e80800000000000000
+      internalID: -8183039114650700553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a36ccdeb8147f0800000000000000
+      internalID: -630068619402566399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_163
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d973d860ab9645a0800000000000000
+      internalID: -6537366695825933863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a7c013471ace10800000000000000
+      internalID: 2218611343245157516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_165
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242aaaa8e72fe8b0800000000000000
+      internalID: -5120830371047791575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_166
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce44e7791c6dfc440800000000000000
+      internalID: 4958417841716872428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_167
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14941de1dbdac07e0800000000000000
+      internalID: -1797871123450214079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_168
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30833a243fd8138b0800000000000000
+      internalID: -5174198420937426941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_169
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32035b298ebf50960800000000000000
+      internalID: 7567731725178318883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45395f8407c9270800000000000000
+      internalID: 8258599275350676686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6237054929c980800000000000000
+      internalID: -8518231843744354772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1b84e111c43510800000000000000
+      internalID: 1528058456178368241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_173
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f2c55997a14030800000000000000
+      internalID: 3477244664317407625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_174
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294dba5eb466f280800000000000000
+      internalID: -9009903235779180242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_175
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74ece4264bc1bd0800000000000000
+      internalID: -2658051345733498937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_176
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d168a883e6a52a0800000000000000
+      internalID: -6747959902539997843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_177
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10108d7108be180800000000000000
+      internalID: -9085026983393295935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_178
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37586ea5121d8960800000000000000
+      internalID: 7605755230028322619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_179
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a66976b156bca0800000000000000
+      internalID: -6001519609261938299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72823f510f6887c60800000000000000
+      internalID: 7816145519020025895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf990a732d1483a0800000000000000
+      internalID: -6664169510392979523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9b28d303e7fb40800000000000000
+      internalID: 5474093477743270748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7033ad438eeb5e410800000000000000
+      internalID: 1505819554953704199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_184
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311a7d0f081625b0800000000000000
+      internalID: -5393597050799910608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_185
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac3565d81f3d7a0800000000000000
+      internalID: -6353469059948623231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_186
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214b6d4fc331d030800000000000000
+      internalID: 3517649749403189541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_187
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1e3f233abd6020800000000000000
+      internalID: 2336728510673853920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_188
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dea0cb1ac20a21f0800000000000000
+      internalID: -1069038894474809643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_189
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd29d8a4662bf30800000000000000
+      internalID: 4589843440632781889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a73ba8236525240800000000000000
+      internalID: 4778976929668889128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ac85f4ac8875f0800000000000000
+      internalID: -758701897089768563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0817abf937d47ac0800000000000000
+      internalID: -3858222336714532853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_193
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764fc3dfa7610ab0800000000000000
+      internalID: -5043636102807730564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_194
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32f20d27f99b8c0800000000000000
+      internalID: -3982977079964654606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_195
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b1baf18004b8f0800000000000000
+      internalID: -525794698238773610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_196
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e19077e094db1b0800000000000000
+      internalID: -5639270831922536807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_197
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eed40015817b450800000000000000
+      internalID: 6104374556100521631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_198
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c424cac41d00a6b0800000000000000
+      internalID: -5287211579580603192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeckoP2_199
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dff4af26ba3c3d0800000000000000
+      internalID: -3187515669653488383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GeckoP2_1: 1742633576549210856
+      GeckoP2_72: 7327854528543429650
+      GeckoP2_183: 1505819554953704199
+      GeckoP2_54: -1423844890947670058
+      GeckoP2_64: 5141145413489769218
+      GeckoP2_96: 2788764384152155549
+      GeckoP2_199: -3187515669653488383
+      GeckoP2_135: -8817961373725755803
+      GeckoP2_69: 27605955206339407
+      GeckoP2_133: -7108261885606094885
+      GeckoP2_88: 3683825613368154944
+      GeckoP2_21: 5062832007833317525
+      GeckoP2_181: -6664169510392979523
+      GeckoP2_170: 8258599275350676686
+      GeckoP2_92: -8802431543846328576
+      GeckoP2_50: 5323669070986986919
+      GeckoP2_65: -3400612933248405752
+      GeckoP2_123: 6700756934657460292
+      GeckoP2_9: -8026177590260630069
+      GeckoP2_137: -5140564186745566505
+      GeckoP2_62: 2050360174340152571
+      GeckoP2_144: 4651153872477105405
+      GeckoP2_55: 1691251346169320927
+      GeckoP2_83: 6871736662582308054
+      GeckoP2_7: 6331121252259595086
+      GeckoP2_168: -5174198420937426941
+      GeckoP2_53: -6189836522603130617
+      GeckoP2_115: 7996649353863047687
+      GeckoP2_46: 3969104865220069623
+      GeckoP2_165: -5120830371047791575
+      GeckoP2_89: -4935203757571143126
+      GeckoP2_122: 5703307850716848272
+      GeckoP2_13: 3558293066525545167
+      GeckoP2_95: 6204056288965000797
+      GeckoP2_184: -5393597050799910608
+      GeckoP2_36: -2229792091401717569
+      GeckoP2_86: -416965706388448370
+      GeckoP2_179: -6001519609261938299
+      GeckoP2_82: -7322072993103348142
+      GeckoP2_58: -6211837431781765386
+      GeckoP2_192: -3858222336714532853
+      GeckoP2_77: -494798801896968988
+      GeckoP2_109: -2126070009941574404
+      GeckoP2_149: -1812576572344656606
+      GeckoP2_5: 2231644250530823261
+      GeckoP2_112: -6716242593209530198
+      GeckoP2_189: 4589843440632781889
+      GeckoP2_188: -1069038894474809643
+      GeckoP2_143: -8331610270543035779
+      GeckoP2_106: 1984967837910525429
+      GeckoP2_38: -5700140841134009261
+      GeckoP2_116: -721707380064961741
+      GeckoP2_37: -2785983110625319894
+      GeckoP2_102: 8309713102074573907
+      GeckoP2_195: -525794698238773610
+      GeckoP2_178: 7605755230028322619
+      GeckoP2_11: -2595673651950043061
+      GeckoP2_93: 2728188443892101998
+      GeckoP2_108: -7547662668009323853
+      GeckoP2_158: 4199595067162744145
+      GeckoP2_90: -6089204594521203231
+      GeckoP2_146: 1233396771581979448
+      GeckoP2_70: -979327087416625752
+      GeckoP2_142: -4639492777765600404
+      GeckoP2_76: 633030658659981786
+      GeckoP2_125: -6343874643467689060
+      GeckoP2_119: -3651248215371792823
+      GeckoP2_101: -5638013677667694477
+      GeckoP2_190: 4778976929668889128
+      GeckoP2_79: 737682638139274651
+      GeckoP2_12: -3966601099007434578
+      GeckoP2_99: 5259129141947357267
+      GeckoP2_16: 6244177105710754020
+      GeckoP2_14: -8372410846111041438
+      GeckoP2_87: -7799038525741379759
+      GeckoP2_94: -8023811728243687930
+      GeckoP2_44: 682258740975138903
+      GeckoP2_163: -6537366695825933863
+      GeckoP2_51: -7415234893416545553
+      GeckoP2_167: -1797871123450214079
+      GeckoP2_17: -1009728247637886734
+      GeckoP2_100: -1990657165826676313
+      GeckoP2_130: 8525657523125468320
+      GeckoP2_98: -2956971533516770760
+      GeckoP2_161: -8183039114650700553
+      GeckoP2_140: -7722982955209270087
+      GeckoP2_196: -5639270831922536807
+      GeckoP2_164: 2218611343245157516
+      GeckoP2_49: -2534398949448220940
+      GeckoP2_134: -7904877762027451672
+      GeckoP2_171: -8518231843744354772
+      GeckoP2_10: -8529979063145481505
+      GeckoP2_61: -826873935147438510
+      GeckoP2_166: 4958417841716872428
+      GeckoP2_131: -2608315709278796175
+      GeckoP2_19: -6756387513044461892
+      GeckoP2_48: 4831250180967520823
+      GeckoP2_145: -406304516238311084
+      GeckoP2_126: 2618872644717574079
+      GeckoP2_132: -4648439848422054375
+      GeckoP2_3: 2606046417854056637
+      GeckoP2_56: -6798953138537595974
+      GeckoP2_6: -3439075695122950650
+      GeckoP2_120: 3996860236414161705
+      GeckoP2_78: 1953318254317741890
+      GeckoP2_20: 6734243795906498867
+      GeckoP2_194: -3982977079964654606
+      GeckoP2_84: 8329716093975401795
+      GeckoP2_117: 6229178289024594291
+      GeckoP2_110: 1068944798826712732
+      GeckoP2_174: -9009903235779180242
+      GeckoP2_193: -5043636102807730564
+      GeckoP2_97: 918361830926578584
+      GeckoP2_160: -7007915816278253587
+      GeckoP2_111: 7704354146802035387
+      GeckoP2_118: 3950794082219440977
+      GeckoP2_40: 8236743951329032608
+      GeckoP2_67: 2843079309600954918
+      GeckoP2_32: 3112278029156520316
+      GeckoP2_121: 2542581769581509037
+      GeckoP2_47: -1093145124851095509
+      GeckoP2_138: -4149732109024758690
+      GeckoP2_141: 473455280308461289
+      GeckoP2_0: 1086102794672004434
+      GeckoP2_162: -630068619402566399
+      GeckoP2_103: -5302987175424956444
+      GeckoP2_154: -2716068962429256210
+      GeckoP2_124: -5373311054617818291
+      GeckoP2_175: -2658051345733498937
+      GeckoP2_177: -9085026983393295935
+      GeckoP2_176: -6747959902539997843
+      GeckoP2_33: 6541015159344347335
+      GeckoP2_63: 5467801600924271491
+      GeckoP2_59: -5141171102248983261
+      GeckoP2_150: 3836441947689505972
+      GeckoP2_15: -3668604450206569888
+      GeckoP2_180: 7816145519020025895
+      GeckoP2_114: 7670194096670478858
+      GeckoP2_91: -4244085522348618616
+      GeckoP2_66: -6123988138397039739
+      GeckoP2_128: 8614935557820698434
+      GeckoP2_127: -4924952549022303958
+      GeckoP2_42: -1505247338979766494
+      GeckoP2_182: 5474093477743270748
+      GeckoP2_34: 3764305092731730873
+      GeckoP2_41: 3119937564011427676
+      GeckoP2_186: 3517649749403189541
+      GeckoP2_136: -2631381641040626157
+      GeckoP2_43: 6863918675072652890
+      GeckoP2_68: 2876956984940872185
+      GeckoP2_39: 3004993839971751637
+      GeckoP2_75: -1093521053039585261
+      GeckoP2_73: 8262396476948963076
+      GeckoP2_74: -2551053325211240536
+      GeckoP2_25: 6940247438912687333
+      GeckoP2_26: 1647352074421699655
+      GeckoP2_104: -2608865201374326069
+      GeckoP2_2: 7122482356088745383
+      GeckoP2_157: 9013799245783798405
+      GeckoP2_81: 4806935532689428078
+      GeckoP2_172: 1528058456178368241
+      GeckoP2_23: -1490619424301160770
+      GeckoP2_8: -8053434329461527420
+      GeckoP2_129: -8333896750821888359
+      GeckoP2_139: -6052133582583043004
+      GeckoP2_52: -2617250203188123645
+      GeckoP2_57: 536924283741332361
+      GeckoP2_27: 8237514462090648215
+      GeckoP2_28: 8540033467690711809
+      GeckoP2_198: -5287211579580603192
+      GeckoP2_60: -7739531319682299802
+      GeckoP2_113: -5669318503891280025
+      GeckoP2_173: 3477244664317407625
+      GeckoP2_80: -7246090246831855682
+      GeckoP2_105: -5004859093140523481
+      GeckoP2_197: 6104374556100521631
+      GeckoP2_187: 2336728510673853920
+      GeckoP2_4: -131101665499666736
+      GeckoP2_30: -6907237384722133656
+      GeckoP2_18: 1626494354700230355
+      GeckoP2_107: -7049774181999026410
+      GeckoP2_45: 731780817025615556
+      GeckoP2_85: -2657875691903823297
+      GeckoP2_191: -758701897089768563
+      GeckoP2_151: -5234211490813168788
+      GeckoP2_24: 5465108463052038969
+      GeckoP2_155: 1080732380793674693
+      GeckoP2_22: -4791160571846876809
+      GeckoP2_35: 2348592244667281248
+      GeckoP2_148: -1043453607464317005
+      GeckoP2_169: 7567731725178318883
+      GeckoP2_159: -5400250484478833142
+      GeckoP2_152: 1219382668263797772
+      GeckoP2_31: -361512163591705500
+      GeckoP2_147: 4468952857144920943
+      GeckoP2_185: -6353469059948623231
+      GeckoP2_156: 4072223199706805031
+      GeckoP2_29: 1972326463394337337
+      GeckoP2_153: -1342725575997598769
+      GeckoP2_71: 8039649553847494642
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

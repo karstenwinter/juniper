@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 3331146134cb48448afacd91231a64c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5588856548198922476
+    second: MadSpider_0
+  - first:
+      213: -6658208482652643176
+    second: MadSpider_1
+  - first:
+      213: 3760519779478267551
+    second: MadSpider_2
+  - first:
+      213: -4463494982030867765
+    second: MadSpider_3
+  - first:
+      213: -2079306223329095614
+    second: MadSpider_4
+  - first:
+      213: -8483285707453426698
+    second: MadSpider_5
+  - first:
+      213: -7712688139009617171
+    second: MadSpider_6
+  - first:
+      213: -1751722090867085959
+    second: MadSpider_7
+  - first:
+      213: 1490264117012002473
+    second: MadSpider_8
+  - first:
+      213: 1826472477543021726
+    second: MadSpider_9
+  - first:
+      213: -1538778040230337866
+    second: MadSpider_10
+  - first:
+      213: -1425045064267454740
+    second: MadSpider_11
+  - first:
+      213: -4915132484311888735
+    second: MadSpider_12
+  - first:
+      213: -4522470833807149237
+    second: MadSpider_13
+  - first:
+      213: -6586080925686441772
+    second: MadSpider_14
+  - first:
+      213: 2116488345573458636
+    second: MadSpider_15
+  - first:
+      213: -2181665181623416768
+    second: MadSpider_16
+  - first:
+      213: 7884026200626670220
+    second: MadSpider_17
+  - first:
+      213: -1374682021009668595
+    second: MadSpider_18
+  - first:
+      213: 8277842542614566322
+    second: MadSpider_19
+  - first:
+      213: 1793557892107638035
+    second: MadSpider_20
+  - first:
+      213: 496415171697990056
+    second: MadSpider_21
+  - first:
+      213: 3605275349756670814
+    second: MadSpider_22
+  - first:
+      213: 6987209253738932596
+    second: MadSpider_23
+  - first:
+      213: -2284653799386287016
+    second: MadSpider_24
+  - first:
+      213: -8229836153685080836
+    second: MadSpider_25
+  - first:
+      213: 743762901616205883
+    second: MadSpider_26
+  - first:
+      213: 1804717352866010285
+    second: MadSpider_27
+  - first:
+      213: 1573780198909020033
+    second: MadSpider_28
+  - first:
+      213: 12182609787671001
+    second: MadSpider_29
+  - first:
+      213: 6961475035531852649
+    second: MadSpider_30
+  - first:
+      213: -2565398981085784186
+    second: MadSpider_31
+  - first:
+      213: -6019273448532767641
+    second: MadSpider_32
+  - first:
+      213: 7638786404262637190
+    second: MadSpider_33
+  - first:
+      213: 3889202760604940081
+    second: MadSpider_34
+  - first:
+      213: 8212058107816698052
+    second: MadSpider_35
+  - first:
+      213: -4252481170737940914
+    second: MadSpider_36
+  - first:
+      213: 1633439135092530290
+    second: MadSpider_37
+  - first:
+      213: -1991418388829025602
+    second: MadSpider_38
+  - first:
+      213: 2906080432659166035
+    second: MadSpider_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MadSpider_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ccf794946072b0800000000000000
+      internalID: -5588856548198922476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902ff669aa4993a0800000000000000
+      internalID: -6658208482652643176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e1aab0dc003430800000000000000
+      internalID: 3760519779478267551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_3
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cf4366fa7e02c0800000000000000
+      internalID: -4463494982030867765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d53ba102d423e0800000000000000
+      internalID: -2079306223329095614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3171f6890554a80800000000000000
+      internalID: -8483285707453426698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de296fa400707f490800000000000000
+      internalID: -7712688139009617171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_7
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da9a41a02a0b7e0800000000000000
+      internalID: -1751722090867085959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f204915b7ea410800000000000000
+      internalID: 1490264117012002473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cbaff8a0fe85910800000000000000
+      internalID: 1826472477543021726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b226e3768925aae0800000000000000
+      internalID: -1538778040230337866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62a637019393ce0800000000000000
+      internalID: -1425045064267454740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4b980c01f9cbb0800000000000000
+      internalID: -4915132484311888735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473cdbdcb4fc31c0800000000000000
+      internalID: -4522470833807149237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8db7aea4a8994a0800000000000000
+      internalID: -6586080925686441772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MadSpider_15
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc20929cfe64f5d10800000000000000
+      internalID: 2116488345573458636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MadSpider_13: -4522470833807149237
+      MadSpider_9: 1826472477543021726
+      MadSpider_0: -5588856548198922476
+      MadSpider_8: 1490264117012002473
+      MadSpider_12: -4915132484311888735
+      MadSpider_5: -8483285707453426698
+      MadSpider_7: -1751722090867085959
+      MadSpider_11: -1425045064267454740
+      MadSpider_3: -4463494982030867765
+      MadSpider_1: -6658208482652643176
+      MadSpider_10: -1538778040230337866
+      MadSpider_15: 2116488345573458636
+      MadSpider_6: -7712688139009617171
+      MadSpider_4: -2079306223329095614
+      MadSpider_14: -6586080925686441772
+      MadSpider_2: 3760519779478267551
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 831cd86442d48014db1fede1edc626a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3825802268630255170
+    second: MoleGuy_0
+  - first:
+      213: -9089732610124654783
+    second: MoleGuy_1
+  - first:
+      213: 2141810070417265768
+    second: MoleGuy_2
+  - first:
+      213: 3295168693375039790
+    second: MoleGuy_3
+  - first:
+      213: -568278313200012417
+    second: MoleGuy_4
+  - first:
+      213: 1473768824395889457
+    second: MoleGuy_5
+  - first:
+      213: -6065489829279114671
+    second: MoleGuy_6
+  - first:
+      213: 3248202996652899245
+    second: MoleGuy_7
+  - first:
+      213: 2028617135723841365
+    second: MoleGuy_8
+  - first:
+      213: 4996382447984279491
+    second: MoleGuy_9
+  - first:
+      213: 3375826450472779663
+    second: MoleGuy_10
+  - first:
+      213: 1035941868627019530
+    second: MoleGuy_11
+  - first:
+      213: 6415442043459184142
+    second: MoleGuy_12
+  - first:
+      213: -8110574055285919458
+    second: MoleGuy_13
+  - first:
+      213: -6349042487572757059
+    second: MoleGuy_14
+  - first:
+      213: -8800371969027380711
+    second: MoleGuy_15
+  - first:
+      213: -5307467098889871165
+    second: MoleGuy_16
+  - first:
+      213: -6848864234721563227
+    second: MoleGuy_17
+  - first:
+      213: 6263938721311308511
+    second: MoleGuy_18
+  - first:
+      213: -7214504962346589312
+    second: MoleGuy_19
+  - first:
+      213: 8310181258660077595
+    second: MoleGuy_20
+  - first:
+      213: 102953212941048007
+    second: MoleGuy_21
+  - first:
+      213: -8541059089183541101
+    second: MoleGuy_22
+  - first:
+      213: -6643367171192392503
+    second: MoleGuy_23
+  - first:
+      213: -6613881114826370272
+    second: MoleGuy_24
+  - first:
+      213: -6255406883549707294
+    second: MoleGuy_25
+  - first:
+      213: 7683584193112215159
+    second: MoleGuy_26
+  - first:
+      213: -5864834341157269715
+    second: MoleGuy_27
+  - first:
+      213: -4479869262753117872
+    second: MoleGuy_28
+  - first:
+      213: 1581780227873470548
+    second: MoleGuy_29
+  - first:
+      213: -2445195384774154792
+    second: MoleGuy_30
+  - first:
+      213: -2232734525423769144
+    second: MoleGuy_31
+  - first:
+      213: -281045573228268983
+    second: MoleGuy_32
+  - first:
+      213: -331259471396561473
+    second: MoleGuy_33
+  - first:
+      213: -4109548220402903420
+    second: MoleGuy_34
+  - first:
+      213: 6503715939422530418
+    second: MoleGuy_35
+  - first:
+      213: 3622534934714213859
+    second: MoleGuy_36
+  - first:
+      213: -7859012970028171388
+    second: MoleGuy_37
+  - first:
+      213: -4855031705114105222
+    second: MoleGuy_38
+  - first:
+      213: 2000804407753287546
+    second: MoleGuy_39
+  - first:
+      213: -4819927101024829167
+    second: MoleGuy_40
+  - first:
+      213: 5723094810923163893
+    second: MoleGuy_41
+  - first:
+      213: -5757211601325446621
+    second: MoleGuy_42
+  - first:
+      213: 8692939504099118409
+    second: MoleGuy_43
+  - first:
+      213: 9073012115869281807
+    second: MoleGuy_44
+  - first:
+      213: 9127701814170091919
+    second: MoleGuy_45
+  - first:
+      213: -2110955562504610508
+    second: MoleGuy_46
+  - first:
+      213: 613255121563791816
+    second: MoleGuy_47
+  - first:
+      213: -1528207807143285361
+    second: MoleGuy_48
+  - first:
+      213: -3636505272008569082
+    second: MoleGuy_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoleGuy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460792b4eaf71530800000000000000
+      internalID: 3825802268630255170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475c3eb958cad180800000000000000
+      internalID: -9089732610124654783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864539749ec39bd10800000000000000
+      internalID: 2141810070417265768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e297b93d77acabd20800000000000000
+      internalID: 3295168693375039790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b72092e11d18f0800000000000000
+      internalID: -568278313200012417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b792bffe0e37410800000000000000
+      internalID: 1473768824395889457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad219f22d03dba0800000000000000
+      internalID: -6065489829279114671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabfadd6a6fe31d20800000000000000
+      internalID: 3248202996652899245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55707107988172c10800000000000000
+      internalID: 2028617135723841365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf791e4d57b65540800000000000000
+      internalID: 4996382447984279491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f3cc3554859de20800000000000000
+      internalID: 3375826450472779663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c77f04a7606e00800000000000000
+      internalID: 1035941868627019530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ad7d4c8a380950800000000000000
+      internalID: 6415442043459184142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11fe2e4ed3717f80800000000000000
+      internalID: -8110574055285919458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50d580f7ba3e7a0800000000000000
+      internalID: -6349042487572757059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a61de025cced580800000000000000
+      internalID: -8800371969027380711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a8913bc61856b0800000000000000
+      internalID: -5307467098889871165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_17
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad2b8ee342f3f0a0800000000000000
+      internalID: -6848864234721563227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_18
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda339a441bfde650800000000000000
+      internalID: 6263938721311308511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_19
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e909f5fde0eb90800000000000000
+      internalID: -7214504962346589312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ea8553d1b35370800000000000000
+      internalID: 8310181258660077595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c816d5d663cd6100800000000000000
+      internalID: 102953212941048007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398f797c200187980800000000000000
+      internalID: -8541059089183541101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f59081c40ec3a0800000000000000
+      internalID: -6643367171192392503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0231c1cfa26c634a0800000000000000
+      internalID: -6613881114826370272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38c7cf4945039a0800000000000000
+      internalID: -6255406883549707294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e82404d1391aa60800000000000000
+      internalID: 7683584193112215159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_27
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0fcc6d3ceb9ea0800000000000000
+      internalID: -5864834341157269715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_28
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c86114ae44d1c0800000000000000
+      internalID: -4479869262753117872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleGuy_29
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45872239cbc93f510800000000000000
+      internalID: 1581780227873470548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MoleGuy_24: -6613881114826370272
+      MoleGuy_22: -8541059089183541101
+      MoleGuy_20: 8310181258660077595
+      MoleGuy_9: 4996382447984279491
+      MoleGuy_0: 3825802268630255170
+      MoleGuy_6: -6065489829279114671
+      MoleGuy_21: 102953212941048007
+      MoleGuy_13: -8110574055285919458
+      MoleGuy_19: -7214504962346589312
+      MoleGuy_25: -6255406883549707294
+      MoleGuy_3: 3295168693375039790
+      MoleGuy_7: 3248202996652899245
+      MoleGuy_1: -9089732610124654783
+      MoleGuy_18: 6263938721311308511
+      MoleGuy_23: -6643367171192392503
+      MoleGuy_16: -5307467098889871165
+      MoleGuy_11: 1035941868627019530
+      MoleGuy_27: -5864834341157269715
+      MoleGuy_8: 2028617135723841365
+      MoleGuy_12: 6415442043459184142
+      MoleGuy_28: -4479869262753117872
+      MoleGuy_10: 3375826450472779663
+      MoleGuy_26: 7683584193112215159
+      MoleGuy_17: -6848864234721563227
+      MoleGuy_29: 1581780227873470548
+      MoleGuy_5: 1473768824395889457
+      MoleGuy_14: -6349042487572757059
+      MoleGuy_2: 2141810070417265768
+      MoleGuy_4: -568278313200012417
+      MoleGuy_15: -8800371969027380711
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

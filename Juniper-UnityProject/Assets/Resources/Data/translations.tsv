@@ -1,0 +1,254 @@
+key	helper (unused)	EN	DE	ES	RU	JA	zh-CN	"GOOGLETRANSLATE($C201;""EN"";D$1)"	
+#Input									
+Keyboard		Keyboard	Tastatur	Teclado	Клавиатура	キーボード	键盘使用		
+DualshockPC		Dualshock Gamepad	Dualshock Gamepad	Dualshock Gamepad	Dualshock Gamepad	デュアルショックPC	电脑系统		
+DualshockAndroid		Dualshock Gamepad	Dualshock Gamepad	Dualshock Gamepad	Dualshock Gamepad	デュアルショックアンドロイド	安卓系统		
+XBox		XBox Gamepad	XBox Gamepad	XBox Gamepad	XBox Gamepad	XBox Gamepad	XBox平台		
+Custom		Custom	Benutzerdefiniert	Personalizado	Обычай	カスタム	自定义		
+Touchpad		Touchpad	Touchpad	Touchpad	Touchpad	Touchpad	触控屏		
+#Menus									
+Title		<size=333>j</size>uniper's <size=333>p</size>ath	<size=333>j</size>uniper's <size=333>p</size>ath	<size=333>j</size>uniper's <size=333>p</size>ath	<size=333>j</size>uniper's <size=333>p</size>ath	<size=333>j</size>uniper's <size=333>p</size>ath	<size=333>j</size>uniper's <size=333>p</size>ath		
+StartGame		Start Game	Spiel starten	Comenzar	Начать игру	ゲームをスタート	开始游戏		
+Options		Options	Optionen	Opciones	Параметры	オプション	游戏选项		
+Community		Community	Community	Comunidad	Сообщество	コミュニティ	制作社区		
+Exit		Exit	Beenden	Salir	Выход	出口	退出界面		
+Profile		Profile	Profil	Perfil	Профиль	プロフィール	界面调整		
+Difficulty		Profile Difficulty	Profilschwierigkeit	Dificultad de esta partida	Профиль сложности	プロファイルの難しさ	调整作战难度		
+Language		Language	Sprache	Idioma	Язык	言語	使用语言		
+Input		Input	Eingabe	Entrada	Вход	入力	输入		
+Continue		Continue	Fortsetzen	Continuar	Продолжать	継続する	继续		
+Save		Save	Speichern	Guardar	Сохранить	セーブ	保存		
+Load		Load	Laden	Cargar Partida	Нагрузка	負荷	加载		
+ToTitle		To Title	Zum Titel	A la pantalla del título	К названию	題する	返回界面		
+SaveAndExit		Save and Exit	Speichern und Beenden	Guardar y a la pantalla del título	Сохранить & К названию	セーブ & 題する	保存 & 返回界面		
+First		First	Erstes	Primero	Первый	最初	第一项		
+Second		Second	Zweites	Segundo	Второй	第二に	第二项		
+Third		Third	Drittes	Tercero	В третьих	第三	第三项		
+Fourth		Fourth	Viertes	Cuatro	Четвертый	第4	第四项		
+Easy		Easy	Einfach	Fácil	Легкий	簡単	简单		
+Normal		Normal	Normal	Normal	Обычный	正常	普通		
+Hard		Hard	Schwierig	Difícil	Жесткий	ハード	艰难		
+Off		Off	Aus	Apagado	Выключенный	オフ	开启		
+On		On	An	Encendido	На	オン	关闭		
+No		No	Nein	No	Нет	番号	否		
+Yes		Yes	Ja	Sí	да	はい	是		
+Low		Low	Niedrig	Bajo	Низкий	低い	最低		
+Mid		Middle	Mitte	Medio	Середина	真ん中	中等		
+High		High	Hoch	Alto	Высокая	高い	较高		
+Back		Back	Zurück	Atrás	Назад	戻る	返回		
+Paused		Paused	Pause	Pausado	Пауза	一時停止しました	暂停		
+Sounds		Sounds	Geräusche	Sonidos	Звуки	聞こえない	声音		
+Music		Music	Musik	Música	Музыка	音楽	音乐		
+Extras		Extras	Extras	Extras	Экстрас	extr	附加功能		
+Delete		Delete selected profile	Ausgewähltes Profil löschen	Borrar datos de perfil seleccionado	Удалить выбранный профиль	選択したプロファイルを削除する	删除		
+Updates		Check for Updates	Auf Updates prüfen	Buscar actualizaciones	Проверить обновления	更新を確認する	更新		
+Credits		Credits	Mitwirkende	Créditos	Кредиты	クレジット	贡献者		
+Debug		Debug Mode	Entwicklermodus	Modo de depuración	Режим отладки	デバッグモード	调试		
+Achievements		Achievements	Erfolge	Logros	Достижения	業績	游戏成就		
+BinaryVersion		Binary version available:	Binäre Version verfügbar:	Versión binaria disponible:	Двоичная версия доступна:	利用可能なバイナリバージョン：	当前可用的游戏版本：		
+BinaryVersionUpToDate		Binary version is up to date	Die binäre Version ist auf dem neuesten Stand	La versión binaria está actualizada.	Двоичная версия актуальна	バイナリバージョンは最新のものです	当前游戏版本是最新的		
+BinaryVersionAvailable		New binary version available: {0}\nDo you want to download it?\nThis opens your browser with\n{1}	Neue Binär-Version verfügbar: {0}\nJetzt herunterladen?\nDies öffnet den Browser mit\n{1}	Nueva versión binaria disponible: {0}\n¿Quieres descargarlo?\nAbre tu navegador con\n{1}	Доступна новая бинарная версия: {0} \n Вы хотите загрузить его? \n открывает ваш браузер с \n {1}	利用可能な新しいバイナリバージョン：{0} \nあなたはそれをダウンロードしたいですか？\n\n {1}であなたのブラウザを開きます	新的游戏版本可用：您要下载吗？{0}\n这将打开您的浏览器\n{1}		
+SymbolOf		{0} is a symbol of {1}, literal translation being {2}	{0} ist ein Symbol für {1}, wörtlich übersetzt {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}		
+Incomplete		Word incomplete	Unvollständiges Runenwort	TODO Word incomplete	TODO Word incomplete	TODO Word incomplete	TODO Word incomplete		
+IntroText		I tell of Giants from times forgotten.\nThose who fed me in former days:\nNine worlds I can reckon, nine roots of the Tree.\nThe wonderful Ash, way under the ground\n\n- Voluspa (Prophecy of the seeress)	Von Riesen erzähle ich aus vergessenen Zeiten.\nDie mich früher nährten:\nNeun Welten waren es, neun Wurzeln des Baumes.\nDie wundervolle Esche, weit unter der Erde\n\n- Voluspa (Prophezeiung der Seherin)	Hablo de Gigantes de tiempos olvidados. \n Aquellos que me alimentaron en tiempos pasados: \n Nueve mundos que puedo contar, nueve raíces del Árbol. \n La maravillosa Ceniza, bajo la tierra \n \n- Voluspa (Profecía de la vidente)	Я рассказываю о гигантах из забытых времен. \n Те, кто кормил меня в прежние дни: \n Девять миров, которые я могу насчитать, девять корней Древа. \n Чудесный Ясень, лежащий под землей \n \n- Волуспа (Пророчество провидицы)	私は忘れられていた時代から巨人について話します。\n昔私を養った人々：\n私が数えることができる9つの世界、木の9つの根。\n地下にある素晴らしい灰\n \n-巫女の予言（予言） 予言の）	我讲述了被这个时代遗忘的巨人。\n  和昔日养我成长的人：\n  我能知道这九个世界，九棵树的根。\n  奇妙的灰烬，埋在了地下\n\n  - Voluspa（女先知者的预言）		
+#Team									
+CreditLines		A Game by Karsten Winter \n  Sound Design: Christoph Schröder \n \n Thanks to: Adrian Acostantinesei ”MouseDefect”, Enrique DortaPérez, RT1_JMJS(极悦韵衡), Kevin MacLeod, James Stratton-Crawley ”runeshapes.com”	Ein Spiel von Karsten Winter \n Sound Design: Christoph Schröder \n \n Danke an: Adrian Acostantinesei ”MouseDefect”, Enrique DortaPérez, RT1_JMJS(极悦韵衡), Kevin MacLeod, James Stratton-Crawley ”runeshapes.com”	"Un juego de Karsten Winter \n Diseño de sonido: Christoph Schröder \n Gracias a Adrian Acostantinesei ”MouseDefect"", Enrique DortaPérez, RT1_JMJS(极悦韵衡), Kevin MacLeod, James Stratton-Crawley ”runeshapes.com” y otros"	Игра Karsten Winter \n \n Sound Design: Christoph Schröder \n \n и другие: Adrian Acostantinesei ”MouseDefect”, Enrique DortaPérez, RT1_JMJS(极悦韵衡), Kevin MacLeod, James Stratton-Crawley ”runeshapes.com”	Karsten Winter \n \n Sound Design：ChristophSchröder\n \n 追加の感謝: Adrian Acostantinesei ”MouseDefect”, Enrique DortaPérez, RT1_JMJS(极悦韵衡), Kevin MacLeod, James Stratton-Crawley ”runeshapes.com” など	游戏作者：Karsten Winter(卡斯滕冬天)\n\n音效设计：Christoph Schröder(克里斯托弗·施罗德)\n\n谢谢: Adrian Acostantinesei ”MouseDefect”, Enrique DortaPérez, RT1_JMJS(极悦韵衡), Kevin MacLeod, James Stratton-Crawley ”runeshapes.com”		
+SyncedServer		Found Server, found entries	Server gefunden, Einträge	Servidor encontrado, entradas	Найденный сервер, найден записи	サーバー、エントリが見つかりました	找到服务器，找到条目		
+Offline		Server not available	Server nicht verfügbar	Servidor no disponible	Сервер недоступен	サーバーが利用できません	当前服务器不可用		
+SyncProgress		Sync Progress	Synchronisierungs-Fortschritt	Sincronizar progreso	Синхронизация прогресса	同期の進行状況	同步进度		
+SyncingServer		Syncing with Server...	Synchronisierung mit Server ...	Sincronización con el servidor ...	Синхронизация с сервером ...	サーバーとの同期	正在与服务器同步...		
+SyncedEverything		Synced everything!	Alles synchronisiert!	Todo ha sido sincronizado!	Синхронизировано все!	すべてを同期しました！	同步全部数据！		
+Error		Error: 	Fehler:	Error:	Ошибка:	エラー：	错误报告：		
+#Upgrades Btn									
+Map		Map	Karte	Mapa	карта	地図	地图		
+Menu		Menu	Menü	Menú	Меню	献立	菜单		
+Heal		Heal	Heilen	Sanar	Лечить	癒し	愈合		
+Hit		Hit	Schlag	Pegar	слэш	打つ	打		
+Jump		Jump	Sprung	Saltar	хмель	跳ぶ	跳		
+Dash		Dash	Sprint	Pizca	порыв	切れる	短跑		
+#Upgrades									
+Needle		Needle	Nadel	Aguijón	Иголка	針	针		
+Dash		Dash	Sprint	Sprint	Бросаться	ダッシュ	冲刺		
+DashInfo		Dash to gain speed	Sprinte, um Geschwindigkeit zu gewinnen	Ejecutar un Sprint con gran velocidad	Dash, используя k, чтобы получить скорость	kを使用して速度を得ることを使用してダッシュ	使用按键： K 冲刺以获得速度		
+AttackInfo		Hit using J, and to Repel from the ground, hold direction down	Hit mit j, und aus dem Boden abstoßen, hält die Richtung nach unten	Ataca usando J, rebota desde el suelo, atacando mientras apuntas hacia abajo.	Нажмите, используя j и отталкивать с земли, удерживайте направление вниз	Jを使ってヒットし、地面から撥こする、方向を下げます	使用按键： J 击中，并从地面跳跃，按住方向键		
+MoveInfo		You can climb by pressing forward or up.	Sie können klettern, indem Sie nach vorne oder oben drücken.	Puedes escalar presionando hacia adelante o hacia arriba.	Вы можете подняться, нажав вперед или вверх.	あなたは前方または上に押すことによって登ることができます。	您可以通过向前或向上按来攀爬。		
+HealInfo		Heal using L to regain health if you have mana	Heilen Sie mit l, um die Gesundheit wieder zu erlangen, wenn Sie Mana haben	Curar usando l para recuperar la salud si tiene maná.	Исцелить, используя l, чтобы восстановить здоровье, если у вас есть мана	あなたがマナを持っていれば、Lを使ってHealを使って治癒する	如果你有法力，使用按键： L 来恢复生命值		
+ThanksForPlaying		Thanks for playing :D	Danke für das Spielen: D	Gracias por jugar :D	Спасибо за игру: D	遊んでくれてありがとう：D.	谢谢你玩这款游戏:D		
+DidYouGetAll		Under Construction. Did you get all collectables?	Im Bau. Hast du alle Sammlungen bekommen?	En progreso. ¿Conseguiste todo los coleccionables?	В разработке. Вы получили все коллекционилы?	工事中。あなたはすべてのコレクターを手に入れましたか？	前方的区域正在施工中。 收集到所有收藏品了吗？		
+InputScheme		Gamepad\t\tControl\t\tKeyboard\n\tX/A\t\t\t\t\tJump\t\t\tSpace\n\t[]/X\t\t\t\t\tAttack\t\tJ\n\tO/B\t\t\t\t\tHeal\t\t\tL\n\tRT/RB\t\t\t\tDash\t\t\tK\n\tLB\t\t\t\t\tMap\t\t\t\tM\n\tOptions\t\t\tMenu\t\t\tEsc\n\tDPad\t\t\t\tMovement\tWASD\n\t<size=14>or Analog Pad</size>	Gamepad\t\tSteuerung\t\tKeyboard\n\tX/A\t\t\t\t\tSpringen\t\tLeertaste\n\t[]/X\t\t\t\t\tAngriff\t\t\tJ\n\tO/B\t\t\t\t\tHeilen\t\t\t\tL\n\tRT/RB\t\t\t\tSprinten\t\t\tK\n\tLB\t\t\t\t\tKarte\t\t\t\tM\n\tOptionen\t\tMenu\t\t\t\tEsc\n\tDPad\t\t\t\tBewegung\tWASD\n\t<size=14>oder Analog Pad</size>	Gamepad\t\tControl\t\tKeyboard\n\tX/A\t\t\t\t\tJump\t\t\tSpace\n\t[]/X\t\t\t\t\tAttack\t\tJ\n\tO/B\t\t\t\t\tHeal\t\t\tL\n\tRT/RB\t\t\t\tDash\t\t\tK\n\tLB\t\t\t\t\tMap\t\t\t\tM\n\tOptions\t\t\tMenu\t\t\tEsc\n\tDPad\t\t\t\tMovement\tWASD\n\t<size=14>or Analog Pad</size>	Gamepad\t\tControl\t\tKeyboard\n\tX/A\t\t\t\t\tJump\t\t\tSpace\n\t[]/X\t\t\t\t\tAttack\t\tJ\n\tO/B\t\t\t\t\tHeal\t\t\tL\n\tRT/RB\t\t\t\tDash\t\t\tK\n\tLB\t\t\t\t\tMap\t\t\t\tM\n\tOptions\t\t\tMenu\t\t\tEsc\n\tDPad\t\t\t\tMovement\tWASD\n\t<size=14>or Analog Pad</size>	Gamepad\t\tControl\t\tKeyboard\n\tX/A\t\t\t\t\tJump\t\t\tSpace\n\t[]/X\t\t\t\t\tAttack\t\tJ\n\tO/B\t\t\t\t\tHeal\t\t\tL\n\tRT/RB\t\t\t\tDash\t\t\tK\n\tLB\t\t\t\t\tMap\t\t\t\tM\n\tOptions\t\t\tMenu\t\t\tEsc\n\tDPad\t\t\t\tMovement\tWASD\n\t<size=14>or Analog Pad</size>	Gamepad\t\tControl\t\tKeyboard\n\tX/A\t\t\t\t\tJump\t\t\tSpace\n\t[]/X\t\t\t\t\tAttack\t\tJ\n\tO/B\t\t\t\t\tHeal\t\t\tL\n\tRT/RB\t\t\t\tDash\t\t\tK\n\tLB\t\t\t\t\tMap\t\t\t\tM\n\tOptions\t\t\tMenu\t\t\tEsc\n\tDPad\t\t\t\tMovement\tWASD\n\t<size=14>or Analog Pad</size>		
+CampRest		Rest	Ausruhen	Descanso	Остальные	アウスルエン	休息		
+#Areas							上洞		
+UpperCave		Upper Cave	Obere Höhle	Cueva superior	Верхняя пещера	上洞窟	上洞		
+WesternCave		Western Cave	Westliche Höhle	Cueva occidental	Западная пещера	墓地	西洞		
+NorthernCave		Northern Cave	Nördliche Höhle	Cueva del Norte	Северная пещера	洞窟	北洞		
+SouthernCave		Southern Cave	Südhöhle	Cueva del sur	Южная пещера	南洞窟	南洞		
+CrystalJunction		Crystal Junction	Kristallkreuz	Cruz de cristal	Crystal Cross.	クリスタルクロス	水晶交界处		
+Pit		Pit	Grube	Fosa	Яма	ピット	坑		
+WoodBox		Sewing box	Nähkästchen	Caja de coser	Швейная машинка	裁縫箱	针线盒		
+NeedleBox		Sewing box	Nähkästchen	Caja de coser	Швейная машинка	裁縫箱	针线盒		
+LowerCave		Lower Cave	Niedrigere Höhle	Cueva inferior	Нижняя пещера	下洞窟	下洞		
+WesternCave		Western Cave	Westliche Höhle	Cueva occidental	Западная пещера	墓地	西洞		
+Clock		Clock	Uhr	Reloj	Часы	時計	时钟		
+EasternCave		Eastern Cave	Östliche Höhle	Cueva Oeste	TODO Eastern Cave	TODO Eastern Cave	TODO Eastern Cave		
+#Lore									
+EggCracked		The egg cracked	Das Ei brach auf	El huevo se rompió	Яйцо треснуло	卵が割れた	蛋裂开了		
+GeckoHatched		And a gecko hatched	Und ein Gecko schlüpfte	Y un gecko nació	И геккон вылупился	そしてヤモリは孵化しました	一只小壁虎孵化了		
+LookedAround		he looked around	er sah sich um	miró a su alrededor	Он оглянулся	彼は周りを見回しました	它看了看周围		
+WasAlone		but he was alone	aber er war alleine	Pero él estaba solo	Но он был один	しかし彼は一人でした	但它是一只壁虎		
+JumpAndPogo		(Jump and slash down to pogo off spikes)	(Springe und schlage nach unten, um Stacheln zu überwinden)	(Saltar y cortar y rebotar de los peligros)	(Прыгай и ссушайте вниз, чтобы пого выключить шипы)	（スパイクの飛び出しとスラッシュ）	（跳跃并斜向移动以摆脱尖刺）		
+FeelsCold		It feels cold.	Es fühlt sich kalt an.	Se siente frío.	Это холодно.	寒さを感じます。			
+WhereIsTheWarmth		Where is the warmth from before?	Wo ist die Wärme von vorhin?	¿De dónde es el calor de antes?	Где тепло от раньше?	前から暖かさはどこにありますか？			
+WhereAreTheSounds		Where are the familiar sounds?	Wo sind die vertrauten Geräusche?	¿Dónde están los sonidos familiares?	Где знакомые звуки?	おなじみの音はどこにありますか？			
+ThereIsSomething		Hay algo...	Da ist etwas...	Hay algo...	Есть что-то...	そこに何かがある...			
+CallsMe		Me llama	Es ruft mich.	Me llama	Это называет меня.	それは私を呼び出します。			
+FeelPresence		I feel a presence.	Ich fühle eine Präsenz.	Siento una presencia.	Я чувствую присутствие.	私は存在感を感じます。			
+SlowlyWarmer		It's slowly becoming warmer.	Es wird langsam wärmer.	Se está calentando lentamente.	Это медленно становится теплее.	ゆっくりと暖かくなりつつあります。			
+MyLegsFeelStronger		My legs seem to feel stronger...	Meine Beine fühlen sich stärker an...	Mis piernas parecen sentirse más fuertes ...	Мои ноги, кажется, чувствуют себя сильнее ...	私の足は強く感じるようです...			
+WhatsThis		What's this?	Was ist das?	¿Qué es esto?	Что это?	これは何ですか？			
+LightDistance		A light in the distance.	Ein Licht in der Ferne.	Una luz en la distancia.	Свет на расстоянии.	遠くの光			
+HasGone		It has gone.	Es ist verschwunden.	Se ha ido.	Это ушло.	それは消えました。			
+ColdAgain		It feels cold again.	Es fühlt sich wieder kalt an.	Se siente frío de nuevo.	Это снова холодно.	それは再び寒さを感じます。			
+Presence		The presence...	Eine Präsenz...	La presencia...	Присутствие...	プレゼンス...			
+Familiar		Something familiar...	Etwas Bekanntes ...	Algo familiar ...	Что-то знакомое ...	おなじみの何か...			
+Needle		Needle	Nadel	Aguja	Иголка	針			
+YouDidIt		You did it, you defeated the Boss, thanks for playing, here are your stats: \n\nTime: {0}\nCollected: {1}\nPercentage: {2}\n\nShare it in the discord?	Du hast es geschafft und den Boss besiegt, danke für's Spielen, hier sind deine Statistiken: \n\nZeit: {0} \nEingesammelt: {1} \nVollständig: {2}%\n\nMöchtest du dein Ergebnis im Discord teilen?	Lo has conseguido, has derrotado al jefe; Gracias por jugar el juego. Puedes ver tus estadísticas y logros aquí: \n\nTiempo: {0} \nColeccionado: {1} \nPorcentaje: {2}\n\nCompatir tu récord en discord?	Вы сделали это, вы победили босса, спасибо за игру, вот ваша статистика: \n \ntime: {0} \ncollection: {1} \npercoldage: {2} \ n \ Nbrag О нем в раздоре?	あなたはそれをやった、あなたは上司を破った、遊んでくれてありがとう、ここにあなたの統計があります：\n \ntime：{0} \ncelterected：{1} \npercentage：{2} \n \n\nbragそれについて			
+#Enemies									
+MadSpider		A spider, enraged by poison	Ein Spinne, wütend mit Gift	Una araña, enfurecida por veneno.	Паук, разъяренный ядом	毒によって憤慨したクモ	一只蜘蛛，被毒气激怒		
+Bug		Cave resident	Cave Resident.	Residente de la cueva	Резидент пещеры	洞窟	洞穴居民		
+Bee		Stingy insect	Hängendes Insekt	Insecto tacaño	Стинго насекомое	汚い昆虫	小气虫		
+GuardianOfDepths		Protects the Crystal caves	Schützt die Kristallhöhlen	Protege las cuevas de cristal	Защищает кристаллические пещеры	水晶洞窟を保護します	保护水晶洞穴		
+SandWorm		Sand Cliffs worm	Sand Klippen Wurm	Acantilados de arena gusano	Песчаные скалы червя	砂の崖のワーム	沙崖蠕虫		
+Fish		Swims	Schwimmt	Nadar	Плавать	泳ぐ	游泳		
+Crawler		Crawls around small platforms	Krabbeln um kleine Plattformen	Se arrastra alrededor de las pequeñas plataformas	Ползет вокруг маленьких платформ	小型プラットフォームの周りのクロール	在小平台周围爬行		
+DarkEye		Dark Eye	Dunkles Auge	Ojo oscuro	Темный глаз	dark	黑眼圈		
+DarkCrawler		Dark Crawler	Dunkler Raupen	Crawler oscuro	Темный гусеничный	ダーククローラー	黑暗爬行者		
+MossMaw		Moss Maw	Mossmaul	Musgo maw	Moss Maw	苔のマウ	苔藓		
+CaveKeeper		Cave last boss	Cave letzte Chef.	Cueva el último jefe	Пещера последний босс	最後のボスを洞窟	洞穴最后的统领者(boss)		
+Crawling Spider		Crawling Spider	Krabbelnde Spinne	Araña rastrero	Ползание паука	クロールスパイダー	爬行蜘蛛		
+MossHornet		Moss Alcove resident, flies	Moos Alkove Resident, Fliegen	Residente de Moss Alcove, vuela	Житель Moss Alcove, мухи	Moss Alcove居住者、ハエ	苔藓壁龛居民，苍蝇		
+SewerRatling		Sewer Ratling	Kanalrating.	Corredor de alcantarillado	Расшивка канализации	下水道ラトリン	下水道雷特林		
+SewerRat		Sewer Rat	Kanalratte	Rata de alcantarilla	Канализационная крыса	下水道ラット	下水道老鼠		
+SewerFish		Sewer Fish	Abwasserfisch	Alcantarillado	Канализационная рыба	下水道の魚	下水道蚀鱼		#REF!
+#Items									#REF!
+FoxgloveHat		Something strange	Rätselhaftes Objekt	Something strange	Something strange	Something strange	毛地黄帽子		#REF!
+MossyCoin		Mossy Coin	Münze voller Moos	Moneda Musgosa	Мшистая монета	苔硬貨	苔藓硬币		#REF!
+Calculator		The Battery is missing...€*Booting up the modified calculator...€#T1	Der Akku fehlt ... € * Booten des modifizierten Rechner ... € # T1	Falta la batería ... € * Arrancando la calculadora modificada ... € # T1	Батарея отсутствует ... € * Загрузка модифицированного калькулятора ... € # T1	バッテリーがありません...€*修正計算機を起動しています...€＃T1	电池丢失...€*正在启动修改后的计算器...€#T1		
+Battery		Battery	Batterie	Batería	Батареи	バッテリー	电池		
+TheBoxCode		The Box Code	Der Kästchencode	El código caja	Кодовой код	ボックスコード	盒子代码		
+Gills		Gills	Gills	Gills	Жабры	鰓	鳃		
+Cloth		Cloth	Tuch	Tela	Ткань	布	布		
+Shell		Shell	Hülse	Cáscara	Оболочка	シェル	贝壳		
+Scrap		Scrap	Schrott	Chatarra	Лом	スクラップ	废料		
+SharpMetal		Sharp Metal	Scharfes Metall	Metal afilado	Острый металл	シャープメタル	锋利的金属		
+Lead		Lead	Das Blei	Dirigir	Вести	リード	带领		
+#Characters									
+FrogDialog		Hmm, where is my foxglove hat... \n\n Could you find it for me?	Hmm, where is my foxglove hat... \n\n Could you find it for me?	Hmm, where is my foxglove hat... \n\n Could you find it for me?	Hmm, where is my foxglove hat... \n\n Could you find it for me?	Hmm, where is my foxglove hat... \n\n Could you find it for me?	嗯，我的毛地黄帽子在哪里...€你能帮我找到它吗		
+TvDogDialog		(Computer voice:) Ruff, Woof, Arf Arf Woof...\n\n (Good heavens! I do believe that mayhap there be a charging device around here. How undignified!)	Arf	Arf	Arf	Arf	(Computer voice:) Ruff, Woof, Arf Arf Woof...\n\n (Good heavens! I do believe that mayhap there be a charging device around here. How undignified!)		
+FrogDialog2		Hmm, where is my foxglove hat...€Could you find it for me?€*You found it! Splendid!€*I will teach you my secret technique: Rock Smash.€*Use it wisely...	Hmm, wo ist mein Fingerhut-Hut ... € Könnten Sie es für mich finden? € * Sie haben es gefunden! Großartig! € * Ich werde Ihnen meine geheime Technik beibringen: Rock Smash. € * Verwenden Sie es weise ...	Hmm, ¿dónde está mi sombrero de Foxglove ... € podría encontrarlo para mí? * ¡Lo encontraste! ¡Splendid! € * Te enseñaré mi técnica secreta: Rock Smash. € * Úsalo sabiamente ...	Хм, где моя шляпа FoxGlove ... € Не могли бы вы найти это для меня? * Вы нашли это! Splendid! € * Я научу тебе свою секретную технику: Rock Smash. € * Используйте его мудро ...	うーん、私のFoxglove Hat ...€あなたは私のためにそれを見つけることができますか？*あなたはそれを見つけました！素晴らしい！€*私はあなたに私の秘密のテクニックを教えます：ロックスマッシュ。€*それを賢く使う...	Hmm, where is my foxglove hat...€Could you find it for me?€*You found it! Splendid!€*I will teach you my secret technique: Rock Smash.€*Use it wisely...		
+BeeHunter		What happened to my fellow bees...	Was ist mit meinen Bienenstöcken passiert?	Lo que le pasó a mis compañeros abejas ...	Что случилось с моими товарищами ...	私の仲間の蜂に何が起こったのか...	我的蜜蜂同胞怎么了...		
+CrystalHermit		Crystal Hermit	Kristalleinsiedler.	Ermitaño de cristal	Кристалл Эрмит	クリスタルエルミット	水晶隐士		
+MacGill		Blubb...€*Ah, you also have gills?	Blubb ... € * Ah, Sie haben auch Kiemen?	Blubb ... € * Ah, ¿también tienes Gills?	Blubb ... € * Ах, у тебя тоже есть Gills?	Blubb ...€*ああ、あなたもジルを持っていますか？	布拉布...€*啊，你也有鳃？		
+RootHermit		Root Hermit	Wurzeleinsiedler	Ermitaño de la raíz	Root eermit.	h h	根隐士		
+SandEater		Sand Eater	Sandesser	Comedor de arena	Песок едок	砂を食べる	食沙者		
+RootSage		Root Sage	Wurzel-Salbei	Sabio de raíz	Корневой мудрец	ルートセージ	根鼠尾草		
+#Riddles									
+AboveCamp		Avobechetamp Tiesalreasure	Üderherdöhle Schiegteinlatz	---	---	---			
+AboveCampSolution		Above the camp lies a treasure	Über der Höhle liegt ein Schatz	---	---	---			
+SeekLantern		5 3 3 |< |3 3 |-| 1 || |) '|' |-| 3 |_ 4 || '|' 3 |*, ||	---	---	---	---			
+SeekLanternSolution		Seek behind the lantern	---	---	---	---			
+BeFree		SMAE-RDR-UOYK-EES! EER-FEB! YLLANI-FEV-AEL!	MUART-NENI-EDEG-LOVREV! IE-RFI-ES! HCIL-DNE-HEG!	---	---	---			
+BeFreeSolution		Seek your dreams! Be free! Leave finally!	Verfolge deinen Traum! Sei frei! Geh endlich!	---	---	---			
+NothingLives		Nothing, everything, nothing... Lives, dies, remains... Eternally, once, forever...	---	---	---	---			
+NothingLivesSolution		Nothing lives eternally... Everything dies once... Nothing remains forever...	---	---	---	---			
+AnotherWill		EMOC... AN REHTO IWLL EVAEL... AN REHTO IWLL NUES... TEH LIFE ELCYC ITNOC	---	---	---	---			
+AnotherWillSolution		Another will come... Another will leave... The life cycle continues... 	---	---	---	---			
+ThinkFast		okc tes af knight	---	---	---	---			
+ThinkFastSolution		Think fast gecko	---	---	---	---			
+OnlyTheTrue		Only. go the right way. the. can. down true hero. not up. left. is. bottom.	---	---	---	---			
+OnlyTheTrueSolution		Only the ture hero can to the right way: down, not up.	---	---	---	---			
+Riddle1		Only. go the right way.\n the. can. down\n true hero. not up.\n left. is. bottom.\n	Only. go the right way.\n the. can. down\n true hero. not up.\n left. is. bottom.\n	Only. go the right way.\n the. can. down\n true hero. not up.\n left. is. bottom.\n	Only. go the right way.\n the. can. down\n true hero. not up.\n left. is. bottom.\n	Only. go the right way.\n the. can. down\n true hero. not up.\n left. is. bottom.\n			
+NPCClock		Hey traveller, I am really curious about this mechanism here. It seems to consist of movable parts, but time has left its marks and it's unusable now. Well, only serving as a spare part deposit.	Hey traveller, I am really curious about this mechanism here. It seems to consist of movable parts, but time has left its marks and it's unusable now. Well, only serving as a spare part deposit.	Hey traveller, I am really curious about this mechanism here. It seems to consist of movable parts, but time has left its marks and it's unusable now. Well, only serving as a spare part deposit.	Hey traveller, I am really curious about this mechanism here. It seems to consist of movable parts, but time has left its marks and it's unusable now. Well, only serving as a spare part deposit.	Hey traveller, I am really curious about this mechanism here. It seems to consist of movable parts, but time has left its marks and it's unusable now. Well, only serving as a spare part deposit.			
+NPCTelevision		Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.			
+NPCMAEntrance		Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.			
+NPCFEntrance		I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.			
+#RunesScreen									
+Trigger		Trigger	Auslöser	Trigger	Trigger	Trigger	Trigger		
+Effect		Effect	Effekt	Effect	Effect	Effect	Effect		
+Static		Static	Statisch	Static	Static	Static	Static		
+Available		Available	Verfügbar	Available	Available	Available	Available		
+Runes		Runes	Runen	Runes	Runes	Runes	Runes		
+SelectForDetails		Select a rune for details	Wähle eine Rune für Details aus	Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details		
+#Runes									
+name		name	Name	nombre	имя	名前	姓名		
+wealth		wealth	Reichtum	poder	богатство	富	财富		
+formation		formation	Formation	formación	формирование	形成	形成		
+conflict		conflict	Konflikt	conflicto	конфликт	対立	冲突		
+inspiration		inspiration	Inspiration	inspiración	вдохновение	インスピレーション	灵感		
+journey		journey	Reise	viaje	путешествие	旅	旅行		
+knowledge		knowledge	Wissen	conocimiento	знания	知識	知识		
+exchange		exchange	Austausch	intercambio	обмен	両替	交换		
+harmony		harmony	Harmonie	armonía	гармония	調和	和谐		
+crisis		crisis	Krise	crisis	кризис	危機	危机		
+necessity		necessity	Notwendigkeit	necesidad	необходимость	必要性	必要性		
+self		self	selbst	uno mismo	себя	自己	自己		
+patience		patience	Geduld	paciencia	терпение	忍耐	耐心		
+death		death	Tod	muerte	смерть	死	死亡		
+fate		fate	Schicksal	destino	судьба	運命	命运		
+protection		protection	Schutz	proteccion	защита	保護	保护		
+victory		victory	Sieg	victoria	победа	勝利	胜利		
+justice		justice	Justiz	justicia	справедливость	正義感	正义		
+healing		healing	Heilung	curación	выздоровление	ヒーリング	康复		
+partnership		partnership	Partnerschaft	camaradería	партнерство	パートナーシップ	合伙		
+humanity		humanity	Menschheit	humanidad	человечество	人類	人性		
+unity		unity	Einheit	unidad	единство	団結	统一		
+potential		potential	Potenzial	potencial	потенциал	潜在的	潜在的		
+enlightenment		enlightenment	Aufklärung	iluminación	просвещение	啓発	启示		
+inheritance		inheritance	Nachlass	herencia	наследование	継承	遗产		
+kattle		kattle	Rind	katla	рогатый	カル	牛		
+aurochs		aurochs	Auerochse	uro	Аурохи	オーロックス	野牛		
+giants		giants	Riese	gigantes	гиганты	巨人	巨人		
+god		god	Gott	Dios	Бог	神	上帝		
+ride		ride	Fahrt	paseo	поездка	乗る	骑		
+torch		torch	Fackel	antorcha	факел	松明	火炬		
+gift		gift	Geschenk	regalo	подарок	贈り物	礼物		
+joy		joy	Freude	alegría	радость	喜び	喜悦		
+hail		hail	Heil	Viva	град	雹	冰雹		
+need		need	Bedarf	necesitar	необходимость	必要	需要		
+ice		ice	Eis	hielo	лед	氷	冰		
+year		year	Jahr	año	год	年	年		
+yew		yew	Eibe	tejo	тис	イチイ	紅豆杉		
+(unknown)		(unknown)	(Unbekannt)	(desconocido)	(неизвестный)	（わからない）	（未知）		
+elk		elk	Elch	alce	лосья	エル			
+sun		sun	Sonne	sol	солнце	太陽	太阳		
+tyr		tyr	tyr	Tyr	тир	ティレ	TYR.		
+birch		birch	Birke	abedul	бирза	バーチ	桦木		
+horse		horse	Pferd	caballo	лошадь	うま	马		
+mankind		mankind	Menschheit	humanidad	человечество	人類	人类		
+lake		lake	See	lago	озеро	湖	湖		
+seed		seed	Samen	semilla	семя	シード	种子		
+day		day	Tag	día	день	日	日		
+homeland		homeland	Heimat	patria	родная страна	故郷	家园		
+#Runes									
+DropAnAdditionalShell		drop an additional shell when collecting one	Lassen Sie eine zusätzliche Muschel fallen, wenn Sie eine sammeln	Deja caer una cáscara adicional al recoger uno	Снимите дополнительную оболочку при сборе одного	1を集めるときに追加のシェルをドロップします	收集一个额外的壳牌		
+WhenYouKill2		When you kill 2 or more enemies,	Wenn Sie eine Gruppe von Feinden töten,	Cuando matas a 2 o más enemigos,	Когда вы убиваете 2 или более врагов,	2人以上の敵を殺すとき、	当你杀死2个或更多敌人时，		
+DealDamageEnemy		deal 1 damage to an enemy 	Füge einem Feind Schaden zu	lidiar 1 daño a un enemigo	иметь дело 1 ущерб врагу	敵に1ダメージを与えます	对敌人造成1伤害		
+WhenCastSpell		When you cast a spell, 	Wenn Sie einen Zauber wirken,	Cuando lanzas un hechizo,	Когда вы бросаете заклинание,	あなたが呪文を唱えるとき、	当你施放咒语时，		
+WhenYouEnter		When you enter a new area, 	Wenn Sie einen neuen Bereich eingeben,	Cuando entras en un área nueva,	Когда вы входите в новую область,	新しい地域を入力すると、	输入新区域时，		
+SecretsMarked		Secrets near you are marked	Geheimnisse in der Nähe von Ihnen sind markiert	Secretos cerca de ti están marcados	Секреты рядом с вами отмечены	あなたの近くの秘密はマークされています	您附近的秘密标记为		
+KillFasterTakeMoreDamage		Kill normal enemies with 2 hits, as long as you have not taken damage, damage taken x 3	Töte normale Feinde mit 2 Treffern, solange du keinen Schaden genommen hast, nimm dreifachen Schaden	Mata a los enemigos normales con 2 hits, siempre y cuando no haya tomado daño, daños tomados x 3	Убейте нормальных врагов с 2 хитами, если вы не нанесли урона, повреждение, взятое х 3	ダメージを受けていない限り、2ヒットで通常の敵を倒すと、X 3の損傷	用2个点击杀死正常敌人，只要你没有受到伤害，伤害X 3		
+GainMana		gain 1 mana	1 Mana gewinnen	ganar 1 maná	Получить 1 ману	1マナを得る	获得1法术		
+WhenGetHit		When you get hit by an enemy, 	Wenn Sie von einem Feind getroffen werden,	Cuando te golpean un enemigo,	Когда вы попадаете противником,	あなたが敵にぶつかったとき、	当你被敌人击中时，		
+WhenGetHitMagic		When you get hit by magic, 	Wenn Sie von Magie getroffen werden,	Cuando te golpean la magia,	Когда вы попадаете на магию,	魔法にぶつかったとき、	当你被魔法击中时，		
+SecretsEmitSound		Secrets emit a sound	Geheimnisse emittieren einen Ton	Los secretos emiten un sonido	Секреты испускают звук	秘密は音を放出します	秘密发出声音		
+ManaRegenerates		Mana regenerates continually only	Mana regeneriert über Zeit	Maná se regenera continuamente solo	Мана регенерирует постоянно только	マナは絶えず再生されます	仅限法力再生		
+WhenKillEnemy		When you kill an enemy, 	Wenn Sie einen Feind töten,	Cuando matas a un enemigo,	Когда вы убиваете врага,	あなたが敵を殺すとき、	当你杀死敌人时，		
+DodgeAttacksWithAttack		Dodge attacks if observing and attacking at the same time	Dodge-Angriffe, wenn Sie gleichzeitig beobachten und angreifen	Dodge ataques si observa y atacando al mismo tiempo.	Уклонение от атак при наблюдении и нападениями одновременно	観察と攻撃が同時に攻撃された場合の攻撃を攻撃する	如果在同一时间观察和攻击，躲闪攻击		
+WhenFlawlessVictory		When you flawlessly win a fight, 	Wenn Sie einwandfrei einen Kampf gewinnen,	Cuando ganas sin esfuerzo una pelea,	Когда вы безупречно выиграете бой,	あなたが完璧に戦いを勝ち取るとき、	当你完美地赢得战斗时，		
+DealDamage		deal .5 damage	Verursache Schaden	trato .5 daños	иметь дело. 5 урона	契約.5被害	交易.5伤害		
+HealDamage		you heal damage	Heile Schaden	Tu cura el daño	Вы исцеляете повреждение	あなたはダメージを癒します	你治愈了伤害		
+SporesHeal		Spores cause you to heal slowly	Sporen lassen Sie sich langsam heilen	Las esporas hacen que se cure lentamente	Споры, потому что вы лечите медленно	胞子はあなたにゆっくり癒します	孢子会导致你慢慢愈合		
+ReadLetters		You can read letters	Sie können Buchstaben lesen	Puedes leer cartas	Вы можете читать буквы	あなたは文字を読むことができます	你可以读字母		
+NeedleHitsDestroyProjectiles		Needle hits destroy Projectiles	Nadel-Treffer zerstören Projektile	Los éxitos de la aguja destruyen los proyectiles	Игольчатые хиты уничтожают снаряды	ニードルヒットは発射体を破壊します	针头击中摧毁射弹		
+EmitBurst		Emit a small burst	Erzeuge eine kleine Explosion	Emitir una pequeña ráfaga	Излучать небольшой взрыв	小さなバーストを発する	发出一个小爆裂		
+IlluminateSurroundings		Illuminates your surroundings	Beleuchtet Ihre Umgebung.	Ilumina su entorno	Освещает ваше окружение	あなたの周囲を点灯させる	照亮你的周围环境		
+EmitTemporalLight		emit a temporal light	erzeuge ein temporäres Licht	emitir una luz temporal	излучает временный свет	時間的な光を放出します	发出颞灯		

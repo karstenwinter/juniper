@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: e0410151d14ef934db0ab90b6a87241e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2800349490776271077
+    second: CrowBuddy_0
+  - first:
+      213: -6897581124640341776
+    second: CrowBuddy_1
+  - first:
+      213: -5357336374398969790
+    second: CrowBuddy_2
+  - first:
+      213: 5521667080325486248
+    second: CrowBuddy_3
+  - first:
+      213: 2188270061612851100
+    second: CrowBuddy_4
+  - first:
+      213: -8599297131479477025
+    second: CrowBuddy_5
+  - first:
+      213: 6479840297796559707
+    second: CrowBuddy_6
+  - first:
+      213: -9079718852331840338
+    second: CrowBuddy_7
+  - first:
+      213: 3223246896804218500
+    second: CrowBuddy_8
+  - first:
+      213: 6890565135455931582
+    second: CrowBuddy_9
+  - first:
+      213: -442910272151100785
+    second: CrowBuddy_10
+  - first:
+      213: 2392069703179098310
+    second: CrowBuddy_11
+  - first:
+      213: -3116159193914005494
+    second: CrowBuddy_12
+  - first:
+      213: -1910733897861859583
+    second: CrowBuddy_13
+  - first:
+      213: -2017090461525726160
+    second: CrowBuddy_14
+  - first:
+      213: -3433011961838383656
+    second: CrowBuddy_15
+  - first:
+      213: -2131715945054032158
+    second: CrowBuddy_16
+  - first:
+      213: -4910433149073468926
+    second: CrowBuddy_17
+  - first:
+      213: 1308647662172922125
+    second: CrowBuddy_18
+  - first:
+      213: 6446203117732829037
+    second: CrowBuddy_19
+  - first:
+      213: 6407085043947266910
+    second: CrowBuddy_20
+  - first:
+      213: -2478495777207742758
+    second: CrowBuddy_21
+  - first:
+      213: 8990228572190113343
+    second: CrowBuddy_22
+  - first:
+      213: 7275049955073457681
+    second: CrowBuddy_23
+  - first:
+      213: -2201521478957933032
+    second: CrowBuddy_24
+  - first:
+      213: -6371703546992751467
+    second: CrowBuddy_25
+  - first:
+      213: -8469917900076431844
+    second: CrowBuddy_26
+  - first:
+      213: -6579985705610485913
+    second: CrowBuddy_27
+  - first:
+      213: -83533209440250822
+    second: CrowBuddy_28
+  - first:
+      213: 5859650368380365724
+    second: CrowBuddy_29
+  - first:
+      213: -1674534205864627549
+    second: CrowBuddy_30
+  - first:
+      213: -3067392443889641290
+    second: CrowBuddy_31
+  - first:
+      213: -5350574528230635496
+    second: CrowBuddy_32
+  - first:
+      213: -767295997183084094
+    second: CrowBuddy_33
+  - first:
+      213: -5938496137456811667
+    second: CrowBuddy_34
+  - first:
+      213: 664732839601700724
+    second: CrowBuddy_35
+  - first:
+      213: 6174713806011944310
+    second: CrowBuddy_36
+  - first:
+      213: 2178046517216628207
+    second: CrowBuddy_37
+  - first:
+      213: 8637873582472715269
+    second: CrowBuddy_38
+  - first:
+      213: -7386593227123699
+    second: CrowBuddy_39
+  - first:
+      213: -6590939145897167819
+    second: CrowBuddy_40
+  - first:
+      213: 674952695952972497
+    second: CrowBuddy_41
+  - first:
+      213: -1363777021014386749
+    second: CrowBuddy_42
+  - first:
+      213: 3902000630223688214
+    second: CrowBuddy_43
+  - first:
+      213: 4340238988522037977
+    second: CrowBuddy_44
+  - first:
+      213: -297537708247983521
+    second: CrowBuddy_45
+  - first:
+      213: -2755826627800805264
+    second: CrowBuddy_46
+  - first:
+      213: 3200868623974502776
+    second: CrowBuddy_47
+  - first:
+      213: 4042022905391385429
+    second: CrowBuddy_48
+  - first:
+      213: 49367974379265756
+    second: CrowBuddy_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrowBuddy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e86aa46607dcd620800000000000000
+      internalID: 2800349490776271077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f08f58138ed640a0800000000000000
+      internalID: -6897581124640341776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489bada3fae6a5b0800000000000000
+      internalID: -5357336374398969790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6d4ca54f6e0ac40800000000000000
+      internalID: 5521667080325486248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5e0fe60c4e5e10800000000000000
+      internalID: 2188270061612851100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45128e1d829a880800000000000000
+      internalID: -8599297131479477025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ec6f4b640de950800000000000000
+      internalID: 6479840297796559707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd75a6fcb5ef180800000000000000
+      internalID: -9079718852331840338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864563a9f54bbc20800000000000000
+      internalID: 3223246896804218500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcca80ab7430af50800000000000000
+      internalID: 6890565135455931582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ef0144777ad9f0800000000000000
+      internalID: -442910272151100785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d6f7a8b6523120800000000000000
+      internalID: 2392069703179098310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08203729bd21c4d0800000000000000
+      internalID: -3116159193914005494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10775a5b4a5bb75e0800000000000000
+      internalID: -1910733897861859583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2ee889ead104e0800000000000000
+      internalID: -2017090461525726160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc4f04fcd7b50d0800000000000000
+      internalID: -3433011961838383656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eea40d64af9a62e0800000000000000
+      internalID: -2131715945054032158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2025c284113aadbb0800000000000000
+      internalID: -4910433149073468926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0166ff7d10492210800000000000000
+      internalID: 1308647662172922125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671b760593857950800000000000000
+      internalID: 6446203117732829037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e13ab6e98ae850800000000000000
+      internalID: 6407085043947266910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0a36e83d9a9dd0800000000000000
+      internalID: -2478495777207742758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e75fe0145b3cc70800000000000000
+      internalID: 8990228572190113343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eff57a36b26f460800000000000000
+      internalID: 7275049955073457681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed15901ef9271e0800000000000000
+      internalID: -2201521478957933032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c866bf1692397a0800000000000000
+      internalID: -6371703546992751467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c831ab8ec47a80800000000000000
+      internalID: -8469917900076431844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f50fdecd13fa4a0800000000000000
+      internalID: -6579985705610485913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349d541dfa37def0800000000000000
+      internalID: -83533209440250822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6c4bd6f8a15150800000000000000
+      internalID: 5859650368380365724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b237030cd2c8e0800000000000000
+      internalID: -1674534205864627549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89d33f2de6e65d0800000000000000
+      internalID: -3067392443889641290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184f8ca0d0feb5b0800000000000000
+      internalID: -5350574528230635496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b25a1b540a55f0800000000000000
+      internalID: -767295997183084094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618bdaf939369da0800000000000000
+      internalID: -5938496137456811667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ffef6eefa993900800000000000000
+      internalID: 664732839601700724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dca05dd7df0b550800000000000000
+      internalID: 6174713806011944310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed49f284c9f93e10800000000000000
+      internalID: 2178046517216628207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c54020244efd770800000000000000
+      internalID: 8637873582472715269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d89ebee1c5eff0800000000000000
+      internalID: -7386593227123699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534359064c74884a0800000000000000
+      internalID: -6590939145897167819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da1872a6e9ed5900800000000000000
+      internalID: 674952695952972497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d8956604e21de0800000000000000
+      internalID: -1363777021014386749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61255d546e0b62630800000000000000
+      internalID: 3902000630223688214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2282f4d50ab3c30800000000000000
+      internalID: 4340238988522037977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a5890e70feedbf0800000000000000
+      internalID: -297537708247983521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070de53784651c9d0800000000000000
+      internalID: -2755826627800805264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87191b8fd05cb6c20800000000000000
+      internalID: 3200868623974502776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b88d9ba66281830800000000000000
+      internalID: 4042022905391385429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrowBuddy_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde182049e36fa000800000000000000
+      internalID: 49367974379265756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrowBuddy_7: -9079718852331840338
+      CrowBuddy_9: 6890565135455931582
+      CrowBuddy_25: -6371703546992751467
+      CrowBuddy_31: -3067392443889641290
+      CrowBuddy_13: -1910733897861859583
+      CrowBuddy_42: -1363777021014386749
+      CrowBuddy_16: -2131715945054032158
+      CrowBuddy_33: -767295997183084094
+      CrowBuddy_11: 2392069703179098310
+      CrowBuddy_26: -8469917900076431844
+      CrowBuddy_47: 3200868623974502776
+      CrowBuddy_1: -6897581124640341776
+      CrowBuddy_23: 7275049955073457681
+      CrowBuddy_14: -2017090461525726160
+      CrowBuddy_30: -1674534205864627549
+      CrowBuddy_0: 2800349490776271077
+      CrowBuddy_19: 6446203117732829037
+      CrowBuddy_45: -297537708247983521
+      CrowBuddy_12: -3116159193914005494
+      CrowBuddy_17: -4910433149073468926
+      CrowBuddy_8: 3223246896804218500
+      CrowBuddy_37: 2178046517216628207
+      CrowBuddy_39: -7386593227123699
+      CrowBuddy_43: 3902000630223688214
+      CrowBuddy_41: 674952695952972497
+      CrowBuddy_5: -8599297131479477025
+      CrowBuddy_48: 4042022905391385429
+      CrowBuddy_10: -442910272151100785
+      CrowBuddy_18: 1308647662172922125
+      CrowBuddy_3: 5521667080325486248
+      CrowBuddy_15: -3433011961838383656
+      CrowBuddy_46: -2755826627800805264
+      CrowBuddy_44: 4340238988522037977
+      CrowBuddy_2: -5357336374398969790
+      CrowBuddy_20: 6407085043947266910
+      CrowBuddy_28: -83533209440250822
+      CrowBuddy_21: -2478495777207742758
+      CrowBuddy_6: 6479840297796559707
+      CrowBuddy_22: 8990228572190113343
+      CrowBuddy_49: 49367974379265756
+      CrowBuddy_32: -5350574528230635496
+      CrowBuddy_4: 2188270061612851100
+      CrowBuddy_36: 6174713806011944310
+      CrowBuddy_40: -6590939145897167819
+      CrowBuddy_24: -2201521478957933032
+      CrowBuddy_34: -5938496137456811667
+      CrowBuddy_29: 5859650368380365724
+      CrowBuddy_38: 8637873582472715269
+      CrowBuddy_35: 664732839601700724
+      CrowBuddy_27: -6579985705610485913
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

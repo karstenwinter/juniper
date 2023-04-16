@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: a31392fdd84d9c5419874d8d4cb8ffad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3877955258640415563
+    second: FrogSensei_0
+  - first:
+      213: 7604720320983940775
+    second: FrogSensei_1
+  - first:
+      213: 1160406353290383071
+    second: FrogSensei_2
+  - first:
+      213: -3652816460902948967
+    second: FrogSensei_3
+  - first:
+      213: -8442088805306602426
+    second: FrogSensei_4
+  - first:
+      213: -226500001638189895
+    second: FrogSensei_5
+  - first:
+      213: -4644047751817713717
+    second: FrogSensei_6
+  - first:
+      213: -3558647508419985401
+    second: FrogSensei_7
+  - first:
+      213: 4274163401117000927
+    second: FrogSensei_8
+  - first:
+      213: 3473177683349046444
+    second: FrogSensei_9
+  - first:
+      213: 379471721615556807
+    second: FrogSensei_10
+  - first:
+      213: 1109007449126228145
+    second: FrogSensei_11
+  - first:
+      213: 581527790410009921
+    second: FrogSensei_12
+  - first:
+      213: 627184251204081207
+    second: FrogSensei_13
+  - first:
+      213: 1742130973421224363
+    second: FrogSensei_14
+  - first:
+      213: 6131002106630144007
+    second: FrogSensei_15
+  - first:
+      213: 2002594779757019323
+    second: FrogSensei_16
+  - first:
+      213: 1841627022844373808
+    second: FrogSensei_17
+  - first:
+      213: 1198014427551757477
+    second: FrogSensei_18
+  - first:
+      213: 8752392295046739499
+    second: FrogSensei_19
+  - first:
+      213: 4120433481612619794
+    second: FrogSensei_20
+  - first:
+      213: -7806161451082343223
+    second: FrogSensei_21
+  - first:
+      213: 923553999199112505
+    second: FrogSensei_22
+  - first:
+      213: 8445509815751208539
+    second: FrogSensei_23
+  - first:
+      213: -8267051657769202432
+    second: FrogSensei_24
+  - first:
+      213: 511663175679760236
+    second: FrogSensei_25
+  - first:
+      213: -6182880165407080362
+    second: FrogSensei_26
+  - first:
+      213: -3223815460199562316
+    second: FrogSensei_27
+  - first:
+      213: 6563809293956108116
+    second: FrogSensei_28
+  - first:
+      213: -6864010298472449204
+    second: FrogSensei_29
+  - first:
+      213: 6305297324068879469
+    second: FrogSensei_30
+  - first:
+      213: 3612246965888272358
+    second: FrogSensei_31
+  - first:
+      213: 8367742787948244946
+    second: FrogSensei_32
+  - first:
+      213: -1021578092531331684
+    second: FrogSensei_33
+  - first:
+      213: 199316931745030084
+    second: FrogSensei_34
+  - first:
+      213: 3803228744242995599
+    second: FrogSensei_35
+  - first:
+      213: 1551569360222314426
+    second: FrogSensei_36
+  - first:
+      213: 3705898159430330803
+    second: FrogSensei_37
+  - first:
+      213: -6239074450388839737
+    second: FrogSensei_38
+  - first:
+      213: -5399451614025257246
+    second: FrogSensei_39
+  - first:
+      213: -7582906963785709876
+    second: FrogSensei_40
+  - first:
+      213: -2133812257720305913
+    second: FrogSensei_41
+  - first:
+      213: 7858326643378228644
+    second: FrogSensei_42
+  - first:
+      213: -5919546826179857728
+    second: FrogSensei_43
+  - first:
+      213: 6404410391730885764
+    second: FrogSensei_44
+  - first:
+      213: -6195420949106435812
+    second: FrogSensei_45
+  - first:
+      213: -2279760831852787673
+    second: FrogSensei_46
+  - first:
+      213: 766950342495110359
+    second: FrogSensei_47
+  - first:
+      213: 2249339848956769516
+    second: FrogSensei_48
+  - first:
+      213: 6248373753510324332
+    second: FrogSensei_49
+  - first:
+      213: -5830559755622169754
+    second: FrogSensei_50
+  - first:
+      213: 2229956025378819611
+    second: FrogSensei_51
+  - first:
+      213: -7006057861709008019
+    second: FrogSensei_52
+  - first:
+      213: 3296106461440962448
+    second: FrogSensei_53
+  - first:
+      213: 4297494352767460114
+    second: FrogSensei_54
+  - first:
+      213: 5575658750269788699
+    second: FrogSensei_55
+  - first:
+      213: 5935588032228879359
+    second: FrogSensei_56
+  - first:
+      213: -6305734621373808313
+    second: FrogSensei_57
+  - first:
+      213: -8134229777699205641
+    second: FrogSensei_58
+  - first:
+      213: -4408392266725226087
+    second: FrogSensei_59
+  - first:
+      213: -471926090903383549
+    second: FrogSensei_60
+  - first:
+      213: -8749924033898451542
+    second: FrogSensei_61
+  - first:
+      213: -6807056342972370816
+    second: FrogSensei_62
+  - first:
+      213: 7730727616073553822
+    second: FrogSensei_63
+  - first:
+      213: -5209842496900874757
+    second: FrogSensei_64
+  - first:
+      213: -8263152805830294890
+    second: FrogSensei_65
+  - first:
+      213: -1509954952099590091
+    second: FrogSensei_66
+  - first:
+      213: 1218723142129839168
+    second: FrogSensei_67
+  - first:
+      213: 5256944158730737903
+    second: FrogSensei_68
+  - first:
+      213: 5158262638634734234
+    second: FrogSensei_69
+  - first:
+      213: -5498352740252632840
+    second: FrogSensei_70
+  - first:
+      213: -4113700469109111819
+    second: FrogSensei_71
+  - first:
+      213: -97742800932658092
+    second: FrogSensei_72
+  - first:
+      213: -3975894736347598821
+    second: FrogSensei_73
+  - first:
+      213: -131201688318670295
+    second: FrogSensei_74
+  - first:
+      213: -304546159987349480
+    second: FrogSensei_75
+  - first:
+      213: 8719596177545340287
+    second: FrogSensei_76
+  - first:
+      213: 5548240644318949065
+    second: FrogSensei_77
+  - first:
+      213: 7848622606572097633
+    second: FrogSensei_78
+  - first:
+      213: 2959629088670857898
+    second: FrogSensei_79
+  - first:
+      213: 4342155990416546963
+    second: FrogSensei_80
+  - first:
+      213: 507778218519380186
+    second: FrogSensei_81
+  - first:
+      213: -6386135593999530522
+    second: FrogSensei_82
+  - first:
+      213: -3517618017025710766
+    second: FrogSensei_83
+  - first:
+      213: 6743329752977527446
+    second: FrogSensei_84
+  - first:
+      213: -2660149292122151607
+    second: FrogSensei_85
+  - first:
+      213: -6883919640709256878
+    second: FrogSensei_86
+  - first:
+      213: -5632123691998459517
+    second: FrogSensei_87
+  - first:
+      213: 6095886491328385481
+    second: FrogSensei_88
+  - first:
+      213: -5008942943436786465
+    second: FrogSensei_89
+  - first:
+      213: -1088061072841833270
+    second: FrogSensei_90
+  - first:
+      213: -1678333229141158980
+    second: FrogSensei_91
+  - first:
+      213: -3717419325367171722
+    second: FrogSensei_92
+  - first:
+      213: -5348552855404816957
+    second: FrogSensei_93
+  - first:
+      213: 3364148406247694497
+    second: FrogSensei_94
+  - first:
+      213: 3339857096556222938
+    second: FrogSensei_95
+  - first:
+      213: -640239467335555958
+    second: FrogSensei_96
+  - first:
+      213: 377815802340287951
+    second: FrogSensei_97
+  - first:
+      213: 3877588683076661887
+    second: FrogSensei_98
+  - first:
+      213: 3313808921073366547
+    second: FrogSensei_99
+  - first:
+      213: -2623429767863854160
+    second: FrogSensei_100
+  - first:
+      213: 4500032412788286935
+    second: FrogSensei_101
+  - first:
+      213: -3446173759388967428
+    second: FrogSensei_102
+  - first:
+      213: 1500964520116373703
+    second: FrogSensei_103
+  - first:
+      213: -2268489121583905852
+    second: FrogSensei_104
+  - first:
+      213: 4169448447667442571
+    second: FrogSensei_105
+  - first:
+      213: 5250870787851453316
+    second: FrogSensei_106
+  - first:
+      213: -885676156473747786
+    second: FrogSensei_107
+  - first:
+      213: 5300545066107449571
+    second: FrogSensei_108
+  - first:
+      213: 5388896862016390289
+    second: FrogSensei_109
+  - first:
+      213: 1738137181588802448
+    second: FrogSensei_110
+  - first:
+      213: -6485374183970214815
+    second: FrogSensei_111
+  - first:
+      213: 1998514406040972941
+    second: FrogSensei_112
+  - first:
+      213: 1259675374361641007
+    second: FrogSensei_113
+  - first:
+      213: 3883896408986076841
+    second: FrogSensei_114
+  - first:
+      213: 4905754454377030362
+    second: FrogSensei_115
+  - first:
+      213: 6298963973089583538
+    second: FrogSensei_116
+  - first:
+      213: -5884602930566237952
+    second: FrogSensei_117
+  - first:
+      213: 7299887903852717272
+    second: FrogSensei_118
+  - first:
+      213: -4834072671753181283
+    second: FrogSensei_119
+  - first:
+      213: 2597101126626667096
+    second: FrogSensei_120
+  - first:
+      213: -3684692870921208888
+    second: FrogSensei_121
+  - first:
+      213: 8553836261705995016
+    second: FrogSensei_122
+  - first:
+      213: -4413247910263411076
+    second: FrogSensei_123
+  - first:
+      213: -8337799489338969816
+    second: FrogSensei_124
+  - first:
+      213: -5634317436156557627
+    second: FrogSensei_125
+  - first:
+      213: -1243786402417432489
+    second: FrogSensei_126
+  - first:
+      213: 1550690186851896364
+    second: FrogSensei_127
+  - first:
+      213: 3507058789853691557
+    second: FrogSensei_128
+  - first:
+      213: -1663067734793258901
+    second: FrogSensei_129
+  - first:
+      213: -8554150020111846685
+    second: FrogSensei_130
+  - first:
+      213: -7693715470688895958
+    second: FrogSensei_131
+  - first:
+      213: 6255105520649718046
+    second: FrogSensei_132
+  - first:
+      213: -6104018699738841396
+    second: FrogSensei_133
+  - first:
+      213: 3982331226563014113
+    second: FrogSensei_134
+  - first:
+      213: 242139680540741596
+    second: FrogSensei_135
+  - first:
+      213: 3104990274982587851
+    second: FrogSensei_136
+  - first:
+      213: -8381020881412733044
+    second: FrogSensei_137
+  - first:
+      213: -8981848026209030684
+    second: FrogSensei_138
+  - first:
+      213: -8732969464232816425
+    second: FrogSensei_139
+  - first:
+      213: -7017735729866038780
+    second: FrogSensei_140
+  - first:
+      213: -1128957833264032731
+    second: FrogSensei_141
+  - first:
+      213: -6577271010551084508
+    second: FrogSensei_142
+  - first:
+      213: 7089173824524873605
+    second: FrogSensei_143
+  - first:
+      213: 3930946626894062539
+    second: FrogSensei_144
+  - first:
+      213: -2258711142214135133
+    second: FrogSensei_145
+  - first:
+      213: 3046149132562878441
+    second: FrogSensei_146
+  - first:
+      213: -722977852911401641
+    second: FrogSensei_147
+  - first:
+      213: -7014199252853868513
+    second: FrogSensei_148
+  - first:
+      213: 4420376087316968774
+    second: FrogSensei_149
+  - first:
+      213: 5665864084755491204
+    second: FrogSensei_150
+  - first:
+      213: 1765228355053077784
+    second: FrogSensei_151
+  - first:
+      213: 5366968434459174343
+    second: FrogSensei_152
+  - first:
+      213: -8641185961207703004
+    second: FrogSensei_153
+  - first:
+      213: 2027534331786335901
+    second: FrogSensei_154
+  - first:
+      213: -2097109618024567481
+    second: FrogSensei_155
+  - first:
+      213: 7269162356133060838
+    second: FrogSensei_156
+  - first:
+      213: 102446058498306735
+    second: FrogSensei_157
+  - first:
+      213: -5869774447746537392
+    second: FrogSensei_158
+  - first:
+      213: 2700406142950237423
+    second: FrogSensei_159
+  - first:
+      213: -3761625605531913834
+    second: FrogSensei_160
+  - first:
+      213: -3926456176279721123
+    second: FrogSensei_161
+  - first:
+      213: -313246338087477465
+    second: FrogSensei_162
+  - first:
+      213: 4170846925060394105
+    second: FrogSensei_163
+  - first:
+      213: 7674206903338828013
+    second: FrogSensei_164
+  - first:
+      213: -5843519817422496471
+    second: FrogSensei_165
+  - first:
+      213: -8423615205305624750
+    second: FrogSensei_166
+  - first:
+      213: 5956836117978306084
+    second: FrogSensei_167
+  - first:
+      213: 9034035062256632744
+    second: FrogSensei_168
+  - first:
+      213: 1537164474361265754
+    second: FrogSensei_169
+  - first:
+      213: -927875043312089269
+    second: FrogSensei_170
+  - first:
+      213: -3238441659752639434
+    second: FrogSensei_171
+  - first:
+      213: 1374977377676203373
+    second: FrogSensei_172
+  - first:
+      213: 8719991251282217991
+    second: FrogSensei_173
+  - first:
+      213: -5056723260321389682
+    second: FrogSensei_174
+  - first:
+      213: -8479064941509929887
+    second: FrogSensei_175
+  - first:
+      213: 5399781455541475899
+    second: FrogSensei_176
+  - first:
+      213: -6957814790174744696
+    second: FrogSensei_177
+  - first:
+      213: 7804729082654171491
+    second: FrogSensei_178
+  - first:
+      213: -2702195100189713605
+    second: FrogSensei_179
+  - first:
+      213: 4893423220531524245
+    second: FrogSensei_180
+  - first:
+      213: -8543760352021282508
+    second: FrogSensei_181
+  - first:
+      213: 8413352347108944207
+    second: FrogSensei_182
+  - first:
+      213: 8764482436046701266
+    second: FrogSensei_183
+  - first:
+      213: -4382929084550254229
+    second: FrogSensei_184
+  - first:
+      213: 6176939327481552036
+    second: FrogSensei_185
+  - first:
+      213: -8735298176956012938
+    second: FrogSensei_186
+  - first:
+      213: -230452260022799468
+    second: FrogSensei_187
+  - first:
+      213: -281066291613882776
+    second: FrogSensei_188
+  - first:
+      213: -3114302075432873645
+    second: FrogSensei_189
+  - first:
+      213: -8025534017532566577
+    second: FrogSensei_190
+  - first:
+      213: 4719379382833726811
+    second: FrogSensei_191
+  - first:
+      213: 5738462156074136989
+    second: FrogSensei_192
+  - first:
+      213: -1350856653897825166
+    second: FrogSensei_193
+  - first:
+      213: -3286438295376897040
+    second: FrogSensei_194
+  - first:
+      213: 8267623148881147301
+    second: FrogSensei_195
+  - first:
+      213: 8410613770393508554
+    second: FrogSensei_196
+  - first:
+      213: 7808716183731167547
+    second: FrogSensei_197
+  - first:
+      213: -600664438570330119
+    second: FrogSensei_198
+  - first:
+      213: 731465430229770781
+    second: FrogSensei_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrogSensei_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b441e11d3cbe2ac0800000000000000
+      internalID: -3877955258640415563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae317427d4698960800000000000000
+      internalID: 7604720320983940775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdecaf22e679a1010800000000000000
+      internalID: 1160406353290383071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f1e2248c69e4dc0800000000000000
+      internalID: -3652816460902948967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce56da5fca7da80800000000000000
+      internalID: -8442088805306602426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4fab4d27f4bdcf0800000000000000
+      internalID: -226500001638189895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc724f8cc270d8fb0800000000000000
+      internalID: -4644047751817713717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004cc312f42d9ec0800000000000000
+      internalID: -3558647508419985401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ed83c7f0e05b30800000000000000
+      internalID: 4274163401117000927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca485d983b4333030800000000000000
+      internalID: 3473177683349046444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c083313587244500800000000000000
+      internalID: 379471721615556807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05e62366cf36f00800000000000000
+      internalID: 1109007449126228145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d086eb170021800800000000000000
+      internalID: 581527790410009921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361db5e0c434b800800000000000000
+      internalID: 627184251204081207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba14afed3ea4d2810800000000000000
+      internalID: 1742130973421224363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7008cdabee1b51550800000000000000
+      internalID: 6131002106630144007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0087c8755aacb10800000000000000
+      internalID: 2002594779757019323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b26691506ce8910800000000000000
+      internalID: 1841627022844373808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f30646c330a010800000000000000
+      internalID: 1198014427551757477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2670219b6eb67970800000000000000
+      internalID: 8752392295046739499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107528ab68be2930800000000000000
+      internalID: 4120433481612619794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc93e0e481faa390800000000000000
+      internalID: -7806161451082343223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8725187f11dc00800000000000000
+      internalID: 923553999199112505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eece26e6a743570800000000000000
+      internalID: 8445509815751208539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dccd66158854d80800000000000000
+      internalID: -8267051657769202432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675a0782fac91700800000000000000
+      internalID: 511663175679760236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504a147f3ff13aa0800000000000000
+      internalID: -6182880165407080362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b384616be4b243d0800000000000000
+      internalID: -3223815460199562316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f49abb6c5571b50800000000000000
+      internalID: 6563809293956108116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b3de820032eb0a0800000000000000
+      internalID: -6864010298472449204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb854628ae08750800000000000000
+      internalID: 6305297324068879469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c0ca1a77412230800000000000000
+      internalID: 3612246965888272358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfed7f3bb1302470800000000000000
+      internalID: 8367742787948244946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d495c2320a2d1f0800000000000000
+      internalID: -1021578092531331684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf126281bd14c200800000000000000
+      internalID: 199316931745030084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a82c7468c7c430800000000000000
+      internalID: 3803228744242995599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5e60dc18488510800000000000000
+      internalID: 1551569360222314426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96e96cdbefd6330800000000000000
+      internalID: 3705898159430330803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29b59e7da5a69a0800000000000000
+      internalID: -6239074450388839737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6d145d5b4115b0800000000000000
+      internalID: -5399451614025257246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc687bada4a14c690800000000000000
+      internalID: -7582906963785709876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f4399e0d2362e0800000000000000
+      internalID: -2133812257720305913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0c8b62726e0d60800000000000000
+      internalID: 7858326643378228644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23242568b89dda0800000000000000
+      internalID: -5919546826179857728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48490fab15901e850800000000000000
+      internalID: 6404410391730885764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195f76b871750aa0800000000000000
+      internalID: -6195420949106435812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c0942a99ac50e0800000000000000
+      internalID: -2279760831852787673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d409c4e541c4aa00800000000000000
+      internalID: 766950342495110359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f234dca2473f10800000000000000
+      internalID: 2249339848956769516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogSensei_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c686bd1d2dea6b650800000000000000
+      internalID: 6248373753510324332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FrogSensei_12: 581527790410009921
+      FrogSensei_41: -2133812257720305913
+      FrogSensei_26: -6182880165407080362
+      FrogSensei_15: 6131002106630144007
+      FrogSensei_6: -4644047751817713717
+      FrogSensei_31: 3612246965888272358
+      FrogSensei_10: 379471721615556807
+      FrogSensei_36: 1551569360222314426
+      FrogSensei_16: 2002594779757019323
+      FrogSensei_33: -1021578092531331684
+      FrogSensei_37: 3705898159430330803
+      FrogSensei_24: -8267051657769202432
+      FrogSensei_40: -7582906963785709876
+      FrogSensei_9: 3473177683349046444
+      FrogSensei_22: 923553999199112505
+      FrogSensei_34: 199316931745030084
+      FrogSensei_0: -3877955258640415563
+      FrogSensei_2: 1160406353290383071
+      FrogSensei_18: 1198014427551757477
+      FrogSensei_29: -6864010298472449204
+      FrogSensei_30: 6305297324068879469
+      FrogSensei_23: 8445509815751208539
+      FrogSensei_38: -6239074450388839737
+      FrogSensei_42: 7858326643378228644
+      FrogSensei_48: 2249339848956769516
+      FrogSensei_47: 766950342495110359
+      FrogSensei_3: -3652816460902948967
+      FrogSensei_7: -3558647508419985401
+      FrogSensei_4: -8442088805306602426
+      FrogSensei_21: -7806161451082343223
+      FrogSensei_44: 6404410391730885764
+      FrogSensei_32: 8367742787948244946
+      FrogSensei_1: 7604720320983940775
+      FrogSensei_17: 1841627022844373808
+      FrogSensei_46: -2279760831852787673
+      FrogSensei_8: 4274163401117000927
+      FrogSensei_49: 6248373753510324332
+      FrogSensei_25: 511663175679760236
+      FrogSensei_35: 3803228744242995599
+      FrogSensei_43: -5919546826179857728
+      FrogSensei_13: 627184251204081207
+      FrogSensei_19: 8752392295046739499
+      FrogSensei_45: -6195420949106435812
+      FrogSensei_5: -226500001638189895
+      FrogSensei_14: 1742130973421224363
+      FrogSensei_20: 4120433481612619794
+      FrogSensei_28: 6563809293956108116
+      FrogSensei_27: -3223815460199562316
+      FrogSensei_11: 1109007449126228145
+      FrogSensei_39: -5399451614025257246
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

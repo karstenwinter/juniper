@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: de908214e35191e47865c00b3fd19db2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3128138863376984732
+    second: TwistedSnake_0
+  - first:
+      213: 3541395803749865943
+    second: TwistedSnake_1
+  - first:
+      213: -2188302288575197551
+    second: TwistedSnake_2
+  - first:
+      213: 3932898578866105921
+    second: TwistedSnake_3
+  - first:
+      213: -8808604040682428898
+    second: TwistedSnake_4
+  - first:
+      213: -2049632825685073641
+    second: TwistedSnake_5
+  - first:
+      213: 2014488485104668835
+    second: TwistedSnake_6
+  - first:
+      213: 2861091725024318848
+    second: TwistedSnake_7
+  - first:
+      213: 7363184482176054608
+    second: TwistedSnake_8
+  - first:
+      213: -6085653083834085731
+    second: TwistedSnake_9
+  - first:
+      213: -5863218886046920905
+    second: TwistedSnake_10
+  - first:
+      213: -355309243856128199
+    second: TwistedSnake_11
+  - first:
+      213: -4917191563675791467
+    second: TwistedSnake_12
+  - first:
+      213: 9216117204343204116
+    second: TwistedSnake_13
+  - first:
+      213: 7681625998258318880
+    second: TwistedSnake_14
+  - first:
+      213: 9092789618021835041
+    second: TwistedSnake_15
+  - first:
+      213: 7930006669648517321
+    second: TwistedSnake_16
+  - first:
+      213: -1532537802329546307
+    second: TwistedSnake_17
+  - first:
+      213: 6309210788523784937
+    second: TwistedSnake_18
+  - first:
+      213: 9001114837879853380
+    second: TwistedSnake_19
+  - first:
+      213: -61456561976359162
+    second: TwistedSnake_20
+  - first:
+      213: -7432132104001803027
+    second: TwistedSnake_21
+  - first:
+      213: 5501466554728706788
+    second: TwistedSnake_22
+  - first:
+      213: 4117166804233132920
+    second: TwistedSnake_23
+  - first:
+      213: -7094943159577942508
+    second: TwistedSnake_24
+  - first:
+      213: 3438351516126843632
+    second: TwistedSnake_25
+  - first:
+      213: -3435474110148458260
+    second: TwistedSnake_26
+  - first:
+      213: 3433831437640689130
+    second: TwistedSnake_27
+  - first:
+      213: 5901778652904801167
+    second: TwistedSnake_28
+  - first:
+      213: 122434202043721190
+    second: TwistedSnake_29
+  - first:
+      213: 545412119452901634
+    second: TwistedSnake_30
+  - first:
+      213: 7382927259647681453
+    second: TwistedSnake_31
+  - first:
+      213: 4853677536473274415
+    second: TwistedSnake_32
+  - first:
+      213: -6803985420929789701
+    second: TwistedSnake_33
+  - first:
+      213: -5738749575197588982
+    second: TwistedSnake_34
+  - first:
+      213: -6926479100588835631
+    second: TwistedSnake_35
+  - first:
+      213: -7810629972151062163
+    second: TwistedSnake_36
+  - first:
+      213: -5119343089941113977
+    second: TwistedSnake_37
+  - first:
+      213: -6570207653194560949
+    second: TwistedSnake_38
+  - first:
+      213: -4395649264036730497
+    second: TwistedSnake_39
+  - first:
+      213: -5255619734925059652
+    second: TwistedSnake_40
+  - first:
+      213: -8108442089922121484
+    second: TwistedSnake_41
+  - first:
+      213: 4956127057387009573
+    second: TwistedSnake_42
+  - first:
+      213: 3055801790380365402
+    second: TwistedSnake_43
+  - first:
+      213: -8730239254903368678
+    second: TwistedSnake_44
+  - first:
+      213: 6251567065854916202
+    second: TwistedSnake_45
+  - first:
+      213: 8752611221713368
+    second: TwistedSnake_46
+  - first:
+      213: -6490191382071986584
+    second: TwistedSnake_47
+  - first:
+      213: 3132310715311360678
+    second: TwistedSnake_48
+  - first:
+      213: 6694895798570444607
+    second: TwistedSnake_49
+  - first:
+      213: 1294687999947611875
+    second: TwistedSnake_50
+  - first:
+      213: -776173539343946645
+    second: TwistedSnake_51
+  - first:
+      213: -3851736653035157675
+    second: TwistedSnake_52
+  - first:
+      213: -9057893244489226991
+    second: TwistedSnake_53
+  - first:
+      213: 1460501232752414984
+    second: TwistedSnake_54
+  - first:
+      213: -1700713078004378930
+    second: TwistedSnake_55
+  - first:
+      213: -8469929600747888813
+    second: TwistedSnake_56
+  - first:
+      213: 5986882975094717603
+    second: TwistedSnake_57
+  - first:
+      213: 3481621353635116986
+    second: TwistedSnake_58
+  - first:
+      213: 1494330389800152890
+    second: TwistedSnake_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TwistedSnake_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aedaff8b1696b20800000000000000
+      internalID: 3128138863376984732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5760
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d19b68b0952130800000000000000
+      internalID: 3541395803749865943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5760
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0d44a9a691a1e0800000000000000
+      internalID: -2188302288575197551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_3
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 5760
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ee3fa8b66749630800000000000000
+      internalID: 3932898578866105921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ad048b4d81c580800000000000000
+      internalID: -8808604040682428898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4800
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711af01fdcd3e83e0800000000000000
+      internalID: -2049632825685073641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4800
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a057ce9a96e4fb10800000000000000
+      internalID: 2014488485104668835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_7
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4800
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08552e3e3c3a4b720800000000000000
+      internalID: 2861091725024318848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b5c356494f2660800000000000000
+      internalID: 7363184482176054608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e0fcf63ca6b8ba0800000000000000
+      internalID: -6085653083834085731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fcfc0ec79a1aea0800000000000000
+      internalID: -5863218886046920905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3840
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937fa8e0020b11bf0800000000000000
+      internalID: -355309243856128199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8e824350a2cbb0800000000000000
+      internalID: -4917191563675791467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4192e3da4c936ef70800000000000000
+      internalID: 9216117204343204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea79b752e9a9a60800000000000000
+      internalID: 7681625998258318880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_15
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2880
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212d8f5bf3103e70800000000000000
+      internalID: 9092789618021835041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d0e21d0b0d0e60800000000000000
+      internalID: 7930006669648517321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12a4f0df45bbae0800000000000000
+      internalID: -1532537802329546307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab507d8c1de8750800000000000000
+      internalID: 6309210788523784937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441935e41426aec70800000000000000
+      internalID: 9001114837879853380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607484e1599a52ff0800000000000000
+      internalID: -61456561976359162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec22318a33cbd890800000000000000
+      internalID: -7432132104001803027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_22
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2fb4afea2295c40800000000000000
+      internalID: 5501466554728706788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_23
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b985f056d132930800000000000000
+      internalID: 4117166804233132920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e4c779c2b98d90800000000000000
+      internalID: -7094943159577942508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29aab9c7a77bf20800000000000000
+      internalID: 3438351516126843632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_26
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8cc8daf7eb250d0800000000000000
+      internalID: -3435474110148458260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwistedSnake_27
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56423df7b67af20800000000000000
+      internalID: 3433831437640689130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TwistedSnake_22: 5501466554728706788
+      TwistedSnake_2: -2188302288575197551
+      TwistedSnake_6: 2014488485104668835
+      TwistedSnake_1: 3541395803749865943
+      TwistedSnake_20: -61456561976359162
+      TwistedSnake_21: -7432132104001803027
+      TwistedSnake_14: 7681625998258318880
+      TwistedSnake_16: 7930006669648517321
+      TwistedSnake_24: -7094943159577942508
+      TwistedSnake_17: -1532537802329546307
+      TwistedSnake_0: 3128138863376984732
+      TwistedSnake_3: 3932898578866105921
+      TwistedSnake_25: 3438351516126843632
+      TwistedSnake_7: 2861091725024318848
+      TwistedSnake_23: 4117166804233132920
+      TwistedSnake_19: 9001114837879853380
+      TwistedSnake_12: -4917191563675791467
+      TwistedSnake_13: 9216117204343204116
+      TwistedSnake_26: -3435474110148458260
+      TwistedSnake_15: 9092789618021835041
+      TwistedSnake_4: -8808604040682428898
+      TwistedSnake_8: 7363184482176054608
+      TwistedSnake_9: -6085653083834085731
+      TwistedSnake_10: -5863218886046920905
+      TwistedSnake_27: 3433831437640689130
+      TwistedSnake_5: -2049632825685073641
+      TwistedSnake_11: -355309243856128199
+      TwistedSnake_18: 6309210788523784937
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

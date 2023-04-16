@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 6c87446de5efb5a4ebe12718156af98b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5403253347752139306
+    second: TurtleGuy_0
+  - first:
+      213: -2005352093300469749
+    second: TurtleGuy_1
+  - first:
+      213: -3981734661767974194
+    second: TurtleGuy_2
+  - first:
+      213: -2239276790009298956
+    second: TurtleGuy_3
+  - first:
+      213: -7705966896996774013
+    second: TurtleGuy_4
+  - first:
+      213: -5502874359427696951
+    second: TurtleGuy_5
+  - first:
+      213: 8149600469287226308
+    second: TurtleGuy_6
+  - first:
+      213: 5038954405891061011
+    second: TurtleGuy_7
+  - first:
+      213: 4697235464496139460
+    second: TurtleGuy_8
+  - first:
+      213: -2622883741975962939
+    second: TurtleGuy_9
+  - first:
+      213: -1276594226184136605
+    second: TurtleGuy_10
+  - first:
+      213: 8761985840495329179
+    second: TurtleGuy_11
+  - first:
+      213: 3707999853850712466
+    second: TurtleGuy_12
+  - first:
+      213: 8661923878270474978
+    second: TurtleGuy_13
+  - first:
+      213: 3228826038867521256
+    second: TurtleGuy_14
+  - first:
+      213: 2563475744074478361
+    second: TurtleGuy_15
+  - first:
+      213: -771163306185247351
+    second: TurtleGuy_16
+  - first:
+      213: 5187099437289800261
+    second: TurtleGuy_17
+  - first:
+      213: 2507785952796574210
+    second: TurtleGuy_18
+  - first:
+      213: -7276733238728663261
+    second: TurtleGuy_19
+  - first:
+      213: 6187652849265025315
+    second: TurtleGuy_20
+  - first:
+      213: 1642940029078017007
+    second: TurtleGuy_21
+  - first:
+      213: 4854774214009964714
+    second: TurtleGuy_22
+  - first:
+      213: -3713850126646631542
+    second: TurtleGuy_23
+  - first:
+      213: 4907275343972999602
+    second: TurtleGuy_24
+  - first:
+      213: -7212584952047049002
+    second: TurtleGuy_25
+  - first:
+      213: -280071247482756711
+    second: TurtleGuy_26
+  - first:
+      213: 6799046737765650329
+    second: TurtleGuy_27
+  - first:
+      213: -306977870804479509
+    second: TurtleGuy_28
+  - first:
+      213: 8361901398928250975
+    second: TurtleGuy_29
+  - first:
+      213: 8375560482382891469
+    second: TurtleGuy_30
+  - first:
+      213: 6552882003930882128
+    second: TurtleGuy_31
+  - first:
+      213: 5406891458451161979
+    second: TurtleGuy_32
+  - first:
+      213: 7932624456681251169
+    second: TurtleGuy_33
+  - first:
+      213: -5293308628161873360
+    second: TurtleGuy_34
+  - first:
+      213: -7548280664107609226
+    second: TurtleGuy_35
+  - first:
+      213: -8079659389927691740
+    second: TurtleGuy_36
+  - first:
+      213: 5146365788568039623
+    second: TurtleGuy_37
+  - first:
+      213: -2766707196066279704
+    second: TurtleGuy_38
+  - first:
+      213: -2302286563274295174
+    second: TurtleGuy_39
+  - first:
+      213: -5482480315654772720
+    second: TurtleGuy_40
+  - first:
+      213: -4145136628234770584
+    second: TurtleGuy_41
+  - first:
+      213: -2122844262705705202
+    second: TurtleGuy_42
+  - first:
+      213: 2250677429833085197
+    second: TurtleGuy_43
+  - first:
+      213: -1474305815997218148
+    second: TurtleGuy_44
+  - first:
+      213: 7317125505783287764
+    second: TurtleGuy_45
+  - first:
+      213: 8089664564030647861
+    second: TurtleGuy_46
+  - first:
+      213: 8055499556317859692
+    second: TurtleGuy_47
+  - first:
+      213: 8815010562124139472
+    second: TurtleGuy_48
+  - first:
+      213: -8679261593013632772
+    second: TurtleGuy_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurtleGuy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad438ca463cfa40800000000000000
+      internalID: 5403253347752139306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005d3d55ee8b24e0800000000000000
+      internalID: -2005352093300469749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b577db690eb8c0800000000000000
+      internalID: -3981734661767974194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fff7b9af9d7ce0e0800000000000000
+      internalID: -2239276790009298956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f86956fe7ee0590800000000000000
+      internalID: -7705966896996774013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6f4b2fcecd1a3b0800000000000000
+      internalID: -5502874359427696951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbc839c272391170800000000000000
+      internalID: 8149600469287226308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b68aa556fde540800000000000000
+      internalID: 5038954405891061011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc8a794ceef2140800000000000000
+      internalID: 4697235464496139460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca10602225a99bd0800000000000000
+      internalID: -2622883741975962939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368daf1a050a84ee0800000000000000
+      internalID: -1276594226184136605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff9bde2b3d89970800000000000000
+      internalID: 8761985840495329179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299d8f3a836757330800000000000000
+      internalID: 3707999853850712466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea19cbdfd5553870800000000000000
+      internalID: 8661923878270474978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeea30ec281fcc20800000000000000
+      internalID: 3228826038867521256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b3eb7b9b439320800000000000000
+      internalID: 2563475744074478361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985330f0f074c45f0800000000000000
+      internalID: -771163306185247351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542894ea4774cf740800000000000000
+      internalID: 5187099437289800261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202872989027dc220800000000000000
+      internalID: 2507785952796574210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fdc445ca9d30b90800000000000000
+      internalID: -7276733238728663261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32120e99b75fed550800000000000000
+      internalID: 6187652849265025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe317747045ecc610800000000000000
+      internalID: 1642940029078017007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84aca0d6f9f5340800000000000000
+      internalID: 4854774214009964714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8320349cf0c57cc0800000000000000
+      internalID: -3713850126646631542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12b8cece42a1440800000000000000
+      internalID: 4907275343972999602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d668e43330c7eb90800000000000000
+      internalID: -7212584952047049002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916dfd2facfc1cf0800000000000000
+      internalID: -280071247482756711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcccf2cf01b5e50800000000000000
+      internalID: 6799046737765650329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be11bc0c0456dbbf0800000000000000
+      internalID: -306977870804479509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d5f1e4017b0470800000000000000
+      internalID: 8361901398928250975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94b3312e7fb3470800000000000000
+      internalID: 8375560482382891469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050a953c67380fa50800000000000000
+      internalID: 6552882003930882128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7343107223290b40800000000000000
+      internalID: 5406891458451161979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ef0d1ae7561e60800000000000000
+      internalID: 7932624456681251169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab6eb09d36a86b0800000000000000
+      internalID: -5293308628161873360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739aee7abe1f3790800000000000000
+      internalID: -7548280664107609226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae53db7984fdf80800000000000000
+      internalID: -8079659389927691740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c032d70b609b6740800000000000000
+      internalID: 5146365788568039623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec3fcb67eaa99d0800000000000000
+      internalID: -2766707196066279704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7871e89192ac00e0800000000000000
+      internalID: -2302286563274295174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018635943315ae3b0800000000000000
+      internalID: -5482480315654772720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672b90d2348976c0800000000000000
+      internalID: -4145136628234770584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f43ffe3642a82e0800000000000000
+      internalID: -2122844262705705202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b035a2330c3f10800000000000000
+      internalID: 2250677429833085197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92813beba63a8be0800000000000000
+      internalID: -1474305815997218148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc92531e6ab8560800000000000000
+      internalID: 7317125505783287764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eac136f03444070800000000000000
+      internalID: 8089664564030647861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f84a6aa22eacf60800000000000000
+      internalID: 8055499556317859692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc9bef665355a70800000000000000
+      internalID: 8815010562124139472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleGuy_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf04bbbd0911d8780800000000000000
+      internalID: -8679261593013632772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TurtleGuy_43: 2250677429833085197
+      TurtleGuy_26: -280071247482756711
+      TurtleGuy_1: -2005352093300469749
+      TurtleGuy_19: -7276733238728663261
+      TurtleGuy_23: -3713850126646631542
+      TurtleGuy_37: 5146365788568039623
+      TurtleGuy_29: 8361901398928250975
+      TurtleGuy_0: 5403253347752139306
+      TurtleGuy_20: 6187652849265025315
+      TurtleGuy_12: 3707999853850712466
+      TurtleGuy_28: -306977870804479509
+      TurtleGuy_22: 4854774214009964714
+      TurtleGuy_36: -8079659389927691740
+      TurtleGuy_32: 5406891458451161979
+      TurtleGuy_44: -1474305815997218148
+      TurtleGuy_5: -5502874359427696951
+      TurtleGuy_47: 8055499556317859692
+      TurtleGuy_8: 4697235464496139460
+      TurtleGuy_7: 5038954405891061011
+      TurtleGuy_34: -5293308628161873360
+      TurtleGuy_16: -771163306185247351
+      TurtleGuy_33: 7932624456681251169
+      TurtleGuy_41: -4145136628234770584
+      TurtleGuy_48: 8815010562124139472
+      TurtleGuy_14: 3228826038867521256
+      TurtleGuy_15: 2563475744074478361
+      TurtleGuy_40: -5482480315654772720
+      TurtleGuy_3: -2239276790009298956
+      TurtleGuy_6: 8149600469287226308
+      TurtleGuy_9: -2622883741975962939
+      TurtleGuy_42: -2122844262705705202
+      TurtleGuy_4: -7705966896996774013
+      TurtleGuy_45: 7317125505783287764
+      TurtleGuy_17: 5187099437289800261
+      TurtleGuy_24: 4907275343972999602
+      TurtleGuy_18: 2507785952796574210
+      TurtleGuy_21: 1642940029078017007
+      TurtleGuy_2: -3981734661767974194
+      TurtleGuy_11: 8761985840495329179
+      TurtleGuy_13: 8661923878270474978
+      TurtleGuy_49: -8679261593013632772
+      TurtleGuy_38: -2766707196066279704
+      TurtleGuy_10: -1276594226184136605
+      TurtleGuy_31: 6552882003930882128
+      TurtleGuy_35: -7548280664107609226
+      TurtleGuy_46: 8089664564030647861
+      TurtleGuy_25: -7212584952047049002
+      TurtleGuy_30: 8375560482382891469
+      TurtleGuy_39: -2302286563274295174
+      TurtleGuy_27: 6799046737765650329
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

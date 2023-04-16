@@ -1,0 +1,56 @@
+Location	Object	Key		Preview	HP	Damage	Value	Data	Test Lookup	Jump: 1 up, 3 wide
+NeedleRoom	Upgrade 1	Needle				1				Pogo: 3 up, 4 with precise 2nd pogo
+HealingRoom	Upgrade 1	Heal			2					
+DashRoom	Upgrade 1	Dash								Dash: 3 wide
+Dash2Room	Upgrade 1	SuperDash								
+MagicMissileRoom	Upgrade 1	MagicMissile								
+MadSpiderRoom	Boss 1	MadSpider			9	2		AnimatedObject.imgWidth: 4, AnimatedObject.speed: 7		
+LizardTwinRoom	Boss 1	LizardTwin			13	1				
+TwistedSnakeRoom	Boss 1	TwistedSnake			24	1		AnimatedObject.imgWidth: 4		
+Cave	Enemy 1	Bug			3	1				
+Hollow	Enemy 1	HollowBug			4	1		PatrolController.walkSpeed: 2, PatrolController.edgeSafeDistance: 0.7		
+SectionWithMAEntrance	Enemy 2	HollowBee			12	2		GunnerController.shootInterval: 1, EnemyController.scale: 2, AnimatedObject.speed: 7, GunnerController.projectileSpeed: 2, EnemyController.gameEndsOnDefeat: true		
+Hollow	Enemy 2	HollowBee			4	1		GunnerController.shootInterval: 1, EnemyController.scale: 1		
+Moss	Enemy 1	Bug			3	1				
+	Enemy 2	Bee			2	1				
+Depth	Enemy 1	GuardianOfDepths			7	2				
+Sand	Enemy 1	SandWorm			5	2				
+	Enemy 1	Bug			3	1				
+	Enemy 1	Crawler			2	1				
+	Enemy 1	DarkEye								
+	Enemy 1	DarkCrawler								
+	Enemy 1	MossMaw								
+	Enemy 1	CaveKeeper								
+	Enemy 1	CrawlingSpider								
+	Enemy 1	MossHornet								
+Sewer	Enemy 1	SewerRatling								
+Sewer	Enemy 1	SewerRat								
+Sewer	Enemy 1	SewerFish								
+Cave	Item	FoxgloveHat								
+	Item	MossyCoin					50			
+	Item	Calculator								
+	Item	Battery								
+	Item	TheBoxCode								
+Flooded	Upgrade 1	Gills								
+	Item									
+	Item	Shell								
+	Item	Scrap					10			
+	Item	SharpMetal					25			
+	Item	Lead								
+UpperClock	Character_1	TurtleGuy						NPCClock		
+SectionWithTelevision	Character_1	LizardChild						NPCTelevision		
+SectionWithHardhat	Character_1	MoleGuy						NPCFEntrance		
+SectionWithBricks	Character_1	MoleGuy						Yes		
+MAEntrance	Character_1	SnakeGuy						NPCMAEntrance		
+CrowBuddyRoom	Character_1	CrowBuddy						CrowBuddyRoom		
+FrogSenseiRoom	Character_1	FrogSensei						FrogDialog		
+TvDogRoom	Character_1	TvDog						TvDogDialog		
+Lizard	Character_1	Lizard						Yes		
+UpperCave	Character_2	RiddleMaster								
+LowerCave	Character_1	BeeHunter								
+Crystal	Character_1	CrystalHermit								
+Flooded	Character_1	MacGill								
+Forest	Character_1	RootHermit								
+Sand	Character_1	SandEater								
+Forest	Character_1	RootSage								
+	Trap center									

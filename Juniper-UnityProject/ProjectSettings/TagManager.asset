@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - HUD
+  - Platform
+  - Deco
+  - Interactable
+  - Trap
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,14 +19,14 @@ TagManager:
   - UI
   - 
   - 
+  - Player
+  - PlayerInvulnerable
+  - Platform
+  - Decoration
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - DeadEnemy
+  - Interactable
   - 
   - 
   - 

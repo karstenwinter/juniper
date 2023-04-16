@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: f5b1024291ec2274dbaef1d54e66d119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3816240409308741997
+    second: LizardChild_0
+  - first:
+      213: 3563185827823428693
+    second: LizardChild_1
+  - first:
+      213: 1353116770133631154
+    second: LizardChild_2
+  - first:
+      213: 1404051909498659548
+    second: LizardChild_3
+  - first:
+      213: 8002890909642514246
+    second: LizardChild_4
+  - first:
+      213: -3949431303582335873
+    second: LizardChild_5
+  - first:
+      213: -7337328204024146828
+    second: LizardChild_6
+  - first:
+      213: 7890200042190470720
+    second: LizardChild_7
+  - first:
+      213: -7245051765817765732
+    second: LizardChild_8
+  - first:
+      213: -5650766938452962222
+    second: LizardChild_9
+  - first:
+      213: -7294687225532696688
+    second: LizardChild_10
+  - first:
+      213: -5559047075481403361
+    second: LizardChild_11
+  - first:
+      213: 104596090671478209
+    second: LizardChild_12
+  - first:
+      213: -4010462615887362071
+    second: LizardChild_13
+  - first:
+      213: -4085007872051180288
+    second: LizardChild_14
+  - first:
+      213: 6943609452596618521
+    second: LizardChild_15
+  - first:
+      213: -8952339748058248638
+    second: LizardChild_16
+  - first:
+      213: -3554024393111871572
+    second: LizardChild_17
+  - first:
+      213: -4945096931895570268
+    second: LizardChild_18
+  - first:
+      213: -8136722481914738130
+    second: LizardChild_19
+  - first:
+      213: 2321493412782446272
+    second: LizardChild_20
+  - first:
+      213: -4306168148920744033
+    second: LizardChild_21
+  - first:
+      213: 4147301855892344148
+    second: LizardChild_22
+  - first:
+      213: -1573904484494787399
+    second: LizardChild_23
+  - first:
+      213: 3370227652742510193
+    second: LizardChild_24
+  - first:
+      213: 9133404165798747343
+    second: LizardChild_25
+  - first:
+      213: 1385666251505461494
+    second: LizardChild_26
+  - first:
+      213: -8551674912511213675
+    second: LizardChild_27
+  - first:
+      213: 3781463365142494914
+    second: LizardChild_28
+  - first:
+      213: -2835263279507548371
+    second: LizardChild_29
+  - first:
+      213: -452723677175909239
+    second: LizardChild_30
+  - first:
+      213: 1408639926616079479
+    second: LizardChild_31
+  - first:
+      213: -8172490713346542231
+    second: LizardChild_32
+  - first:
+      213: -5279620683262924606
+    second: LizardChild_33
+  - first:
+      213: -8990550710912806923
+    second: LizardChild_34
+  - first:
+      213: 2552053193095673139
+    second: LizardChild_35
+  - first:
+      213: -5533216250295261232
+    second: LizardChild_36
+  - first:
+      213: 6238132467313606953
+    second: LizardChild_37
+  - first:
+      213: -4491932859331952601
+    second: LizardChild_38
+  - first:
+      213: -5875709862959245531
+    second: LizardChild_39
+  - first:
+      213: -4560431879222155925
+    second: LizardChild_40
+  - first:
+      213: 3172944872836708642
+    second: LizardChild_41
+  - first:
+      213: -3459744920716180370
+    second: LizardChild_42
+  - first:
+      213: -5156649937159292457
+    second: LizardChild_43
+  - first:
+      213: 8398689549031606641
+    second: LizardChild_44
+  - first:
+      213: 2408749320666646241
+    second: LizardChild_45
+  - first:
+      213: -781475361210630110
+    second: LizardChild_46
+  - first:
+      213: 413295095285754348
+    second: LizardChild_47
+  - first:
+      213: 8788024605092020956
+    second: LizardChild_48
+  - first:
+      213: -4651402733381970267
+    second: LizardChild_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LizardChild_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61c656de6206f430800000000000000
+      internalID: 3816240409308741997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542f10c1aaf27130800000000000000
+      internalID: 3563185827823428693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b06077888c37c210800000000000000
+      internalID: 1353116770133631154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd260efc5c13c7310800000000000000
+      internalID: 1404051909498659548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd17591eaff0f60800000000000000
+      internalID: 8002890909642514246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cba25872dc039c0800000000000000
+      internalID: -3949431303582335873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749fae8fd29c2a90800000000000000
+      internalID: -7337328204024146828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef881622f9f7d60800000000000000
+      internalID: 7890200042190470720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909d1f0ec7647b90800000000000000
+      internalID: -7245051765817765732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545df498617491b0800000000000000
+      internalID: -5650766938452962222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0973b860e9014ca90800000000000000
+      internalID: -7294687225532696688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c140532c4ad2b0800000000000000
+      internalID: -5559047075481403361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53e5d1799937100800000000000000
+      internalID: 104596090671478209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7cc0bcf79f758c0800000000000000
+      internalID: -4010462615887362071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d07b1dbf22f47c0800000000000000
+      internalID: -4085007872051180288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e0112208ac5060800000000000000
+      internalID: 6943609452596618521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac0604e66e2c380800000000000000
+      internalID: -8952339748058248638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf5e7df4a19daec0800000000000000
+      internalID: -3554024393111871572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09d7a6a8c7f5bb0800000000000000
+      internalID: -4945096931895570268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a898d430e841f80800000000000000
+      internalID: -8136722481914738130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c69e4985f9973020800000000000000
+      internalID: 2321493412782446272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974a7432ea6d34c0800000000000000
+      internalID: -4306168148920744033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d08c8801d2e8930800000000000000
+      internalID: 4147301855892344148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3b43d53e582ae0800000000000000
+      internalID: -1573904484494787399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767ae5a13475ce20800000000000000
+      internalID: 3370227652742510193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd18ca2be50ce70800000000000000
+      internalID: 9133404165798747343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ea3a3d10ea3310800000000000000
+      internalID: 1385666251505461494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f362dc9f8525980800000000000000
+      internalID: -8551674912511213675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb87245e47a7430800000000000000
+      internalID: 3781463365142494914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275e34b11f17a8d0800000000000000
+      internalID: -2835263279507548371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9847588d63a97b9f0800000000000000
+      internalID: -452723677175909239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c326acc8e7c8310800000000000000
+      internalID: 1408639926616079479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965fcc4fefa759e80800000000000000
+      internalID: -8172490713346542231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ee4116f40bb6b0800000000000000
+      internalID: -5279620683262924606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff08ec23c52b3380800000000000000
+      internalID: -8990550710912806923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357e569bd6ba6320800000000000000
+      internalID: 2552053193095673139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d76bb7f2211633b0800000000000000
+      internalID: -5533216250295261232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210f009d6c429650800000000000000
+      internalID: 6238132467313606953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204d9c1dd279a1c0800000000000000
+      internalID: -4491932859331952601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5271e0fa209457ea0800000000000000
+      internalID: -5875709862959245531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a8983e5716b0c0800000000000000
+      internalID: -4560431879222155925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22934550d80980c20800000000000000
+      internalID: 3172944872836708642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64004b33548cffc0800000000000000
+      internalID: -3459744920716180370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d974980436ef68b0800000000000000
+      internalID: -5156649937159292457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17980dc85a32e8470800000000000000
+      internalID: 8398689549031606641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68c4bbeb89d6120800000000000000
+      internalID: 2408749320666646241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200256ac44a725f0800000000000000
+      internalID: -781475361210630110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92bed03b15cb500800000000000000
+      internalID: 413295095285754348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd207ef31d555f970800000000000000
+      internalID: 8788024605092020956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardChild_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69c71bbd5e27fb0800000000000000
+      internalID: -4651402733381970267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LizardChild_28: 3781463365142494914
+      LizardChild_29: -2835263279507548371
+      LizardChild_3: 1404051909498659548
+      LizardChild_45: 2408749320666646241
+      LizardChild_15: 6943609452596618521
+      LizardChild_4: 8002890909642514246
+      LizardChild_42: -3459744920716180370
+      LizardChild_47: 413295095285754348
+      LizardChild_48: 8788024605092020956
+      LizardChild_24: 3370227652742510193
+      LizardChild_20: 2321493412782446272
+      LizardChild_41: 3172944872836708642
+      LizardChild_26: 1385666251505461494
+      LizardChild_44: 8398689549031606641
+      LizardChild_32: -8172490713346542231
+      LizardChild_10: -7294687225532696688
+      LizardChild_9: -5650766938452962222
+      LizardChild_14: -4085007872051180288
+      LizardChild_38: -4491932859331952601
+      LizardChild_43: -5156649937159292457
+      LizardChild_0: 3816240409308741997
+      LizardChild_19: -8136722481914738130
+      LizardChild_16: -8952339748058248638
+      LizardChild_13: -4010462615887362071
+      LizardChild_5: -3949431303582335873
+      LizardChild_34: -8990550710912806923
+      LizardChild_35: 2552053193095673139
+      LizardChild_49: -4651402733381970267
+      LizardChild_7: 7890200042190470720
+      LizardChild_40: -4560431879222155925
+      LizardChild_12: 104596090671478209
+      LizardChild_1: 3563185827823428693
+      LizardChild_17: -3554024393111871572
+      LizardChild_36: -5533216250295261232
+      LizardChild_2: 1353116770133631154
+      LizardChild_33: -5279620683262924606
+      LizardChild_18: -4945096931895570268
+      LizardChild_30: -452723677175909239
+      LizardChild_11: -5559047075481403361
+      LizardChild_22: 4147301855892344148
+      LizardChild_37: 6238132467313606953
+      LizardChild_46: -781475361210630110
+      LizardChild_31: 1408639926616079479
+      LizardChild_39: -5875709862959245531
+      LizardChild_25: 9133404165798747343
+      LizardChild_23: -1573904484494787399
+      LizardChild_6: -7337328204024146828
+      LizardChild_8: -7245051765817765732
+      LizardChild_21: -4306168148920744033
+      LizardChild_27: -8551674912511213675
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

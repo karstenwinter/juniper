@@ -1,0 +1,81 @@
+prefab	variant	state	frames	frame size	layer	tone	z	sort	sheet url	data	preview	Test Lookup
+Deco small bottom	cave	idle	5	120	normal	#ffffff	0	1				
+Deco small bottom	cave	touch	5		normal	#ffffff	0	1				
+Deco small bottom	cave	dead	1		normal	#ffffff	0	1				
+Deco small bottom	cave	particle	1		normal	#ffffff	0	1				
+Deco small bottom	hollow	idle	5	120	normal	#ffffff	0	1				
+Deco small bottom	hollow	touch	5		normal	#ffffff	0	1				
+Deco small bottom	hollow	dead	1		normal	#ffffff	0	1				
+Deco small bottom	hollow	particle	1		normal	#ffffff	0	1				
+Deco small left	cave	idle	5	120	normal	#ffffff	0	1				
+Deco small left	cave	touch	5		normal	#ffffff	0	1				
+Deco small left	cave	dead	1		normal	#ffffff	0	1				
+Deco small left	cave	particle	1		normal	#ffffff	0	1				
+Deco small left	hollow	idle	5	120	normal	#ffffff	0	1				
+Deco small left	hollow	touch	5		normal	#ffffff	0	1				
+Deco small left	hollow	dead	1		normal	#ffffff	0	1				
+Deco small left	hollow	particle	1		normal	#ffffff	0	1				
+Deco small right	cave	idle	5	120	normal	#ffffff	0	1				
+Deco small right	cave	touch	5		normal	#ffffff	0	1				
+Deco small right	cave	dead	1		normal	#ffffff	0	1				
+Deco small right	cave	particle	1		normal	#ffffff	0	1				
+Deco small right	hollow	idle	5	120	normal	#ffffff	0	1				
+Deco small right	hollow	touch	5		normal	#ffffff	0	1				
+Deco small right	hollow	dead	1		normal	#ffffff	0	1				
+Deco small right	hollow	particle	1		normal	#ffffff	0	1				
+Deco big bottom	cave	idle	1	360	behind	#ffffff	-0.15	-15				
+Deco big bottom	cave	dead	1		behind	#ffffff	-0.15	-15				
+Deco big bottom	cave	particle	1		behind	#ffffff	-0.15	-15				
+Deco big top	wood	idle	1	360	behind	#ffffff	-0.15	-15				
+Deco big top	wood	dead	1		behind	#ffffff	-0.15	-15				
+Deco big top	wood	particle	1		behind	#ffffff	-0.15	-15				
+Deco big top	cave	idle	1	360	behind	#ffffff	-0.15	-15				
+Deco big top	cave	dead	1		behind	#ffffff	-0.15	-15				
+Deco big top	cave	particle	1		behind	#ffffff	-0.15	-15				
+Shells bottom	cave	idle	5	120	normal	#ffffff	0	1				
+Shells bottom	cave	dead	1		normal	#ffffff	0	1				
+Shells bottom	cave	particle	1		normal	#ffffff	0	1				
+Shells bottom	cave	pickup	1		normal	#ffffff	0	1				
+Shells bottom	wood	idle	5	120	normal	#ffffff	0	1				
+Shells bottom	wood	dead	1		normal	#ffffff	0	1				
+Shells bottom	wood	particle	1		normal	#ffffff	0	1				
+Shells bottom	wood	pickup	1		normal	#ffffff	0	1				
+Shells bottom	mossy	idle	5	120	normal	#ffffff	0	1				
+Shells bottom	mossy	dead	1		normal	#ffffff	0	1				
+Shells bottom	mossy	particle	1		normal	#ffffff	0	1				
+Shells bottom	mossy	pickup	1		normal	#ffffff	0	1				
+Shells bottom	forest	idle	5	120	normal	#ffffff	0	1				
+Shells bottom	forest	dead	1		normal	#ffffff	0	1				
+Shells bottom	forest	particle	1		normal	#ffffff	0	1				
+Shells bottom	forest	pickup	1		normal	#ffffff	0	1				
+Shells bottom	hollow	idle	5	120	normal	#ffffff	0	1				
+Shells bottom	hollow	dead	1		normal	#ffffff	0	1				
+Shells bottom	hollow	particle	1		normal	#ffffff	0	1				
+Shells bottom	hollow	pickup	1		normal	#ffffff	0	1				
+Trap center	cave	idle	3	360	normal	#ffffff	0	1				
+Trap top	cave	idle	3	360	normal	#ffffff	0	1				
+Trap left	cave	idle	3	360	normal	#ffffff	0	1				
+Trap right	cave	idle	3	360	normal	#ffffff	0	1				
+Trap bottom	cave	idle	3	360	normal	#ffffff	0	1				
+Nettles	cave	idle	1	640	normal	#ffffff	0	1				
+Nettles	cave	dead	1		normal	#ffffff	0	1				
+Nettles	cave	particle	1		normal	#ffffff	0	1				
+Checkpoint	cave	idle	1	320	normal	#ffffff	0	1				
+Checkpoint	cave	active	1		normal	#ffffff	0	1				
+Checkpoint	cave	particle	1		normal	#ffffff	0	1				
+Checkpoint	mossy	idle	1	320	normal	#ffffff	0	1				
+Checkpoint	mossy	active	1		normal	#ffffff	0	1				
+Checkpoint	mossy	particle	1		normal	#ffffff	0	1				
+Destroyable 1x1	cave	idle	4	240	behind	#ffffff	0	1				
+Destroyable 1x1	cave	dead	1		behind	#ffffff	0	1				
+Destroyable 1x1	cave	particle	1		behind	#ffffff	0	1				
+Destroyable wall right	cave	idle	1	360	behind	#ffffff	0	1				
+Destroyable wall right	cave	dead	1		behind	#ffffff	0	1				
+Destroyable wall right	cave	particle	1		behind	#ffffff	0	1				
+Destroyable wall left	cave	idle	1	360	behind	#ffffff	0	1				
+Destroyable wall left	cave	dead	1		behind	#ffffff	0	1				
+Destroyable wall left	cave	particle	1		behind	#ffffff	0	1				
+Water	caustics	row1	4	256	behind	#ffffff	0	1				
+Water	caustics	row2	4		behind	#ffffff	0	1				
+Water	caustics	row3	4		behind	#ffffff	0	1				
+Water	caustics	row4	4		behind	#ffffff	0	1				

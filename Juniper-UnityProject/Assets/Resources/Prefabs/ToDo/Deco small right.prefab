@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3756117155182667177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3756117155182667182}
+  m_Layer: 0
+  m_Name: Deco small right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3756117155182667182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3756117155182667177}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1823353342955155748}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3273468846781305994
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3756117155182667182}
+    m_Modifications:
+    - target: {fileID: 2376425134802757001, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: unit
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376425134802757001, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: status.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376425134802757001, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: status.Array.data[0]
+      value: Found 4 for Deco small bottom/cave
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376425134802757001, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: status.Array.data[2]
+      value: current 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2376425134802757001, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: status.Array.data[3]
+      value: 'current at 0: cave_0 (UnityEngine.Sprite)'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117153927717291, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Deco small bottom/cave
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117153927717294, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117153927717294, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667177, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Deco small bottom
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4859420854345319103, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4859420854345319103, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4859420854345319103, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8606453610214823136, guid: c65f7130dddf3654f9b3af3661a26754,
+        type: 3}
+    - target: {fileID: 4859420854345319103, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 60d922fc3a5da8a4c81efe6b291ed0d7, type: 3}
+--- !u!4 &1823353342955155748 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3756117155182667182, guid: 60d922fc3a5da8a4c81efe6b291ed0d7,
+    type: 3}
+  m_PrefabInstance: {fileID: 3273468846781305994}
+  m_PrefabAsset: {fileID: 0}

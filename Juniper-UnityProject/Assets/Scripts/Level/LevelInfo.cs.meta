@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 88aa18abf0bfbbe47bde6fc6fd959bd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bounds: {instanceID: 0}
+  - generated: {instanceID: 0}
+  - tilemap: {instanceID: 0}
+  - borderRef: {instanceID: 0}
+  - sharedMaterial: {fileID: 2100000, guid: 794af0824ada580f2acc96913be6d0e3, type: 2}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

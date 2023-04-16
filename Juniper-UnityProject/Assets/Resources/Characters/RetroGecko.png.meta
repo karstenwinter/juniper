@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: a49bca45afc279d4ba12b4a1d5b3efcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1056887923841013395
+    second: RetroGecko_0
+  - first:
+      213: 4612227459796261503
+    second: RetroGecko_1
+  - first:
+      213: 3090637391729421137
+    second: RetroGecko_2
+  - first:
+      213: -7862043988237899425
+    second: RetroGecko_3
+  - first:
+      213: 4152954976016268052
+    second: RetroGecko_4
+  - first:
+      213: 6876292423598119788
+    second: RetroGecko_5
+  - first:
+      213: -9052073320938610556
+    second: RetroGecko_6
+  - first:
+      213: 8665132704973754085
+    second: RetroGecko_7
+  - first:
+      213: 4549558334020036393
+    second: RetroGecko_8
+  - first:
+      213: 8582537838467900877
+    second: RetroGecko_9
+  - first:
+      213: 4661720611412806179
+    second: RetroGecko_10
+  - first:
+      213: -7457304404169965204
+    second: RetroGecko_11
+  - first:
+      213: 3780095041243699997
+    second: RetroGecko_12
+  - first:
+      213: 6568778356337754737
+    second: RetroGecko_13
+  - first:
+      213: 4623211613742679302
+    second: RetroGecko_14
+  - first:
+      213: 5309164562806156272
+    second: RetroGecko_15
+  - first:
+      213: -7517926225275961912
+    second: RetroGecko_16
+  - first:
+      213: -3834121806777427920
+    second: RetroGecko_17
+  - first:
+      213: -7721943148192564375
+    second: RetroGecko_18
+  - first:
+      213: 1763404624159774178
+    second: RetroGecko_19
+  - first:
+      213: 7416551145007934747
+    second: RetroGecko_20
+  - first:
+      213: 5458205865048226930
+    second: RetroGecko_21
+  - first:
+      213: -8371757459912212746
+    second: RetroGecko_22
+  - first:
+      213: -8794256007371742809
+    second: RetroGecko_23
+  - first:
+      213: -8052548163221407899
+    second: RetroGecko_24
+  - first:
+      213: 1237111148765038152
+    second: RetroGecko_25
+  - first:
+      213: -9086954773570203044
+    second: RetroGecko_26
+  - first:
+      213: 8691588962125983456
+    second: RetroGecko_27
+  - first:
+      213: -4224552456173585216
+    second: RetroGecko_28
+  - first:
+      213: -2378349557906394434
+    second: RetroGecko_29
+  - first:
+      213: 5059048096598996799
+    second: RetroGecko_30
+  - first:
+      213: 7298871180758521918
+    second: RetroGecko_31
+  - first:
+      213: -2109028019693841423
+    second: RetroGecko_32
+  - first:
+      213: 2323209331363305808
+    second: RetroGecko_33
+  - first:
+      213: -3166956153482313788
+    second: RetroGecko_34
+  - first:
+      213: -2130347378219892349
+    second: RetroGecko_35
+  - first:
+      213: -1039855270270863916
+    second: RetroGecko_36
+  - first:
+      213: 4715605923566861440
+    second: RetroGecko_37
+  - first:
+      213: 5753887678035826014
+    second: RetroGecko_38
+  - first:
+      213: 6274430390284342778
+    second: RetroGecko_39
+  - first:
+      213: -104508584105645202
+    second: RetroGecko_40
+  - first:
+      213: 3708230980645595959
+    second: RetroGecko_41
+  - first:
+      213: 3589077612162164209
+    second: RetroGecko_42
+  - first:
+      213: -1121159112402805961
+    second: RetroGecko_43
+  - first:
+      213: -545216240453424548
+    second: RetroGecko_44
+  - first:
+      213: 6250354749379098958
+    second: RetroGecko_45
+  - first:
+      213: 4956696097148921493
+    second: RetroGecko_46
+  - first:
+      213: 3742542471007674353
+    second: RetroGecko_47
+  - first:
+      213: 2621515601941003322
+    second: RetroGecko_48
+  - first:
+      213: 5246948665627469312
+    second: RetroGecko_49
+  - first:
+      213: 2641618596258331027
+    second: RetroGecko_50
+  - first:
+      213: -37416457642699339
+    second: RetroGecko_51
+  - first:
+      213: 4361508130966290808
+    second: RetroGecko_52
+  - first:
+      213: -5804687002735556375
+    second: RetroGecko_53
+  - first:
+      213: -8207100797963830991
+    second: RetroGecko_54
+  - first:
+      213: -6637844556629295698
+    second: RetroGecko_55
+  - first:
+      213: -2297796178840596493
+    second: RetroGecko_56
+  - first:
+      213: 6259427075036176164
+    second: RetroGecko_57
+  - first:
+      213: 3559855850460493420
+    second: RetroGecko_58
+  - first:
+      213: 5054224210847131836
+    second: RetroGecko_59
+  - first:
+      213: -6217791954627565500
+    second: RetroGecko_60
+  - first:
+      213: -6595227620318024565
+    second: RetroGecko_61
+  - first:
+      213: 3558953222855227723
+    second: RetroGecko_62
+  - first:
+      213: -7992157244377145863
+    second: RetroGecko_63
+  - first:
+      213: 3060670268822017468
+    second: RetroGecko_64
+  - first:
+      213: 7845626937102596682
+    second: RetroGecko_65
+  - first:
+      213: -3428992830370502668
+    second: RetroGecko_66
+  - first:
+      213: -4986094266841491059
+    second: RetroGecko_67
+  - first:
+      213: -2775744266152995424
+    second: RetroGecko_68
+  - first:
+      213: 7645416338324576063
+    second: RetroGecko_69
+  - first:
+      213: 7262548741484264828
+    second: RetroGecko_70
+  - first:
+      213: 5587082003555307497
+    second: RetroGecko_71
+  - first:
+      213: 6509433339665363852
+    second: RetroGecko_72
+  - first:
+      213: -5161216063530236438
+    second: RetroGecko_73
+  - first:
+      213: -3948341750140646059
+    second: RetroGecko_74
+  - first:
+      213: 1296692059615326679
+    second: RetroGecko_75
+  - first:
+      213: -5090545481194234193
+    second: RetroGecko_76
+  - first:
+      213: -1142312670231994498
+    second: RetroGecko_77
+  - first:
+      213: 1340045310329552167
+    second: RetroGecko_78
+  - first:
+      213: -8479729179607273125
+    second: RetroGecko_79
+  - first:
+      213: -3612365697537483452
+    second: RetroGecko_80
+  - first:
+      213: 4579583851256438710
+    second: RetroGecko_81
+  - first:
+      213: -6947672655150567437
+    second: RetroGecko_82
+  - first:
+      213: 8109063053109492708
+    second: RetroGecko_83
+  - first:
+      213: 4604578260490613607
+    second: RetroGecko_84
+  - first:
+      213: 6793271626265403133
+    second: RetroGecko_85
+  - first:
+      213: 5482833189855854562
+    second: RetroGecko_86
+  - first:
+      213: -7807567790729294082
+    second: RetroGecko_87
+  - first:
+      213: -2342477276643233083
+    second: RetroGecko_88
+  - first:
+      213: -8937612749782592184
+    second: RetroGecko_89
+  - first:
+      213: 5817468309390012642
+    second: RetroGecko_90
+  - first:
+      213: -5551417223828839939
+    second: RetroGecko_91
+  - first:
+      213: 2576839916938036413
+    second: RetroGecko_92
+  - first:
+      213: -8173987128457342120
+    second: RetroGecko_93
+  - first:
+      213: -7400934209661298922
+    second: RetroGecko_94
+  - first:
+      213: 2703987244773055886
+    second: RetroGecko_95
+  - first:
+      213: -2062256917982961207
+    second: RetroGecko_96
+  - first:
+      213: -7300862816210490465
+    second: RetroGecko_97
+  - first:
+      213: 931614651479943091
+    second: RetroGecko_98
+  - first:
+      213: 8080006554007219699
+    second: RetroGecko_99
+  - first:
+      213: 478232400174775455
+    second: RetroGecko_100
+  - first:
+      213: -8297523767215870500
+    second: RetroGecko_101
+  - first:
+      213: 4623595579901452349
+    second: RetroGecko_102
+  - first:
+      213: -6242208966359037131
+    second: RetroGecko_103
+  - first:
+      213: 7981499978639780001
+    second: RetroGecko_104
+  - first:
+      213: 4176278814698789762
+    second: RetroGecko_105
+  - first:
+      213: 2925040438874487244
+    second: RetroGecko_106
+  - first:
+      213: -5990726981990118983
+    second: RetroGecko_107
+  - first:
+      213: 2383579344558190483
+    second: RetroGecko_108
+  - first:
+      213: 7978411266699590826
+    second: RetroGecko_109
+  - first:
+      213: -4245159005074540133
+    second: RetroGecko_110
+  - first:
+      213: 5629310256623451071
+    second: RetroGecko_111
+  - first:
+      213: 7970735698348863276
+    second: RetroGecko_112
+  - first:
+      213: 4461146011483541218
+    second: RetroGecko_113
+  - first:
+      213: -278219068376550047
+    second: RetroGecko_114
+  - first:
+      213: 5096873000234336583
+    second: RetroGecko_115
+  - first:
+      213: 5173502889148676875
+    second: RetroGecko_116
+  - first:
+      213: 340889118706879868
+    second: RetroGecko_117
+  - first:
+      213: 8652848721923302325
+    second: RetroGecko_118
+  - first:
+      213: -3457246193520052890
+    second: RetroGecko_119
+  - first:
+      213: 8467021315939109642
+    second: RetroGecko_120
+  - first:
+      213: 5543379874342861004
+    second: RetroGecko_121
+  - first:
+      213: 762129647453710180
+    second: RetroGecko_122
+  - first:
+      213: 2528759476512863740
+    second: RetroGecko_123
+  - first:
+      213: -344828085489368976
+    second: RetroGecko_124
+  - first:
+      213: -302998478796210795
+    second: RetroGecko_125
+  - first:
+      213: -1531982970780058421
+    second: RetroGecko_126
+  - first:
+      213: 2386804522862832480
+    second: RetroGecko_127
+  - first:
+      213: -7629771398246683899
+    second: RetroGecko_128
+  - first:
+      213: -6422743844305930578
+    second: RetroGecko_129
+  - first:
+      213: 3382072324641138583
+    second: RetroGecko_130
+  - first:
+      213: 9198038898263488215
+    second: RetroGecko_131
+  - first:
+      213: -7809112443783803518
+    second: RetroGecko_132
+  - first:
+      213: -9191616360415897507
+    second: RetroGecko_133
+  - first:
+      213: 8293472483276765870
+    second: RetroGecko_134
+  - first:
+      213: -6359610348720211231
+    second: RetroGecko_135
+  - first:
+      213: 8407579413025287790
+    second: RetroGecko_136
+  - first:
+      213: 2971382594836382362
+    second: RetroGecko_137
+  - first:
+      213: 1503732299034974044
+    second: RetroGecko_138
+  - first:
+      213: -7065590648798445878
+    second: RetroGecko_139
+  - first:
+      213: -4886289149496136247
+    second: RetroGecko_140
+  - first:
+      213: 5258718574428662112
+    second: RetroGecko_141
+  - first:
+      213: 4666173709058143301
+    second: RetroGecko_142
+  - first:
+      213: 482975683926628094
+    second: RetroGecko_143
+  - first:
+      213: -6092500292536876890
+    second: RetroGecko_144
+  - first:
+      213: -7956972316609053439
+    second: RetroGecko_145
+  - first:
+      213: -8638252430688939723
+    second: RetroGecko_146
+  - first:
+      213: -4580766771177227317
+    second: RetroGecko_147
+  - first:
+      213: -8633232371126879210
+    second: RetroGecko_148
+  - first:
+      213: -7651337871533114883
+    second: RetroGecko_149
+  - first:
+      213: -2727186968955377631
+    second: RetroGecko_150
+  - first:
+      213: -2435812147862480342
+    second: RetroGecko_151
+  - first:
+      213: -5522722412167484569
+    second: RetroGecko_152
+  - first:
+      213: 11560517857840807
+    second: RetroGecko_153
+  - first:
+      213: 1612803001049347302
+    second: RetroGecko_154
+  - first:
+      213: -4616193835076803653
+    second: RetroGecko_155
+  - first:
+      213: 2925153801235692492
+    second: RetroGecko_156
+  - first:
+      213: -755957515925785911
+    second: RetroGecko_157
+  - first:
+      213: 5560443576836201220
+    second: RetroGecko_158
+  - first:
+      213: -5304969347949972946
+    second: RetroGecko_159
+  - first:
+      213: 5598964348210494560
+    second: RetroGecko_160
+  - first:
+      213: -1193679248009901759
+    second: RetroGecko_161
+  - first:
+      213: -7505940318940474187
+    second: RetroGecko_162
+  - first:
+      213: -7988309765532872681
+    second: RetroGecko_163
+  - first:
+      213: -9108720462491700325
+    second: RetroGecko_164
+  - first:
+      213: 1009175674375009486
+    second: RetroGecko_165
+  - first:
+      213: 2420711231256613532
+    second: RetroGecko_166
+  - first:
+      213: -2001751442380585168
+    second: RetroGecko_167
+  - first:
+      213: 814528839891897305
+    second: RetroGecko_168
+  - first:
+      213: -9062293838346090674
+    second: RetroGecko_169
+  - first:
+      213: -8124715006219965433
+    second: RetroGecko_170
+  - first:
+      213: -2438501171251374569
+    second: RetroGecko_171
+  - first:
+      213: 825114279590196649
+    second: RetroGecko_172
+  - first:
+      213: 3210375718679370432
+    second: RetroGecko_173
+  - first:
+      213: 3790772460994063157
+    second: RetroGecko_174
+  - first:
+      213: -326658141488955889
+    second: RetroGecko_175
+  - first:
+      213: 5090871154413815720
+    second: RetroGecko_176
+  - first:
+      213: -8614165972127421581
+    second: RetroGecko_177
+  - first:
+      213: 5371008975658697401
+    second: RetroGecko_178
+  - first:
+      213: 7938405197379250152
+    second: RetroGecko_179
+  - first:
+      213: 913151928453987406
+    second: RetroGecko_180
+  - first:
+      213: -2513096250052160319
+    second: RetroGecko_181
+  - first:
+      213: 994641529137077946
+    second: RetroGecko_182
+  - first:
+      213: -6774706946410119012
+    second: RetroGecko_183
+  - first:
+      213: 8938959924677940272
+    second: RetroGecko_184
+  - first:
+      213: -7724962901993714877
+    second: RetroGecko_185
+  - first:
+      213: 5753595693778382555
+    second: RetroGecko_186
+  - first:
+      213: 8975562451576606743
+    second: RetroGecko_187
+  - first:
+      213: 5790160274327477518
+    second: RetroGecko_188
+  - first:
+      213: -428656615764322753
+    second: RetroGecko_189
+  - first:
+      213: 6947500660948955644
+    second: RetroGecko_190
+  - first:
+      213: -6319868853780148858
+    second: RetroGecko_191
+  - first:
+      213: 3002193763554903680
+    second: RetroGecko_192
+  - first:
+      213: 1607473785526069261
+    second: RetroGecko_193
+  - first:
+      213: 2409874840067717348
+    second: RetroGecko_194
+  - first:
+      213: 2028446032080775982
+    second: RetroGecko_195
+  - first:
+      213: 8515818798502767321
+    second: RetroGecko_196
+  - first:
+      213: -2852498662327560707
+    second: RetroGecko_197
+  - first:
+      213: -2604463067228806537
+    second: RetroGecko_198
+  - first:
+      213: -8248881438392063406
+    second: RetroGecko_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RetroGecko_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696e0c680e2551f0800000000000000
+      internalID: -1056887923841013395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5574207ce10040800000000000000
+      internalID: 4612227459796261503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b6297355624ea20800000000000000
+      internalID: 3090637391729421137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a598c5a864e290800000000000000
+      internalID: -7862043988237899425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf3a12c8242a930800000000000000
+      internalID: 4152954976016268052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9640f68f7d6f50800000000000000
+      internalID: 6876292423598119788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e9a84643906280800000000000000
+      internalID: -9052073320938610556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee849b094cb04870800000000000000
+      internalID: 8665132704973754085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ae204337432f30800000000000000
+      internalID: 4549558334020036393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56a3d11bc4b1770800000000000000
+      internalID: 8582537838467900877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a806d7232c1b040800000000000000
+      internalID: 4661720611412806179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614e77a725528890800000000000000
+      internalID: -7457304404169965204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bdb868968957430800000000000000
+      internalID: 3780095041243699997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17249c9bc1df82b50800000000000000
+      internalID: 6568778356337754737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c796c772f82040800000000000000
+      internalID: 4623211613742679302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb272c6a01fda940800000000000000
+      internalID: 5309164562806156272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd35d60ee5faa790800000000000000
+      internalID: -7517926225275961912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d371e7867acac0800000000000000
+      internalID: -3834121806777427920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b783c8e9526d490800000000000000
+      internalID: -7721943148192564375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5135aa92fd87810800000000000000
+      internalID: 1763404624159774178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de6b8c8f1ece660800000000000000
+      internalID: 7416551145007934747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c3721c0517fbb40800000000000000
+      internalID: 5458205865048226930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb43812fa81db80800000000000000
+      internalID: -8371757459912212746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a123c851c684f580800000000000000
+      internalID: -8794256007371742809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b67a1c1a9f3090800000000000000
+      internalID: -8052548163221407899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c0d9090a1b2110800000000000000
+      internalID: 1237111148765038152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52de4737c6a4e180800000000000000
+      internalID: -9086954773570203044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eea93d6c1abe9870800000000000000
+      internalID: 8691588962125983456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf4ca7cef5f55c0800000000000000
+      internalID: -4224552456173585216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb238499da76efed0800000000000000
+      internalID: -2378349557906394434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37366b9079553640800000000000000
+      internalID: 5059048096598996799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e389276faacca4560800000000000000
+      internalID: 7298871180758521918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39dc0b03a3bb2e0800000000000000
+      internalID: -2109028019693841423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05958c6f392bd3020800000000000000
+      internalID: 2323209331363305808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff27c5826bc04d0800000000000000
+      internalID: -3166956153482313788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381c409b85c7f62e0800000000000000
+      internalID: -2130347378219892349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5ffad1421b191f0800000000000000
+      internalID: -1039855270270863916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3ee66a92317140800000000000000
+      internalID: 4715605923566861440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5592d69b5ae9df40800000000000000
+      internalID: 5753887678035826014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af550d45231431750800000000000000
+      internalID: 6274430390284342778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b67681ff5bc8ef0800000000000000
+      internalID: -104508584105645202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73baa7a0e68467330800000000000000
+      internalID: 3708230980645595959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5ab309217fec130800000000000000
+      internalID: 3589077612162164209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd9883ab7d070f0800000000000000
+      internalID: -1121159112402805961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aeffdc7b00f68f0800000000000000
+      internalID: -545216240453424548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49baec5788bdb650800000000000000
+      internalID: 6250354749379098958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966022b6d8b9c440800000000000000
+      internalID: 4956696097148921493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff993d6c8e20f330800000000000000
+      internalID: 3742542471007674353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c76d2fc8e716420800000000000000
+      internalID: 2621515601941003322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066f690308e0d840800000000000000
+      internalID: 5246948665627469312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3993b0e0e1ae8a420800000000000000
+      internalID: 2641618596258331027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b514751ee11b7ff0800000000000000
+      internalID: -37416457642699339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871493f6980378c30800000000000000
+      internalID: 4361508130966290808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ce91fceb917fa0800000000000000
+      internalID: -5804687002735556375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397a8dae458a1e80800000000000000
+      internalID: -8207100797963830991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb9d76b83a1e3a0800000000000000
+      internalID: -6637844556629295698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffc4f1bc869c10e0800000000000000
+      internalID: -2297796178840596493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_57
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5ef8c2c3fdd650800000000000000
+      internalID: 6259427075036176164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_58
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663b4af806276130800000000000000
+      internalID: 3559855850460493420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_59
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8e8be2426342640800000000000000
+      internalID: 5054224210847131836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44864291927f5b9a0800000000000000
+      internalID: -6217791954627565500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c691e1c6b0974a0800000000000000
+      internalID: -6595227620318024565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49748c9911f36130800000000000000
+      internalID: 3558953222855227723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd5db9457261190800000000000000
+      internalID: -7992157244377145863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55cb3b46fa97a20800000000000000
+      internalID: 3060670268822017468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7c32a12441ec60800000000000000
+      internalID: 7845626937102596682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a7683035c960d0800000000000000
+      internalID: -3428992830370502668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891d488ea5ddcab0800000000000000
+      internalID: -4986094266841491059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_68
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a59f94eb439a79d0800000000000000
+      internalID: -2775744266152995424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_69
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ddcd07a9f91a60800000000000000
+      internalID: 7645416338324576063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d312c0a91c9c460800000000000000
+      internalID: 7262548741484264828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef44e80b7d498d40800000000000000
+      internalID: 5587082003555307497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b6db4227265a50800000000000000
+      internalID: 6509433339665363852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae58d34e55daf58b0800000000000000
+      internalID: -5161216063530236438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc503f81ca439c0800000000000000
+      internalID: -3948341750140646059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f07cde86cef110800000000000000
+      internalID: 1296692059615326679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae92701bdfba59b0800000000000000
+      internalID: -5090545481194234193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd46cbda0b520f0800000000000000
+      internalID: -1142312670231994498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dfe112c1cc89210800000000000000
+      internalID: 1340045310329552167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517ef91d33f15a80800000000000000
+      internalID: -8479729179607273125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd877898c4eddc0800000000000000
+      internalID: -3612365697537483452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5141cf33fd8f30800000000000000
+      internalID: 4579583851256438710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2e0ec788e49f90800000000000000
+      internalID: -6947672655150567437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebf5d512ed298070800000000000000
+      internalID: 8109063053109492708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637705288fb6ef30800000000000000
+      internalID: 4604578260490613607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1a424d8c864e50800000000000000
+      internalID: 6793271626265403133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7414acbfe61c40800000000000000
+      internalID: 5482833189855854562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe8cc9e572f5a390800000000000000
+      internalID: -7807567790729294082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_88
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2714fe359dd7fd0800000000000000
+      internalID: -2342477276643233083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_89
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d43dbe8837f380800000000000000
+      internalID: -8937612749782592184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b849ea9ccbb050800000000000000
+      internalID: 5817468309390012642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df162b5927765f2b0800000000000000
+      internalID: -5551417223828839939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db483247046c2c320800000000000000
+      internalID: 2576839916938036413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535fa9a30a209e80800000000000000
+      internalID: -8173987128457342120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6171a135c899a4990800000000000000
+      internalID: -7400934209661298922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d92e1a21e768520800000000000000
+      internalID: 2703987244773055886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a80862446163e0800000000000000
+      internalID: -2062256917982961207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_97
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b6ae543ff1eaa90800000000000000
+      internalID: -7300862816210490465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_98
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e201f692cdec00800000000000000
+      internalID: 931614651479943091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_99
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdad62b623f12070800000000000000
+      internalID: 8080006554007219699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cff7c85d503a600800000000000000
+      internalID: 478232400174775455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddacbb881649dc80800000000000000
+      internalID: -8297523767215870500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a71ddeaf4a2040800000000000000
+      internalID: 4623595579901452349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b496a84083f59a0800000000000000
+      internalID: -6242208966359037131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8ac9951fbf3ce60800000000000000
+      internalID: 7981499978639780001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b5c11847f15f930800000000000000
+      internalID: 4176278814698789762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_106
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc934c818c4d79820800000000000000
+      internalID: 2925040438874487244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_107
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98124dc89acdca0800000000000000
+      internalID: -5990726981990118983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_108
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f695ef8cc241120800000000000000
+      internalID: 2383579344558190483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_109
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac7a9f86c209be60800000000000000
+      internalID: 7978411266699590826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993b7f606a2615c0800000000000000
+      internalID: -4245159005074540133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf0806ad35f1e40800000000000000
+      internalID: 5629310256623451071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2feb9a03edbd9e60800000000000000
+      internalID: 7970735698348863276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee80a949ac29ed30800000000000000
+      internalID: 4461146011483541218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165fcab3b31932cf0800000000000000
+      internalID: -278219068376550047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414f344dfabbb640800000000000000
+      internalID: 5096873000234336583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf920a779fbc740800000000000000
+      internalID: 5173502889148676875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_117
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc15ce8d41bb400800000000000000
+      internalID: 340889118706879868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36e6d5118151870800000000000000
+      internalID: 8652848721923302325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_119
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657a2e77e46500d0800000000000000
+      internalID: -3457246193520052890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0632d607e08570800000000000000
+      internalID: 8467021315939109642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8714920aa0eec40800000000000000
+      internalID: 5543379874342861004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467a54d50e0a39a00800000000000000
+      internalID: 762129647453710180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b3ff8855f71320800000000000000
+      internalID: 2528759476512863740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07004d7eeace63bf0800000000000000
+      internalID: -344828085489368976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3ed72d788bcbf0800000000000000
+      internalID: -302998478796210795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_126
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf4b8da9d4dbae0800000000000000
+      internalID: -1531982970780058421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_127
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be8855112af1120800000000000000
+      internalID: 2386804522862832480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_128
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b221a665b9d1690800000000000000
+      internalID: -7629771398246683899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_129
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea671d4b084ddd6a0800000000000000
+      internalID: -6422743844305930578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972aea3cd88fee20800000000000000
+      internalID: 3382072324641138583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6783905aff5af70800000000000000
+      internalID: 9198038898263488215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0f295b9570a390800000000000000
+      internalID: -7809112443783803518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58ddb59e91d07080800000000000000
+      internalID: -9191616360415897507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa30386845581370800000000000000
+      internalID: 8293472483276765870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_135
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea32ae15102eb7a0800000000000000
+      internalID: -6359610348720211231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_136
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e624e4ee8bda470800000000000000
+      internalID: 8407579413025287790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_137
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9240091ab87c3920800000000000000
+      internalID: 2971382594836382362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_138
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d2411f845ed410800000000000000
+      internalID: 1503732299034974044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_139
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acefb027dbaf1fd90800000000000000
+      internalID: -7065590648798445878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdef6e38e9603cb0800000000000000
+      internalID: -4886289149496136247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069a19a7ea8baf840800000000000000
+      internalID: 5258718574428662112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5447da4144491c040800000000000000
+      internalID: 4666173709058143301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6199b53dfd3b600800000000000000
+      internalID: 482975683926628094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_144
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0406d6347137ba0800000000000000
+      internalID: -6092500292536876890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d76ecf5d7239190800000000000000
+      internalID: -7956972316609053439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_146
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53191a48e23ce1880800000000000000
+      internalID: -8638252430688939723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_147
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb711d34e8dd60c0800000000000000
+      internalID: -4580766771177227317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_148
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c349736e8903880800000000000000
+      internalID: -8633232371126879210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_149
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df976ce8ebcf0d590800000000000000
+      internalID: -7651337871533114883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282757a6e5172ad0800000000000000
+      internalID: -2727186968955377631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a531bc1c1423ed0800000000000000
+      internalID: -2435812147862480342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b2bad0a395b53b0800000000000000
+      internalID: -5522722412167484569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0650da32192000800000000000000
+      internalID: 11560517857840807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_154
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4fa32d8c3d16610800000000000000
+      internalID: 1612803001049347302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb326e52a2cffefb0800000000000000
+      internalID: -4616193835076803653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_156
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb790452eb389820800000000000000
+      internalID: 2925153801235692492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_157
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2f4fdf4ac4285f0800000000000000
+      internalID: -755957515925785911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_158
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9ceef8f9aa2d40800000000000000
+      internalID: 5560443576836201220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_159
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e223b172c76f066b0800000000000000
+      internalID: -5304969347949972946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb92df86483bd40800000000000000
+      internalID: 5598964348210494560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494d9e5c033f6fe0800000000000000
+      internalID: -1193679248009901759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b455405c0b85d790800000000000000
+      internalID: -7505940318940474187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_163
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71011a59792d32190800000000000000
+      internalID: -7988309765532872681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b9dadff2579180800000000000000
+      internalID: -9108720462491700325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_165
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec47613ddef410e00800000000000000
+      internalID: 1009175674375009486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_166
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9259d21a08189120800000000000000
+      internalID: 2420711231256613532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_167
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037874c3ba95834e0800000000000000
+      internalID: -2001751442380585168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_168
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db41111aa9cd4b00800000000000000
+      internalID: 814528839891897305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_169
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e478b23a4c34c3280800000000000000
+      internalID: -9062293838346090674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c29f89fb63f3f80800000000000000
+      internalID: -8124715006219965433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716103fba14b82ed0800000000000000
+      internalID: -2438501171251374569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5731ec015637b00800000000000000
+      internalID: 825114279590196649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_173
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5c63f4bb8d8c20800000000000000
+      internalID: 3210375718679370432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_174
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b62e908778b9430800000000000000
+      internalID: 3790772460994063157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_175
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebf89a62a777bf0800000000000000
+      internalID: -326658141488955889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_176
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a74e14a75866a640800000000000000
+      internalID: 5090871154413815720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_177
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b661b20b5547880800000000000000
+      internalID: -8614165972127421581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_178
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2429fd438a98a40800000000000000
+      internalID: 5371008975658697401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_179
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a7e0b771ea2e60800000000000000
+      internalID: 7938405197379250152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c767147da2cac00800000000000000
+      internalID: 913151928453987406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c456498640bf1dd0800000000000000
+      internalID: -2513096250052160319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe111f633dadcd00800000000000000
+      internalID: 994641529137077946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908ad91de76bf1a0800000000000000
+      internalID: -6774706946410119012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_184
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03491ebd0b09d0c70800000000000000
+      internalID: 8938959924677940272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_185
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b08935b2b6bc490800000000000000
+      internalID: -7724962901993714877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_186
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea0e4bcc0e8df40800000000000000
+      internalID: 5753595693778382555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_187
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710de81ce7a9f8c70800000000000000
+      internalID: 8975562451576606743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_188
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1ed78718ca5050800000000000000
+      internalID: 5790160274327477518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_189
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f361fbe341b1d0af0800000000000000
+      internalID: -428656615764322753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf177acaa0b7a6060800000000000000
+      internalID: 6947500660948955644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d0167f2c05b48a0800000000000000
+      internalID: -6319868853780148858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864597525fe9a920800000000000000
+      internalID: 3002193763554903680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_193
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a80424e4ee4610800000000000000
+      internalID: 1607473785526069261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_194
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e833632668917120800000000000000
+      internalID: 2409874840067717348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_195
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba9344bec762c10800000000000000
+      internalID: 2028446032080775982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_196
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae95814144e2670800000000000000
+      internalID: 8515818798502767321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_197
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df550bd6493e968d0800000000000000
+      internalID: -2852498662327560707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_198
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e33fa3a61bdbd0800000000000000
+      internalID: -2604463067228806537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetroGecko_199
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae3564906168d80800000000000000
+      internalID: -8248881438392063406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RetroGecko_32: -2109028019693841423
+      RetroGecko_142: 4666173709058143301
+      RetroGecko_120: 8467021315939109642
+      RetroGecko_158: 5560443576836201220
+      RetroGecko_12: 3780095041243699997
+      RetroGecko_149: -7651337871533114883
+      RetroGecko_71: 5587082003555307497
+      RetroGecko_28: -4224552456173585216
+      RetroGecko_94: -7400934209661298922
+      RetroGecko_105: 4176278814698789762
+      RetroGecko_169: -9062293838346090674
+      RetroGecko_87: -7807567790729294082
+      RetroGecko_55: -6637844556629295698
+      RetroGecko_153: 11560517857840807
+      RetroGecko_14: 4623211613742679302
+      RetroGecko_198: -2604463067228806537
+      RetroGecko_30: 5059048096598996799
+      RetroGecko_43: -1121159112402805961
+      RetroGecko_5: 6876292423598119788
+      RetroGecko_44: -545216240453424548
+      RetroGecko_74: -3948341750140646059
+      RetroGecko_130: 3382072324641138583
+      RetroGecko_146: -8638252430688939723
+      RetroGecko_103: -6242208966359037131
+      RetroGecko_9: 8582537838467900877
+      RetroGecko_50: 2641618596258331027
+      RetroGecko_199: -8248881438392063406
+      RetroGecko_45: 6250354749379098958
+      RetroGecko_86: 5482833189855854562
+      RetroGecko_119: -3457246193520052890
+      RetroGecko_90: 5817468309390012642
+      RetroGecko_69: 7645416338324576063
+      RetroGecko_95: 2703987244773055886
+      RetroGecko_116: 5173502889148676875
+      RetroGecko_101: -8297523767215870500
+      RetroGecko_132: -7809112443783803518
+      RetroGecko_141: 5258718574428662112
+      RetroGecko_88: -2342477276643233083
+      RetroGecko_38: 5753887678035826014
+      RetroGecko_75: 1296692059615326679
+      RetroGecko_134: 8293472483276765870
+      RetroGecko_176: 5090871154413815720
+      RetroGecko_58: 3559855850460493420
+      RetroGecko_42: 3589077612162164209
+      RetroGecko_81: 4579583851256438710
+      RetroGecko_22: -8371757459912212746
+      RetroGecko_2: 3090637391729421137
+      RetroGecko_17: -3834121806777427920
+      RetroGecko_122: 762129647453710180
+      RetroGecko_96: -2062256917982961207
+      RetroGecko_126: -1531982970780058421
+      RetroGecko_16: -7517926225275961912
+      RetroGecko_13: 6568778356337754737
+      RetroGecko_26: -9086954773570203044
+      RetroGecko_67: -4986094266841491059
+      RetroGecko_97: -7300862816210490465
+      RetroGecko_173: 3210375718679370432
+      RetroGecko_143: 482975683926628094
+      RetroGecko_189: -428656615764322753
+      RetroGecko_114: -278219068376550047
+      RetroGecko_121: 5543379874342861004
+      RetroGecko_27: 8691588962125983456
+      RetroGecko_63: -7992157244377145863
+      RetroGecko_37: 4715605923566861440
+      RetroGecko_152: -5522722412167484569
+      RetroGecko_155: -4616193835076803653
+      RetroGecko_166: 2420711231256613532
+      RetroGecko_179: 7938405197379250152
+      RetroGecko_80: -3612365697537483452
+      RetroGecko_61: -6595227620318024565
+      RetroGecko_129: -6422743844305930578
+      RetroGecko_73: -5161216063530236438
+      RetroGecko_163: -7988309765532872681
+      RetroGecko_76: -5090545481194234193
+      RetroGecko_11: -7457304404169965204
+      RetroGecko_89: -8937612749782592184
+      RetroGecko_136: 8407579413025287790
+      RetroGecko_188: 5790160274327477518
+      RetroGecko_98: 931614651479943091
+      RetroGecko_196: 8515818798502767321
+      RetroGecko_193: 1607473785526069261
+      RetroGecko_21: 5458205865048226930
+      RetroGecko_54: -8207100797963830991
+      RetroGecko_31: 7298871180758521918
+      RetroGecko_123: 2528759476512863740
+      RetroGecko_133: -9191616360415897507
+      RetroGecko_175: -326658141488955889
+      RetroGecko_10: 4661720611412806179
+      RetroGecko_47: 3742542471007674353
+      RetroGecko_185: -7724962901993714877
+      RetroGecko_18: -7721943148192564375
+      RetroGecko_104: 7981499978639780001
+      RetroGecko_92: 2576839916938036413
+      RetroGecko_60: -6217791954627565500
+      RetroGecko_56: -2297796178840596493
+      RetroGecko_33: 2323209331363305808
+      RetroGecko_167: -2001751442380585168
+      RetroGecko_172: 825114279590196649
+      RetroGecko_99: 8080006554007219699
+      RetroGecko_160: 5598964348210494560
+      RetroGecko_83: 8109063053109492708
+      RetroGecko_157: -755957515925785911
+      RetroGecko_19: 1763404624159774178
+      RetroGecko_48: 2621515601941003322
+      RetroGecko_57: 6259427075036176164
+      RetroGecko_128: -7629771398246683899
+      RetroGecko_72: 6509433339665363852
+      RetroGecko_23: -8794256007371742809
+      RetroGecko_100: 478232400174775455
+      RetroGecko_118: 8652848721923302325
+      RetroGecko_170: -8124715006219965433
+      RetroGecko_113: 4461146011483541218
+      RetroGecko_41: 3708230980645595959
+      RetroGecko_52: 4361508130966290808
+      RetroGecko_191: -6319868853780148858
+      RetroGecko_164: -9108720462491700325
+      RetroGecko_147: -4580766771177227317
+      RetroGecko_131: 9198038898263488215
+      RetroGecko_102: 4623595579901452349
+      RetroGecko_192: 3002193763554903680
+      RetroGecko_53: -5804687002735556375
+      RetroGecko_3: -7862043988237899425
+      RetroGecko_109: 7978411266699590826
+      RetroGecko_162: -7505940318940474187
+      RetroGecko_7: 8665132704973754085
+      RetroGecko_140: -4886289149496136247
+      RetroGecko_0: -1056887923841013395
+      RetroGecko_25: 1237111148765038152
+      RetroGecko_66: -3428992830370502668
+      RetroGecko_77: -1142312670231994498
+      RetroGecko_20: 7416551145007934747
+      RetroGecko_150: -2727186968955377631
+      RetroGecko_68: -2775744266152995424
+      RetroGecko_51: -37416457642699339
+      RetroGecko_70: 7262548741484264828
+      RetroGecko_36: -1039855270270863916
+      RetroGecko_127: 2386804522862832480
+      RetroGecko_1: 4612227459796261503
+      RetroGecko_34: -3166956153482313788
+      RetroGecko_91: -5551417223828839939
+      RetroGecko_40: -104508584105645202
+      RetroGecko_108: 2383579344558190483
+      RetroGecko_124: -344828085489368976
+      RetroGecko_190: 6947500660948955644
+      RetroGecko_197: -2852498662327560707
+      RetroGecko_159: -5304969347949972946
+      RetroGecko_168: 814528839891897305
+      RetroGecko_194: 2409874840067717348
+      RetroGecko_154: 1612803001049347302
+      RetroGecko_106: 2925040438874487244
+      RetroGecko_186: 5753595693778382555
+      RetroGecko_148: -8633232371126879210
+      RetroGecko_117: 340889118706879868
+      RetroGecko_84: 4604578260490613607
+      RetroGecko_62: 3558953222855227723
+      RetroGecko_112: 7970735698348863276
+      RetroGecko_29: -2378349557906394434
+      RetroGecko_115: 5096873000234336583
+      RetroGecko_177: -8614165972127421581
+      RetroGecko_65: 7845626937102596682
+      RetroGecko_144: -6092500292536876890
+      RetroGecko_24: -8052548163221407899
+      RetroGecko_39: 6274430390284342778
+      RetroGecko_184: 8938959924677940272
+      RetroGecko_138: 1503732299034974044
+      RetroGecko_78: 1340045310329552167
+      RetroGecko_183: -6774706946410119012
+      RetroGecko_178: 5371008975658697401
+      RetroGecko_59: 5054224210847131836
+      RetroGecko_125: -302998478796210795
+      RetroGecko_151: -2435812147862480342
+      RetroGecko_187: 8975562451576606743
+      RetroGecko_35: -2130347378219892349
+      RetroGecko_49: 5246948665627469312
+      RetroGecko_195: 2028446032080775982
+      RetroGecko_135: -6359610348720211231
+      RetroGecko_79: -8479729179607273125
+      RetroGecko_139: -7065590648798445878
+      RetroGecko_182: 994641529137077946
+      RetroGecko_180: 913151928453987406
+      RetroGecko_137: 2971382594836382362
+      RetroGecko_181: -2513096250052160319
+      RetroGecko_110: -4245159005074540133
+      RetroGecko_85: 6793271626265403133
+      RetroGecko_107: -5990726981990118983
+      RetroGecko_161: -1193679248009901759
+      RetroGecko_165: 1009175674375009486
+      RetroGecko_4: 4152954976016268052
+      RetroGecko_64: 3060670268822017468
+      RetroGecko_8: 4549558334020036393
+      RetroGecko_93: -8173987128457342120
+      RetroGecko_46: 4956696097148921493
+      RetroGecko_174: 3790772460994063157
+      RetroGecko_111: 5629310256623451071
+      RetroGecko_145: -7956972316609053439
+      RetroGecko_82: -6947672655150567437
+      RetroGecko_6: -9052073320938610556
+      RetroGecko_156: 2925153801235692492
+      RetroGecko_15: 5309164562806156272
+      RetroGecko_171: -2438501171251374569
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

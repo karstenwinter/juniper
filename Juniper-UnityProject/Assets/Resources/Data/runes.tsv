@@ -1,0 +1,25 @@
+name	translation	static effect	triggered effect	condition	rune	image url	preview
+wealth	kattle		DropAnAdditionalShell		fehu	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/fehu.png	
+formation	aurochs			WhenYouKill2	uruz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/uruz.png	
+conflict	giants		DealDamageEnemy		thurisaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/thurisaz.png	
+inspiration	god			WhenCastSpell	ansuz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/ansuz.png	
+journey	ride			WhenYouEnter	raidho	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/raidho.png	
+knowledge	torch	SecretsMarked			kenaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/kenaz.png	
+exchange	gift	KillFasterTakeMoreDamage			gebo	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/gebo.png	
+harmony	joy		GainMana		wunjo	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/wunjo.png	
+crisis	hail			WhenGetHit	hagalaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/hagalaz.png	
+necessity	need			WhenGetHitMagic	nauthiz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/nauthiz.png	
+self	ice	SecretsEmitSound			isa	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/isa.png	
+patience	year	ManaRegenerates			jera	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/jera.png	
+death	yew			WhenKillEnemy	ihwaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/ihwaz.png	
+fate	(unknown)		GainMana		perthro	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/perthro.png	
+protection	elk	DodgeAttacksWithAttack			algiz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/algiz.png	
+victory	sun			WhenFlawlessVictory	sowilo	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/sowilo.png	
+justice	tyr		DealDamage		tiwaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/tiwaz.png	
+healing	birch		HealDamage		berkano	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/berkano.png	
+partnership	horse	SporesHeal			ehwaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/ehwaz.png	
+humanity	mankind	ReadLetters			mannaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/mannaz.png	
+unity	lake	NeedleHitsDestroyProjectiles			laguz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/laguz.png	
+potential	seed		EmitBurst		inguz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/inguz.png	
+enlightenment	day	IlluminateSurroundings			dagaz	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/dagaz.png	
+inheritance	homeland		EmitTemporalLight		othala	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/othala.png	

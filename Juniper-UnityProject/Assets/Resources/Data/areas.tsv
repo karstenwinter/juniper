@@ -1,0 +1,21 @@
+Area	Tone	Url Format	Test Preview	Test Split			
+UpperCave	#5e8091	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedTilemaps/UpperCave.png		#5e8091	#5e8091	#5e8091	#5e8091 #87b4c9 #056897 #1C6484
+WoodBox	#574834	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedTilemaps/WoodBox.png		#211A11	#4F3B2D	#443434	#211A11 #4F3B2D #443434
+_Objects	#000000	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedTilemaps/_Objects.png		#000000	#000000	#000000	
+_MossyAlcoves	#585D59			#585D59	#585D59	#585D59	#585D59 #395544 #353B55
+_VikingStyle	#585D59			#585D59	#585D59	#585D59	#585D59 #395544 #353B55
+_Hollow	#422b2f			#000000	#7CA193	#1B5068	#000000 #7CA193 #1B5068
+_Mantis	#141E28			#141E28	#141E28	#141E28	#141e28 #4F3B2D #443434
+_WesternCave	#5e8091			#5e8091	#5e8091	#5e8091	#5e8091 #87b4c9 #056897 #1C6484
+_EasternCave	#536d73			#536d73	#536d73	#536d73	#5e8091 #87b4c9 #056897 #1C6484
+_Rocky	#536d73			#536d73	#536d73	#536d73	#4f4734
+_SandCliffs	#82682a			#422b2f	#422b2f	#422b2f	
+_Forest	#539968			#539968	#539968	#539968	
+_GreenGardens	#44917c			#44917c	#44917c	#44917c	
+_Pond	#6da68b			#6da68b	#6da68b	#6da68b	
+_SerpentTribe	#7f6b8c			#7f6b8c	#7f6b8c	#7f6b8c	
+_LowerCaves	#365659			#365659	#365659	#365659	
+_DeepCaves	#262d3b			#262d3b	#262d3b	#262d3b	
+_DarkPit	#122433			#122433	#122433	#122433	
+_CrystalJunction	#8fcf72			#8fcf72	#8fcf72	#8fcf72	
+_Sewers	#a7b8cc			#a7b8cc	#a7b8cc	#a7b8cc	

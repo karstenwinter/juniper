@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: 6a852659fb58e6a49a7a945e918a3d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5498156528835979093
+    second: LizardTwin_0
+  - first:
+      213: 8776897263337349001
+    second: LizardTwin_1
+  - first:
+      213: -1154035324998766090
+    second: LizardTwin_2
+  - first:
+      213: -7390763739298037137
+    second: LizardTwin_3
+  - first:
+      213: -7347118745608981869
+    second: LizardTwin_4
+  - first:
+      213: -7054422739372197941
+    second: LizardTwin_5
+  - first:
+      213: -5867536124509314329
+    second: LizardTwin_6
+  - first:
+      213: -6364239998665372861
+    second: LizardTwin_7
+  - first:
+      213: -2356004759449322142
+    second: LizardTwin_8
+  - first:
+      213: 5868870923791290646
+    second: LizardTwin_9
+  - first:
+      213: -6314676277560730544
+    second: LizardTwin_10
+  - first:
+      213: -84652459141789930
+    second: LizardTwin_11
+  - first:
+      213: -550781746254710935
+    second: LizardTwin_12
+  - first:
+      213: -2819809908647520005
+    second: LizardTwin_13
+  - first:
+      213: -2101545697453816803
+    second: LizardTwin_14
+  - first:
+      213: -6309054285578276738
+    second: LizardTwin_15
+  - first:
+      213: 2611847875316526927
+    second: LizardTwin_16
+  - first:
+      213: -7648122928103896354
+    second: LizardTwin_17
+  - first:
+      213: -6958131637893822937
+    second: LizardTwin_18
+  - first:
+      213: 7346985975309310459
+    second: LizardTwin_19
+  - first:
+      213: -7995473165964334134
+    second: LizardTwin_20
+  - first:
+      213: 827176008674785428
+    second: LizardTwin_21
+  - first:
+      213: -7453095959884158171
+    second: LizardTwin_22
+  - first:
+      213: 1144238093521554537
+    second: LizardTwin_23
+  - first:
+      213: 364091993498162506
+    second: LizardTwin_24
+  - first:
+      213: -7806711367926520462
+    second: LizardTwin_25
+  - first:
+      213: 5836126927463338939
+    second: LizardTwin_26
+  - first:
+      213: -6396033997041650003
+    second: LizardTwin_27
+  - first:
+      213: -4992366891887764813
+    second: LizardTwin_28
+  - first:
+      213: 30123289765548990
+    second: LizardTwin_29
+  - first:
+      213: 7345038202017626609
+    second: LizardTwin_30
+  - first:
+      213: 1419251868226038396
+    second: LizardTwin_31
+  - first:
+      213: 1214338859745073790
+    second: LizardTwin_32
+  - first:
+      213: 4955495935185130974
+    second: LizardTwin_33
+  - first:
+      213: 7474451888587425619
+    second: LizardTwin_34
+  - first:
+      213: -2008905517723472491
+    second: LizardTwin_35
+  - first:
+      213: -447255027981292740
+    second: LizardTwin_36
+  - first:
+      213: 8858985015507034829
+    second: LizardTwin_37
+  - first:
+      213: 1894194289134103472
+    second: LizardTwin_38
+  - first:
+      213: 1768204529658919478
+    second: LizardTwin_39
+  - first:
+      213: -782064211424966636
+    second: LizardTwin_40
+  - first:
+      213: 3502620924228222359
+    second: LizardTwin_41
+  - first:
+      213: -7360352835638142685
+    second: LizardTwin_42
+  - first:
+      213: 7945974534212631792
+    second: LizardTwin_43
+  - first:
+      213: -9191707634900019480
+    second: LizardTwin_44
+  - first:
+      213: 7194857335945788234
+    second: LizardTwin_45
+  - first:
+      213: 4379305703905271359
+    second: LizardTwin_46
+  - first:
+      213: -1540477018585328645
+    second: LizardTwin_47
+  - first:
+      213: -1070290949003022131
+    second: LizardTwin_48
+  - first:
+      213: 1553571013686331348
+    second: LizardTwin_49
+  - first:
+      213: 8574385216646229659
+    second: LizardTwin_50
+  - first:
+      213: -7470182147208362486
+    second: LizardTwin_51
+  - first:
+      213: 1598521756218143239
+    second: LizardTwin_52
+  - first:
+      213: 1438417888588632847
+    second: LizardTwin_53
+  - first:
+      213: 4066563070897622023
+    second: LizardTwin_54
+  - first:
+      213: -4898298377864230098
+    second: LizardTwin_55
+  - first:
+      213: -3766233242840733830
+    second: LizardTwin_56
+  - first:
+      213: 9024175271436092401
+    second: LizardTwin_57
+  - first:
+      213: -8634707616085917495
+    second: LizardTwin_58
+  - first:
+      213: -6271257089680259741
+    second: LizardTwin_59
+  - first:
+      213: -8762495636122505943
+    second: LizardTwin_60
+  - first:
+      213: -2523048127479380208
+    second: LizardTwin_61
+  - first:
+      213: 6149788696818218989
+    second: LizardTwin_62
+  - first:
+      213: -853995797303993404
+    second: LizardTwin_63
+  - first:
+      213: 1908234526815944927
+    second: LizardTwin_64
+  - first:
+      213: -1860474598173683893
+    second: LizardTwin_65
+  - first:
+      213: 8839026033506562599
+    second: LizardTwin_66
+  - first:
+      213: -4709007373936362310
+    second: LizardTwin_67
+  - first:
+      213: 3090702248828859118
+    second: LizardTwin_68
+  - first:
+      213: -7977475044259271852
+    second: LizardTwin_69
+  - first:
+      213: 3995641331820984876
+    second: LizardTwin_70
+  - first:
+      213: 6708009186506073525
+    second: LizardTwin_71
+  - first:
+      213: 8390648283995486601
+    second: LizardTwin_72
+  - first:
+      213: 8871176792070654804
+    second: LizardTwin_73
+  - first:
+      213: 2483055408732620284
+    second: LizardTwin_74
+  - first:
+      213: 6834967338862634833
+    second: LizardTwin_75
+  - first:
+      213: -1876600682505655923
+    second: LizardTwin_76
+  - first:
+      213: 2103070370933271140
+    second: LizardTwin_77
+  - first:
+      213: 6074035110185206182
+    second: LizardTwin_78
+  - first:
+      213: 2892573692685028705
+    second: LizardTwin_79
+  - first:
+      213: 5868065015703035312
+    second: LizardTwin_80
+  - first:
+      213: 4157845177593925954
+    second: LizardTwin_81
+  - first:
+      213: 8252475691666519339
+    second: LizardTwin_82
+  - first:
+      213: 2127695590209475458
+    second: LizardTwin_83
+  - first:
+      213: 8741509716848391663
+    second: LizardTwin_84
+  - first:
+      213: 38101029278098482
+    second: LizardTwin_85
+  - first:
+      213: -1437607009580050914
+    second: LizardTwin_86
+  - first:
+      213: -869293559824217340
+    second: LizardTwin_87
+  - first:
+      213: -4410081287217511240
+    second: LizardTwin_88
+  - first:
+      213: 1854446812000855777
+    second: LizardTwin_89
+  - first:
+      213: -6010533290557464955
+    second: LizardTwin_90
+  - first:
+      213: 306472629352188227
+    second: LizardTwin_91
+  - first:
+      213: 8207938748927978489
+    second: LizardTwin_92
+  - first:
+      213: 1569365959654539637
+    second: LizardTwin_93
+  - first:
+      213: -5199021341062928040
+    second: LizardTwin_94
+  - first:
+      213: 3786463625507883910
+    second: LizardTwin_95
+  - first:
+      213: -3633685101075336084
+    second: LizardTwin_96
+  - first:
+      213: 8665240195809535922
+    second: LizardTwin_97
+  - first:
+      213: -193278121435717084
+    second: LizardTwin_98
+  - first:
+      213: 8886797814087878785
+    second: LizardTwin_99
+  - first:
+      213: 8207803802687454987
+    second: LizardTwin_100
+  - first:
+      213: -6291927430086437799
+    second: LizardTwin_101
+  - first:
+      213: 9044882774539057605
+    second: LizardTwin_102
+  - first:
+      213: 1354391018692231911
+    second: LizardTwin_103
+  - first:
+      213: 2003304419507832223
+    second: LizardTwin_104
+  - first:
+      213: -1375815359584903986
+    second: LizardTwin_105
+  - first:
+      213: 7173321952018045639
+    second: LizardTwin_106
+  - first:
+      213: -7432048672977270164
+    second: LizardTwin_107
+  - first:
+      213: 9163055366679636956
+    second: LizardTwin_108
+  - first:
+      213: -3066526077321598031
+    second: LizardTwin_109
+  - first:
+      213: 9200780195126508592
+    second: LizardTwin_110
+  - first:
+      213: -1741001518655372792
+    second: LizardTwin_111
+  - first:
+      213: -3445745967717247339
+    second: LizardTwin_112
+  - first:
+      213: 6128568423150860798
+    second: LizardTwin_113
+  - first:
+      213: 704937792292311007
+    second: LizardTwin_114
+  - first:
+      213: -2809604432212875255
+    second: LizardTwin_115
+  - first:
+      213: 269047158046058255
+    second: LizardTwin_116
+  - first:
+      213: 6188929862732528123
+    second: LizardTwin_117
+  - first:
+      213: -5331472082221328794
+    second: LizardTwin_118
+  - first:
+      213: 1672555542379470041
+    second: LizardTwin_119
+  - first:
+      213: 2674683984136178874
+    second: LizardTwin_120
+  - first:
+      213: 5219849259042406133
+    second: LizardTwin_121
+  - first:
+      213: 1804578409998661790
+    second: LizardTwin_122
+  - first:
+      213: 7693839666001455271
+    second: LizardTwin_123
+  - first:
+      213: -1592726828904467968
+    second: LizardTwin_124
+  - first:
+      213: 6106335197939883277
+    second: LizardTwin_125
+  - first:
+      213: 4915548550960966338
+    second: LizardTwin_126
+  - first:
+      213: -2462717793238482702
+    second: LizardTwin_127
+  - first:
+      213: 8812858054152193265
+    second: LizardTwin_128
+  - first:
+      213: 6920367489719775424
+    second: LizardTwin_129
+  - first:
+      213: -2160974856777270321
+    second: LizardTwin_130
+  - first:
+      213: 1240529124128667848
+    second: LizardTwin_131
+  - first:
+      213: -3252369049619389909
+    second: LizardTwin_132
+  - first:
+      213: 802741802019087855
+    second: LizardTwin_133
+  - first:
+      213: 1264579224123953705
+    second: LizardTwin_134
+  - first:
+      213: -6249875216080964767
+    second: LizardTwin_135
+  - first:
+      213: 3084232909304451088
+    second: LizardTwin_136
+  - first:
+      213: 5768438241127462316
+    second: LizardTwin_137
+  - first:
+      213: -4034210058723869909
+    second: LizardTwin_138
+  - first:
+      213: -7252389095052236301
+    second: LizardTwin_139
+  - first:
+      213: -2716504143895745563
+    second: LizardTwin_140
+  - first:
+      213: 1201644718635117485
+    second: LizardTwin_141
+  - first:
+      213: 5669599795566961992
+    second: LizardTwin_142
+  - first:
+      213: -5754929270870529019
+    second: LizardTwin_143
+  - first:
+      213: -2323913494553066098
+    second: LizardTwin_144
+  - first:
+      213: 9054752661129022018
+    second: LizardTwin_145
+  - first:
+      213: 3395097396269222016
+    second: LizardTwin_146
+  - first:
+      213: -8566708539415091701
+    second: LizardTwin_147
+  - first:
+      213: -2957168311532927540
+    second: LizardTwin_148
+  - first:
+      213: 202866272231675556
+    second: LizardTwin_149
+  - first:
+      213: -5251001492853492102
+    second: LizardTwin_150
+  - first:
+      213: -3179955072146936719
+    second: LizardTwin_151
+  - first:
+      213: -5575984218142912824
+    second: LizardTwin_152
+  - first:
+      213: 6056544835903680754
+    second: LizardTwin_153
+  - first:
+      213: -8837633991813778190
+    second: LizardTwin_154
+  - first:
+      213: 7044373533093037724
+    second: LizardTwin_155
+  - first:
+      213: 5909994114435380267
+    second: LizardTwin_156
+  - first:
+      213: -4371578500518780881
+    second: LizardTwin_157
+  - first:
+      213: -4171586870901795488
+    second: LizardTwin_158
+  - first:
+      213: 5783522213730097404
+    second: LizardTwin_159
+  - first:
+      213: 1415888259433744576
+    second: LizardTwin_160
+  - first:
+      213: 1959096004874293043
+    second: LizardTwin_161
+  - first:
+      213: 8407826056731513027
+    second: LizardTwin_162
+  - first:
+      213: -5150917506311647465
+    second: LizardTwin_163
+  - first:
+      213: -6890300343187932509
+    second: LizardTwin_164
+  - first:
+      213: 6970303647860513630
+    second: LizardTwin_165
+  - first:
+      213: 1467193198932963875
+    second: LizardTwin_166
+  - first:
+      213: 7124230650156440851
+    second: LizardTwin_167
+  - first:
+      213: -7789573878789330319
+    second: LizardTwin_168
+  - first:
+      213: -4922139844310550353
+    second: LizardTwin_169
+  - first:
+      213: -1679639882089242758
+    second: LizardTwin_170
+  - first:
+      213: 3004429053650545901
+    second: LizardTwin_171
+  - first:
+      213: -2892986304471377414
+    second: LizardTwin_172
+  - first:
+      213: -286531157260870673
+    second: LizardTwin_173
+  - first:
+      213: 739279243354535246
+    second: LizardTwin_174
+  - first:
+      213: 7496078518222207195
+    second: LizardTwin_175
+  - first:
+      213: -7314144112764079766
+    second: LizardTwin_176
+  - first:
+      213: 4496405368776762342
+    second: LizardTwin_177
+  - first:
+      213: -20656301945897396
+    second: LizardTwin_178
+  - first:
+      213: -7527267247797490226
+    second: LizardTwin_179
+  - first:
+      213: 8756426925412051549
+    second: LizardTwin_180
+  - first:
+      213: 5135474681010285162
+    second: LizardTwin_181
+  - first:
+      213: 8341890844251116780
+    second: LizardTwin_182
+  - first:
+      213: -1135020391160536815
+    second: LizardTwin_183
+  - first:
+      213: 24192651644733627
+    second: LizardTwin_184
+  - first:
+      213: -7639356036156386668
+    second: LizardTwin_185
+  - first:
+      213: -3188917675582910777
+    second: LizardTwin_186
+  - first:
+      213: -2829390140951357224
+    second: LizardTwin_187
+  - first:
+      213: 6302100775195723248
+    second: LizardTwin_188
+  - first:
+      213: -1193454405539809270
+    second: LizardTwin_189
+  - first:
+      213: -7427355029387413654
+    second: LizardTwin_190
+  - first:
+      213: 1222464793748967388
+    second: LizardTwin_191
+  - first:
+      213: 3483798298398396754
+    second: LizardTwin_192
+  - first:
+      213: -5016650205523174680
+    second: LizardTwin_193
+  - first:
+      213: 1739188388984668409
+    second: LizardTwin_194
+  - first:
+      213: -5828177358352849039
+    second: LizardTwin_195
+  - first:
+      213: -1348274854657910164
+    second: LizardTwin_196
+  - first:
+      213: 3402962693727642054
+    second: LizardTwin_197
+  - first:
+      213: 7590725229319231767
+    second: LizardTwin_198
+  - first:
+      213: 7572506700931649084
+    second: LizardTwin_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LizardTwin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89c3b74cf92b3b0800000000000000
+      internalID: -5498156528835979093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f125b1f8dcdc970800000000000000
+      internalID: 8776897263337349001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1323b7cfa0cffe0800000000000000
+      internalID: -1154035324998766090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f628d4c798bbe6990800000000000000
+      internalID: -7390763739298037137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392fc557d6ac90a90800000000000000
+      internalID: -7347118745608981869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7384cf4e7a91e90800000000000000
+      internalID: -7054422739372197941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a9d77bf2529ea0800000000000000
+      internalID: -5867536124509314329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc73eb07dada7a0800000000000000
+      internalID: -6364239998665372861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db4e7672acd4fd0800000000000000
+      internalID: -2356004759449322142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d235b20b627150800000000000000
+      internalID: 5868870923791290646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1864d163cd58a0800000000000000
+      internalID: -6314676277560730544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6178d73790143def0800000000000000
+      internalID: -84652459141789930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f7b18bea3b58f0800000000000000
+      internalID: -550781746254710935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf810fcf3d50ed8d0800000000000000
+      internalID: -2819809908647520005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c308925fc5d2e0800000000000000
+      internalID: -2101545697453816803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707377dd8cb178a0800000000000000
+      internalID: -6309054285578276738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa99fedc52f3420800000000000000
+      internalID: 2611847875316526927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac8d7e7b86cd590800000000000000
+      internalID: -7648122928103896354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7268eee1420cf6f90800000000000000
+      internalID: -6958131637893822937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9961c81dcb5f560800000000000000
+      internalID: 7346985975309310459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2783748f5a0190800000000000000
+      internalID: -7995473165964334134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49839c38238ba7b00800000000000000
+      internalID: 827176008674785428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba43276b8419890800000000000000
+      internalID: -7453095959884158171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c82decb7621ef00800000000000000
+      internalID: 1144238093521554537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4595023db38d0500800000000000000
+      internalID: 364091993498162506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756cb26f5df8a390800000000000000
+      internalID: -7806711367926520462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35b87f4861ef050800000000000000
+      internalID: 5836126927463338939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b203a7f8bc37a0800000000000000
+      internalID: -6396033997041650003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badb9433cc87bab0800000000000000
+      internalID: -4992366891887764813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb311f1f8f40b6000800000000000000
+      internalID: 30123289765548990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f93fec3451dee560800000000000000
+      internalID: 7345038202017626609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a2c6cfd0232b310800000000000000
+      internalID: 1419251868226038396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ade0452c23ad010800000000000000
+      internalID: 1214338859745073790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51a963c4575c440800000000000000
+      internalID: 4955495935185130974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357400e24669ab760800000000000000
+      internalID: 7474451888587425619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d25c4431fee14e0800000000000000
+      internalID: -2008905517723472491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bea25fbe70bc9f0800000000000000
+      internalID: -447255027981292740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22ec74fef61fa70800000000000000
+      internalID: 8858985015507034829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb696b8ba7894a10800000000000000
+      internalID: 1894194289134103472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a7e80c6ace98810800000000000000
+      internalID: 1768204529658919478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41808764ebc8525f0800000000000000
+      internalID: -782064211424966636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d39734c2fcb9030800000000000000
+      internalID: 3502620924228222359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329df32c716cad990800000000000000
+      internalID: -7360352835638142685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc3b024db5c54e60800000000000000
+      internalID: 7945974534212631792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d9861b9e707080800000000000000
+      internalID: -9191707634900019480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b79a680a449d360800000000000000
+      internalID: 7194857335945788234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e9d1cc55b66cc30800000000000000
+      internalID: 4379305703905271359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3919a30502f9ae0800000000000000
+      internalID: -1540477018585328645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fb527d009521f0800000000000000
+      internalID: -1070290949003022131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70e141b946f8510800000000000000
+      internalID: 1553571013686331348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e2f8dece55ef670800000000000000
+      internalID: 8574385216646229659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064e247ae4945890800000000000000
+      internalID: -7470182147208362486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702bd1561171f2610800000000000000
+      internalID: 1598521756218143239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0394e7d27946f310800000000000000
+      internalID: 1438417888588632847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c039141955f6830800000000000000
+      internalID: 4066563070897622023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bc78fd39fb50cb0800000000000000
+      internalID: -4898298377864230098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e53be1d6abbbc0800000000000000
+      internalID: -3766233242840733830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_57
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f300d4e89f4c3d70800000000000000
+      internalID: 9024175271436092401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_58
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c6dbfb2b5b2880800000000000000
+      internalID: -8634707616085917495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_59
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365457a47e408f8a0800000000000000
+      internalID: -6271257089680259741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de10705ac556680800000000000000
+      internalID: -8762495636122505943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017806288155cfcd0800000000000000
+      internalID: -2523048127479380208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ff8d9c30785550800000000000000
+      internalID: 6149788696818218989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd406d85ff524f0800000000000000
+      internalID: -853995797303993404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0000f11396b7a10800000000000000
+      internalID: 1908234526815944927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f483ec5344e26e0800000000000000
+      internalID: -1860474598173683893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b697a8578aaa70800000000000000
+      internalID: 8839026033506562599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf3d72ebe36aeb0800000000000000
+      internalID: -4709007373936362310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_68
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f1ffe15164ea20800000000000000
+      internalID: 3090702248828859118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_69
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be166b6b05a4190800000000000000
+      internalID: -7977475044259271852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2afe091f9e537730800000000000000
+      internalID: 3995641331820984876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b560c780d2a71d50800000000000000
+      internalID: 6708009186506073525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989bac2a822917470800000000000000
+      internalID: 8390648283995486601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8f077a40cc1b70800000000000000
+      internalID: 8871176792070654804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5ce1b0db5957220800000000000000
+      internalID: 2483055408732620284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ed4cd49eaade50800000000000000
+      internalID: 6834967338862634833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89aef53f99f4f5e0800000000000000
+      internalID: -1876600682505655923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a602d1c5b9f2d10800000000000000
+      internalID: 2103070370933271140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a107d740ce4b4450800000000000000
+      internalID: 6074035110185206182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d812fa27c742820800000000000000
+      internalID: 2892573692685028705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd50eb9a0e8f6150800000000000000
+      internalID: 5868065015703035312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419e89e822a3b930800000000000000
+      internalID: 4157845177593925954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2534570beea68270800000000000000
+      internalID: 8252475691666519339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d994cdd7178d10800000000000000
+      internalID: 2127695590209475458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bf51e5c4105970800000000000000
+      internalID: 8741509716848391663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a2bb2fac578000800000000000000
+      internalID: 38101029278098482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169e53aa089c0ce0800000000000000
+      internalID: -1437607009580050914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8421fc16afe3f0800000000000000
+      internalID: -869293559824217340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_88
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48dc45f6e3cc2c0800000000000000
+      internalID: -4410081287217511240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_89
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6aa2cdc815cb910800000000000000
+      internalID: 1854446812000855777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e99a141db469ca0800000000000000
+      internalID: -6010533290557464955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349caed8b3fc04400800000000000000
+      internalID: 306472629352188227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb240cfdc478e170800000000000000
+      internalID: 8207938748927978489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5718cc3860287c510800000000000000
+      internalID: 1569365959654539637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e44ac2ad59d7b0800000000000000
+      internalID: -5199021341062928040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc5591b983c8430800000000000000
+      internalID: 3786463625507883910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6476c417ae829dc0800000000000000
+      internalID: -3633685101075336084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_97
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e9a43c0e114870800000000000000
+      internalID: 8665240195809535922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_98
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42228f49296515df0800000000000000
+      internalID: -193278121435717084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_99
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1880d63178f345b70800000000000000
+      internalID: 8886797814087878785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f394d521af7e170800000000000000
+      internalID: 8207803802687454987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9545921a6559ea8a0800000000000000
+      internalID: -6291927430086437799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9337b26f0e58d70800000000000000
+      internalID: 9044882774539057605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24124a473cbc210800000000000000
+      internalID: 1354391018692231911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f950cbd61ca2dcb10800000000000000
+      internalID: 2003304419507832223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5a67483f18ece0800000000000000
+      internalID: -1375815359584903986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_106
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca1c893f42cc8360800000000000000
+      internalID: 7173321952018045639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_107
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac6cdcb1f0cd890800000000000000
+      internalID: -7432048672977270164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_108
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb2d2cde46b92f70800000000000000
+      internalID: 9163055366679636956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_109
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb26c2a7c28175d0800000000000000
+      internalID: -3066526077321598031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf6f2f6dcbfaf70800000000000000
+      internalID: 9200780195126508592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802812fc758b6d7e0800000000000000
+      internalID: -1741001518655372792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969af77c404e20d0800000000000000
+      internalID: -3445745967717247339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93593a28c0d0550800000000000000
+      internalID: 6128568423150860798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc45aef2178c900800000000000000
+      internalID: 704937792292311007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a692a7a74209d0800000000000000
+      internalID: -2809604432212875255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e92bf6f8dbb300800000000000000
+      internalID: 269047158046058255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_117
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9baf77bee73e550800000000000000
+      internalID: 6188929862732528123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661949736ec206b0800000000000000
+      internalID: -5331472082221328794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_119
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc93aa776c163710800000000000000
+      internalID: 1672555542379470041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc0dd899e26e1520800000000000000
+      internalID: 2674683984136178874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefe42ce31a07840800000000000000
+      internalID: 5219849259042406133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983f49b0862b0910800000000000000
+      internalID: 1804578409998661790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a3da996206ca60800000000000000
+      internalID: 7693839666001455271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023ae2436f75e9e0800000000000000
+      internalID: -1592726828904467968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ddba0828f0eb450800000000000000
+      internalID: 6106335197939883277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_126
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae6380d59873440800000000000000
+      internalID: 4915548550960966338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_127
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08cff073ba2ddd0800000000000000
+      internalID: -2462717793238482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_128
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48ead25bf8d4a70800000000000000
+      internalID: 8812858054152193265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_129
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0b8e3f0951a0060800000000000000
+      internalID: 6920367489719775424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb7d3d21dca202e0800000000000000
+      internalID: -2160974856777270321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c837317aae373110800000000000000
+      internalID: 1240529124128667848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2226f6c4934dd2d0800000000000000
+      internalID: -3252369049619389909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe564b37a69e32b00800000000000000
+      internalID: 802741802019087855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9225f34ba10bc8110800000000000000
+      internalID: 1264579224123953705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_135
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f9feaa9bf349a0800000000000000
+      internalID: -6249875216080964767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_136
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01059a37d756dca20800000000000000
+      internalID: 3084232909304451088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_137
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57e2f840c9d0050800000000000000
+      internalID: 5768438241127462316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_138
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb474635b9308c0800000000000000
+      internalID: -4034210058723869909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_139
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ae78fa865a5b90800000000000000
+      internalID: -7252389095052236301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba730bfd90d4ad0800000000000000
+      internalID: -2716504143895745563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab687841891da010800000000000000
+      internalID: 1201644718635117485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456569a9f67eae40800000000000000
+      internalID: 5669599795566961992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca34ea1526220b0800000000000000
+      internalID: -5754929270870529019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_144
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858d644dfccfbfd0800000000000000
+      internalID: -2323913494553066098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4e973291f8ad70800000000000000
+      internalID: 9054752661129022018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_146
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880b7a081fcd1f20800000000000000
+      internalID: 3395097396269222016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_147
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06abd5c8ffec1980800000000000000
+      internalID: -8566708539415091701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_148
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5c902a61706f6d0800000000000000
+      internalID: -2957168311532927540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_149
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d64dbcc9b0d200800000000000000
+      internalID: 202866272231675556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76fb6796f1b027b0800000000000000
+      internalID: -5251001492853492102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ceaf2c5b78ed3d0800000000000000
+      internalID: -3179955072146936719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce486c75ef1e92b0800000000000000
+      internalID: -5575984218142912824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f346707b2d0450800000000000000
+      internalID: 6056544835903680754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_154
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b50f45ba6a5580800000000000000
+      internalID: -8837633991813778190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968c29d764a2c160800000000000000
+      internalID: 7044373533093037724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_156
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24f197a554840250800000000000000
+      internalID: 5909994114435380267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_157
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20e7d0f3880553c0800000000000000
+      internalID: -4371578500518780881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_158
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065173ac7db8b16c0800000000000000
+      internalID: -4171586870901795488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_159
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf896fb9fc2334050800000000000000
+      internalID: 5783522213730097404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c139cede36a310800000000000000
+      internalID: 1415888259433744576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4b6bcf6b103b10800000000000000
+      internalID: 1959096004874293043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c051c480499ea470800000000000000
+      internalID: 8407826056731513027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_163
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f04f891d34488b0800000000000000
+      internalID: -5150917506311647465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaf780285cb060a0800000000000000
+      internalID: -6890300343187932509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_165
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd55bcc3e7bb060800000000000000
+      internalID: 6970303647860513630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_166
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322b44fd0748c5410800000000000000
+      internalID: 1467193198932963875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_167
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d5680d70a5ed260800000000000000
+      internalID: 7124230650156440851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_168
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa91304dfd5e390800000000000000
+      internalID: -7789573878789330319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_169
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8b215e3eb01bbb0800000000000000
+      internalID: -4922139844310550353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fdd752d68b0b8e0800000000000000
+      internalID: -1679639882089242758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec24bf5e40e1b920800000000000000
+      internalID: 3004429053650545901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d9e5a84c0ad7d0800000000000000
+      internalID: -2892986304471377414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_173
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb526a3e69060cf0800000000000000
+      internalID: -286531157260870673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_174
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4577f11e82724a00800000000000000
+      internalID: 739279243354535246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_175
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8321742bb670860800000000000000
+      internalID: 7496078518222207195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_176
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bea27ea0fe7a90800000000000000
+      internalID: -7314144112764079766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_177
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e329142cd0766e30800000000000000
+      internalID: 4496405368776762342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_178
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e342ce33d96bff0800000000000000
+      internalID: -20656301945897396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_179
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd299db156c98790800000000000000
+      internalID: -7527267247797490226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae9d625e3158970800000000000000
+      internalID: 8756426925412051549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a61a2730fd44740800000000000000
+      internalID: 5135474681010285162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4dbae868954c370800000000000000
+      internalID: 8341890844251116780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112d04c7f89f30f0800000000000000
+      internalID: -1135020391160536815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_184
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb88577a613f55000800000000000000
+      internalID: 24192651644733627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_185
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929920092e8bf590800000000000000
+      internalID: -7639356036156386668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_186
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce8ae80540beb3d0800000000000000
+      internalID: -3188917675582910777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_187
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d81a9558acfbb8d0800000000000000
+      internalID: -2829390140951357224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_188
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5414cd34f857750800000000000000
+      internalID: 6302100775195723248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_189
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bc269a8fff6fe0800000000000000
+      internalID: -1193454405539809270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f6acd3fbbce890800000000000000
+      internalID: -7427355029387413654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf04d5c04117f010800000000000000
+      internalID: 1222464793748967388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251952d2810f85030800000000000000
+      internalID: 3483798298398396754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_193
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9669a737416ab0800000000000000
+      internalID: -5016650205523174680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_194
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f04aea00a6d22810800000000000000
+      internalID: 1739188388984668409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_195
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177676352972e1fa0800000000000000
+      internalID: -5828177358352849039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_196
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1684c927f94de0800000000000000
+      internalID: -1348274854657910164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_197
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ea8f4a80c93f20800000000000000
+      internalID: 3402962693727642054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_198
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191b21f06ca75960800000000000000
+      internalID: 7590725229319231767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LizardTwin_199
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ecb4049b2f61960800000000000000
+      internalID: 7572506700931649084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LizardTwin_78: 6074035110185206182
+      LizardTwin_12: -550781746254710935
+      LizardTwin_7: -6364239998665372861
+      LizardTwin_148: -2957168311532927540
+      LizardTwin_118: -5331472082221328794
+      LizardTwin_183: -1135020391160536815
+      LizardTwin_16: 2611847875316526927
+      LizardTwin_64: 1908234526815944927
+      LizardTwin_46: 4379305703905271359
+      LizardTwin_131: 1240529124128667848
+      LizardTwin_101: -6291927430086437799
+      LizardTwin_98: -193278121435717084
+      LizardTwin_193: -5016650205523174680
+      LizardTwin_107: -7432048672977270164
+      LizardTwin_130: -2160974856777270321
+      LizardTwin_164: -6890300343187932509
+      LizardTwin_93: 1569365959654539637
+      LizardTwin_129: 6920367489719775424
+      LizardTwin_40: -782064211424966636
+      LizardTwin_161: 1959096004874293043
+      LizardTwin_153: 6056544835903680754
+      LizardTwin_19: 7346985975309310459
+      LizardTwin_117: 6188929862732528123
+      LizardTwin_29: 30123289765548990
+      LizardTwin_10: -6314676277560730544
+      LizardTwin_167: 7124230650156440851
+      LizardTwin_55: -4898298377864230098
+      LizardTwin_68: 3090702248828859118
+      LizardTwin_195: -5828177358352849039
+      LizardTwin_15: -6309054285578276738
+      LizardTwin_41: 3502620924228222359
+      LizardTwin_69: -7977475044259271852
+      LizardTwin_115: -2809604432212875255
+      LizardTwin_91: 306472629352188227
+      LizardTwin_49: 1553571013686331348
+      LizardTwin_70: 3995641331820984876
+      LizardTwin_186: -3188917675582910777
+      LizardTwin_42: -7360352835638142685
+      LizardTwin_26: 5836126927463338939
+      LizardTwin_85: 38101029278098482
+      LizardTwin_92: 8207938748927978489
+      LizardTwin_181: 5135474681010285162
+      LizardTwin_47: -1540477018585328645
+      LizardTwin_138: -4034210058723869909
+      LizardTwin_151: -3179955072146936719
+      LizardTwin_175: 7496078518222207195
+      LizardTwin_136: 3084232909304451088
+      LizardTwin_11: -84652459141789930
+      LizardTwin_80: 5868065015703035312
+      LizardTwin_145: 9054752661129022018
+      LizardTwin_62: 6149788696818218989
+      LizardTwin_39: 1768204529658919478
+      LizardTwin_150: -5251001492853492102
+      LizardTwin_88: -4410081287217511240
+      LizardTwin_95: 3786463625507883910
+      LizardTwin_104: 2003304419507832223
+      LizardTwin_21: 827176008674785428
+      LizardTwin_108: 9163055366679636956
+      LizardTwin_135: -6249875216080964767
+      LizardTwin_77: 2103070370933271140
+      LizardTwin_159: 5783522213730097404
+      LizardTwin_75: 6834967338862634833
+      LizardTwin_38: 1894194289134103472
+      LizardTwin_152: -5575984218142912824
+      LizardTwin_14: -2101545697453816803
+      LizardTwin_170: -1679639882089242758
+      LizardTwin_194: 1739188388984668409
+      LizardTwin_74: 2483055408732620284
+      LizardTwin_84: 8741509716848391663
+      LizardTwin_81: 4157845177593925954
+      LizardTwin_86: -1437607009580050914
+      LizardTwin_165: 6970303647860513630
+      LizardTwin_168: -7789573878789330319
+      LizardTwin_120: 2674683984136178874
+      LizardTwin_188: 6302100775195723248
+      LizardTwin_24: 364091993498162506
+      LizardTwin_48: -1070290949003022131
+      LizardTwin_8: -2356004759449322142
+      LizardTwin_53: 1438417888588632847
+      LizardTwin_58: -8634707616085917495
+      LizardTwin_141: 1201644718635117485
+      LizardTwin_96: -3633685101075336084
+      LizardTwin_163: -5150917506311647465
+      LizardTwin_169: -4922139844310550353
+      LizardTwin_189: -1193454405539809270
+      LizardTwin_25: -7806711367926520462
+      LizardTwin_35: -2008905517723472491
+      LizardTwin_31: 1419251868226038396
+      LizardTwin_147: -8566708539415091701
+      LizardTwin_105: -1375815359584903986
+      LizardTwin_174: 739279243354535246
+      LizardTwin_4: -7347118745608981869
+      LizardTwin_50: 8574385216646229659
+      LizardTwin_177: 4496405368776762342
+      LizardTwin_27: -6396033997041650003
+      LizardTwin_20: -7995473165964334134
+      LizardTwin_149: 202866272231675556
+      LizardTwin_37: 8858985015507034829
+      LizardTwin_23: 1144238093521554537
+      LizardTwin_0: -5498156528835979093
+      LizardTwin_6: -5867536124509314329
+      LizardTwin_30: 7345038202017626609
+      LizardTwin_54: 4066563070897622023
+      LizardTwin_82: 8252475691666519339
+      LizardTwin_59: -6271257089680259741
+      LizardTwin_154: -8837633991813778190
+      LizardTwin_97: 8665240195809535922
+      LizardTwin_160: 1415888259433744576
+      LizardTwin_122: 1804578409998661790
+      LizardTwin_128: 8812858054152193265
+      LizardTwin_133: 802741802019087855
+      LizardTwin_65: -1860474598173683893
+      LizardTwin_171: 3004429053650545901
+      LizardTwin_158: -4171586870901795488
+      LizardTwin_134: 1264579224123953705
+      LizardTwin_5: -7054422739372197941
+      LizardTwin_142: 5669599795566961992
+      LizardTwin_109: -3066526077321598031
+      LizardTwin_176: -7314144112764079766
+      LizardTwin_110: 9200780195126508592
+      LizardTwin_112: -3445745967717247339
+      LizardTwin_132: -3252369049619389909
+      LizardTwin_187: -2829390140951357224
+      LizardTwin_56: -3766233242840733830
+      LizardTwin_106: 7173321952018045639
+      LizardTwin_140: -2716504143895745563
+      LizardTwin_22: -7453095959884158171
+      LizardTwin_18: -6958131637893822937
+      LizardTwin_125: 6106335197939883277
+      LizardTwin_13: -2819809908647520005
+      LizardTwin_144: -2323913494553066098
+      LizardTwin_63: -853995797303993404
+      LizardTwin_166: 1467193198932963875
+      LizardTwin_185: -7639356036156386668
+      LizardTwin_32: 1214338859745073790
+      LizardTwin_155: 7044373533093037724
+      LizardTwin_45: 7194857335945788234
+      LizardTwin_113: 6128568423150860798
+      LizardTwin_102: 9044882774539057605
+      LizardTwin_52: 1598521756218143239
+      LizardTwin_192: 3483798298398396754
+      LizardTwin_43: 7945974534212631792
+      LizardTwin_34: 7474451888587425619
+      LizardTwin_137: 5768438241127462316
+      LizardTwin_197: 3402962693727642054
+      LizardTwin_126: 4915548550960966338
+      LizardTwin_198: 7590725229319231767
+      LizardTwin_173: -286531157260870673
+      LizardTwin_87: -869293559824217340
+      LizardTwin_180: 8756426925412051549
+      LizardTwin_182: 8341890844251116780
+      LizardTwin_99: 8886797814087878785
+      LizardTwin_17: -7648122928103896354
+      LizardTwin_123: 7693839666001455271
+      LizardTwin_72: 8390648283995486601
+      LizardTwin_79: 2892573692685028705
+      LizardTwin_111: -1741001518655372792
+      LizardTwin_44: -9191707634900019480
+      LizardTwin_67: -4709007373936362310
+      LizardTwin_191: 1222464793748967388
+      LizardTwin_73: 8871176792070654804
+      LizardTwin_2: -1154035324998766090
+      LizardTwin_28: -4992366891887764813
+      LizardTwin_61: -2523048127479380208
+      LizardTwin_90: -6010533290557464955
+      LizardTwin_89: 1854446812000855777
+      LizardTwin_33: 4955495935185130974
+      LizardTwin_36: -447255027981292740
+      LizardTwin_139: -7252389095052236301
+      LizardTwin_121: 5219849259042406133
+      LizardTwin_114: 704937792292311007
+      LizardTwin_146: 3395097396269222016
+      LizardTwin_172: -2892986304471377414
+      LizardTwin_199: 7572506700931649084
+      LizardTwin_124: -1592726828904467968
+      LizardTwin_179: -7527267247797490226
+      LizardTwin_83: 2127695590209475458
+      LizardTwin_116: 269047158046058255
+      LizardTwin_196: -1348274854657910164
+      LizardTwin_60: -8762495636122505943
+      LizardTwin_162: 8407826056731513027
+      LizardTwin_9: 5868870923791290646
+      LizardTwin_103: 1354391018692231911
+      LizardTwin_71: 6708009186506073525
+      LizardTwin_119: 1672555542379470041
+      LizardTwin_184: 24192651644733627
+      LizardTwin_57: 9024175271436092401
+      LizardTwin_94: -5199021341062928040
+      LizardTwin_76: -1876600682505655923
+      LizardTwin_1: 8776897263337349001
+      LizardTwin_51: -7470182147208362486
+      LizardTwin_157: -4371578500518780881
+      LizardTwin_66: 8839026033506562599
+      LizardTwin_156: 5909994114435380267
+      LizardTwin_178: -20656301945897396
+      LizardTwin_143: -5754929270870529019
+      LizardTwin_127: -2462717793238482702
+      LizardTwin_190: -7427355029387413654
+      LizardTwin_3: -7390763739298037137
+      LizardTwin_100: 8207803802687454987
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

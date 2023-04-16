@@ -1,0 +1,33 @@
+charmType	name	condition	effect	staticText			
+Triggered	Vengeful	When you get hit by an enemy, 					
+Triggered	Fury		deal 1 damage to an enemy 				
+Triggered	Mushroom's	When you touch spores, 					
+Triggered	Restoration		you heal damage				
+Triggered	Bloodlusty	When you kill an enemy, 					
+Triggered	Wealth		drop an additional shell when collecting one				
+Triggered	Richman's	When you collect a shell, 					
+Triggered	Tempo		gain temporal speed				
+Triggered	Healer's	When you heal magically, 					
+Triggered	Shield		gain a temporal shield				
+Triggered	Wizard's	When you cast a spell, 					
+Triggered	Focus		gain 1 mana				
+Triggered	Catcher	When you physically hit the same enemy 3 times, 					
+Triggered	Spirit		gain 1 mana				Duplicate
+Triggered	Revenge's	When you get hit by magic, 					
+Triggered	Spores		emit spores				
+Triggered	Victorious	When you flawlessly win a fight, 					
+Triggered	Travel		gain temporal speed				Duplicate
+Triggered	Explorer's	When you enter a new area, 					
+Triggered	Light		emit a temporal light				
+Static	Fiery Spores			Spores near you deal fire damage			
+Static	Healing Spores			Spores cause you to heal slowly			
+Static	Bright Spores			Spores near you emit light			
+Static	Hunter's Sight			Enemies near you are marked			
+Static	Whisper's Sight			Secrets near you are marked			
+Static	Whisper's Ear			Secrets emit a sound			
+Static	Repelling Light			Light scares spiders			
+Static	Glass			Kill enemies with 1 hit, 1 hp			
+Static	Burning Light			Light hurts enemies near you			
+Static	Sensei's Teachings			Needle hits destroy Projectiles			
+Static	Harmony			Mana regenerates continually only			
+Static	Lantern			Illuminates your surroundings			

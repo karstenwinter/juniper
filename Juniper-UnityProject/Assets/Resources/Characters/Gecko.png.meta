@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: 372e36b8560d45443bc4638fa546ffb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7732683308611612685
+    second: Gecko_0
+  - first:
+      213: -567213143624296841
+    second: Gecko_1
+  - first:
+      213: -995464651623510582
+    second: Gecko_2
+  - first:
+      213: 5017552402932262762
+    second: Gecko_3
+  - first:
+      213: -6199568255617035507
+    second: Gecko_4
+  - first:
+      213: -7315950926512038268
+    second: Gecko_5
+  - first:
+      213: 7940596541349909755
+    second: Gecko_6
+  - first:
+      213: 678660489880143349
+    second: Gecko_7
+  - first:
+      213: 6311269597375137030
+    second: Gecko_8
+  - first:
+      213: 5718536564964780407
+    second: Gecko_9
+  - first:
+      213: -2301314262186629318
+    second: Gecko_10
+  - first:
+      213: 4778748407759296725
+    second: Gecko_11
+  - first:
+      213: 8020882232949471596
+    second: Gecko_12
+  - first:
+      213: 335316017146372513
+    second: Gecko_13
+  - first:
+      213: 6488205754787750933
+    second: Gecko_14
+  - first:
+      213: -524777537207660219
+    second: Gecko_15
+  - first:
+      213: -5704011186194358130
+    second: Gecko_16
+  - first:
+      213: -3213303520699472526
+    second: Gecko_17
+  - first:
+      213: -8585545339036063688
+    second: Gecko_18
+  - first:
+      213: -5173174990975025170
+    second: Gecko_19
+  - first:
+      213: 4377344449087707831
+    second: Gecko_20
+  - first:
+      213: -8981948633506225386
+    second: Gecko_21
+  - first:
+      213: 3505247879866295615
+    second: Gecko_22
+  - first:
+      213: -6993741640286598524
+    second: Gecko_23
+  - first:
+      213: 6967024192725755746
+    second: Gecko_24
+  - first:
+      213: 1101876575603474526
+    second: Gecko_25
+  - first:
+      213: -1255817148940781560
+    second: Gecko_26
+  - first:
+      213: -5805488756748827348
+    second: Gecko_27
+  - first:
+      213: 6929073186869420518
+    second: Gecko_28
+  - first:
+      213: 8333096315565530608
+    second: Gecko_29
+  - first:
+      213: 6976223280065061347
+    second: Gecko_30
+  - first:
+      213: 977008649134754786
+    second: Gecko_31
+  - first:
+      213: -8754904669492938310
+    second: Gecko_32
+  - first:
+      213: 6276971641910042275
+    second: Gecko_33
+  - first:
+      213: 3301805763353306066
+    second: Gecko_34
+  - first:
+      213: -5803232950180822646
+    second: Gecko_35
+  - first:
+      213: 1647313224867058545
+    second: Gecko_36
+  - first:
+      213: -8370451021045857743
+    second: Gecko_37
+  - first:
+      213: -3700676003784141201
+    second: Gecko_38
+  - first:
+      213: 8794800146419768941
+    second: Gecko_39
+  - first:
+      213: -7783356532271681529
+    second: Gecko_40
+  - first:
+      213: 2037579025743608835
+    second: Gecko_41
+  - first:
+      213: -464785692754460681
+    second: Gecko_42
+  - first:
+      213: 6527566359919368752
+    second: Gecko_43
+  - first:
+      213: 7897794129915306041
+    second: Gecko_44
+  - first:
+      213: -3578118690393489361
+    second: Gecko_45
+  - first:
+      213: 2460938873990184209
+    second: Gecko_46
+  - first:
+      213: 1215229617189520194
+    second: Gecko_47
+  - first:
+      213: 2604412595415158441
+    second: Gecko_48
+  - first:
+      213: 7136704799306279315
+    second: Gecko_49
+  - first:
+      213: 7151380885160095937
+    second: Gecko_50
+  - first:
+      213: 4634925684886385449
+    second: Gecko_51
+  - first:
+      213: 3335294946671940410
+    second: Gecko_52
+  - first:
+      213: -8090207796767076182
+    second: Gecko_53
+  - first:
+      213: 6599830547064726154
+    second: Gecko_54
+  - first:
+      213: 6716988419297287271
+    second: Gecko_55
+  - first:
+      213: 955925675751702350
+    second: Gecko_56
+  - first:
+      213: 5159695575944748731
+    second: Gecko_57
+  - first:
+      213: -5332376113530052939
+    second: Gecko_58
+  - first:
+      213: -4024045921328868249
+    second: Gecko_59
+  - first:
+      213: -7750410165756146498
+    second: Gecko_60
+  - first:
+      213: -1271693643502464717
+    second: Gecko_61
+  - first:
+      213: -1728049096199042068
+    second: Gecko_62
+  - first:
+      213: -5399864532804853388
+    second: Gecko_63
+  - first:
+      213: -5879009105198476417
+    second: Gecko_64
+  - first:
+      213: -4572976084625786157
+    second: Gecko_65
+  - first:
+      213: 2506282265211377863
+    second: Gecko_66
+  - first:
+      213: -3746818896009909624
+    second: Gecko_67
+  - first:
+      213: -2727738546141516269
+    second: Gecko_68
+  - first:
+      213: -2643117718252149744
+    second: Gecko_69
+  - first:
+      213: 5609317387861137416
+    second: Gecko_70
+  - first:
+      213: -1227035694982244711
+    second: Gecko_71
+  - first:
+      213: 4721905185856140865
+    second: Gecko_72
+  - first:
+      213: -7819429874398368811
+    second: Gecko_73
+  - first:
+      213: -2632155955280143062
+    second: Gecko_74
+  - first:
+      213: -6653567832120166436
+    second: Gecko_75
+  - first:
+      213: -7687962001151340751
+    second: Gecko_76
+  - first:
+      213: 6162260016273588920
+    second: Gecko_77
+  - first:
+      213: -3621499001679216825
+    second: Gecko_78
+  - first:
+      213: 9198174089834928156
+    second: Gecko_79
+  - first:
+      213: 9095774878006535888
+    second: Gecko_80
+  - first:
+      213: 1756050535412742840
+    second: Gecko_81
+  - first:
+      213: 5062470410877107047
+    second: Gecko_82
+  - first:
+      213: 2303487288289409090
+    second: Gecko_83
+  - first:
+      213: 7957263106770496632
+    second: Gecko_84
+  - first:
+      213: -650805733530015676
+    second: Gecko_85
+  - first:
+      213: -3517844711529242246
+    second: Gecko_86
+  - first:
+      213: -9079658817926516983
+    second: Gecko_87
+  - first:
+      213: -5339853315335445346
+    second: Gecko_88
+  - first:
+      213: -3317813273325789051
+    second: Gecko_89
+  - first:
+      213: 7147920045972462393
+    second: Gecko_90
+  - first:
+      213: -3094587034526155250
+    second: Gecko_91
+  - first:
+      213: -3311173584757228902
+    second: Gecko_92
+  - first:
+      213: -4083080237969367591
+    second: Gecko_93
+  - first:
+      213: 7388973123813191810
+    second: Gecko_94
+  - first:
+      213: 3456459751687132891
+    second: Gecko_95
+  - first:
+      213: -1213873847286404176
+    second: Gecko_96
+  - first:
+      213: 172996427333849527
+    second: Gecko_97
+  - first:
+      213: -3828021663233517034
+    second: Gecko_98
+  - first:
+      213: 5110661547310159591
+    second: Gecko_99
+  - first:
+      213: 1297476343885464371
+    second: Gecko_100
+  - first:
+      213: -8715171158951229566
+    second: Gecko_101
+  - first:
+      213: -7943802562485020732
+    second: Gecko_102
+  - first:
+      213: 5087338556551193507
+    second: Gecko_103
+  - first:
+      213: -3311787147473096412
+    second: Gecko_104
+  - first:
+      213: -604353616240546001
+    second: Gecko_105
+  - first:
+      213: 6042998217958653885
+    second: Gecko_106
+  - first:
+      213: -8640744581196147335
+    second: Gecko_107
+  - first:
+      213: 1557613818292247338
+    second: Gecko_108
+  - first:
+      213: 774325546285506184
+    second: Gecko_109
+  - first:
+      213: -1673546800366024176
+    second: Gecko_110
+  - first:
+      213: -734011987171193472
+    second: Gecko_111
+  - first:
+      213: 1903603403246270404
+    second: Gecko_112
+  - first:
+      213: -2607528407919011547
+    second: Gecko_113
+  - first:
+      213: -8052485351553912298
+    second: Gecko_114
+  - first:
+      213: -4339414638850270659
+    second: Gecko_115
+  - first:
+      213: -8687847097571600260
+    second: Gecko_116
+  - first:
+      213: -2595574469477732516
+    second: Gecko_117
+  - first:
+      213: -5665053836451526894
+    second: Gecko_118
+  - first:
+      213: 7632823190831702990
+    second: Gecko_119
+  - first:
+      213: 6166247378131253255
+    second: Gecko_120
+  - first:
+      213: 6171134641087890254
+    second: Gecko_121
+  - first:
+      213: 2486748378780416985
+    second: Gecko_122
+  - first:
+      213: -5122655670553032011
+    second: Gecko_123
+  - first:
+      213: -5230629294209838315
+    second: Gecko_124
+  - first:
+      213: 908993470644409202
+    second: Gecko_125
+  - first:
+      213: -4553663975247875925
+    second: Gecko_126
+  - first:
+      213: -8903135618534121539
+    second: Gecko_127
+  - first:
+      213: 7575596989081287399
+    second: Gecko_128
+  - first:
+      213: -4056607335915720578
+    second: Gecko_129
+  - first:
+      213: -906749058333078497
+    second: Gecko_130
+  - first:
+      213: -7657457886111106352
+    second: Gecko_131
+  - first:
+      213: 4957399351187821707
+    second: Gecko_132
+  - first:
+      213: 2703107051998141964
+    second: Gecko_133
+  - first:
+      213: 4603507614295904930
+    second: Gecko_134
+  - first:
+      213: 7297293145351160798
+    second: Gecko_135
+  - first:
+      213: -1982682357316081923
+    second: Gecko_136
+  - first:
+      213: -7761810167481837073
+    second: Gecko_137
+  - first:
+      213: 773079379814122293
+    second: Gecko_138
+  - first:
+      213: -1052218602558464099
+    second: Gecko_139
+  - first:
+      213: -3546626784547676509
+    second: Gecko_140
+  - first:
+      213: -6553763586711898111
+    second: Gecko_141
+  - first:
+      213: 4692415162166799715
+    second: Gecko_142
+  - first:
+      213: 974198999738323717
+    second: Gecko_143
+  - first:
+      213: 1770740600530574214
+    second: Gecko_144
+  - first:
+      213: -5956769726124445436
+    second: Gecko_145
+  - first:
+      213: -8640717532572218993
+    second: Gecko_146
+  - first:
+      213: -690070248740765328
+    second: Gecko_147
+  - first:
+      213: -1398559293546748310
+    second: Gecko_148
+  - first:
+      213: 4716853450311066975
+    second: Gecko_149
+  - first:
+      213: 7442292592150904789
+    second: Gecko_150
+  - first:
+      213: -4076566688861371886
+    second: Gecko_151
+  - first:
+      213: 81176464488810246
+    second: Gecko_152
+  - first:
+      213: -2439581186430104668
+    second: Gecko_153
+  - first:
+      213: -215242901143362584
+    second: Gecko_154
+  - first:
+      213: 6826378837319893277
+    second: Gecko_155
+  - first:
+      213: 7007072250975339617
+    second: Gecko_156
+  - first:
+      213: 2744465935625351097
+    second: Gecko_157
+  - first:
+      213: -453495036957024041
+    second: Gecko_158
+  - first:
+      213: -7959494190224378885
+    second: Gecko_159
+  - first:
+      213: 6943134450080791668
+    second: Gecko_160
+  - first:
+      213: -7457507810584587109
+    second: Gecko_161
+  - first:
+      213: -6184655818230297385
+    second: Gecko_162
+  - first:
+      213: -6503294782213590600
+    second: Gecko_163
+  - first:
+      213: -5338566933732565740
+    second: Gecko_164
+  - first:
+      213: -5338712626812776393
+    second: Gecko_165
+  - first:
+      213: -5113310778795251396
+    second: Gecko_166
+  - first:
+      213: 4471633716453893184
+    second: Gecko_167
+  - first:
+      213: 8829998031131415816
+    second: Gecko_168
+  - first:
+      213: 3388455640806251631
+    second: Gecko_169
+  - first:
+      213: -4342917213140767654
+    second: Gecko_170
+  - first:
+      213: 6831139968821658034
+    second: Gecko_171
+  - first:
+      213: -8210223998432269648
+    second: Gecko_172
+  - first:
+      213: 6214562777990587505
+    second: Gecko_173
+  - first:
+      213: 2015737128492256706
+    second: Gecko_174
+  - first:
+      213: -2293625529519605237
+    second: Gecko_175
+  - first:
+      213: -3787569789069641167
+    second: Gecko_176
+  - first:
+      213: -2899247961509678585
+    second: Gecko_177
+  - first:
+      213: -2806923987937668115
+    second: Gecko_178
+  - first:
+      213: 2773257011560717788
+    second: Gecko_179
+  - first:
+      213: 5524032730707767089
+    second: Gecko_180
+  - first:
+      213: 3100477317492096035
+    second: Gecko_181
+  - first:
+      213: 5422118584058218851
+    second: Gecko_182
+  - first:
+      213: -5012533648189639557
+    second: Gecko_183
+  - first:
+      213: -2029785416157466714
+    second: Gecko_184
+  - first:
+      213: 8568092667302031060
+    second: Gecko_185
+  - first:
+      213: -419880429118494695
+    second: Gecko_186
+  - first:
+      213: 7350616335565909123
+    second: Gecko_187
+  - first:
+      213: 2262954414922548449
+    second: Gecko_188
+  - first:
+      213: -675094815732143884
+    second: Gecko_189
+  - first:
+      213: -7977372647078385858
+    second: Gecko_190
+  - first:
+      213: -4246794401956242663
+    second: Gecko_191
+  - first:
+      213: -852357558218901251
+    second: Gecko_192
+  - first:
+      213: -6008813191547359632
+    second: Gecko_193
+  - first:
+      213: 5679337109910372975
+    second: Gecko_194
+  - first:
+      213: 631713501053489127
+    second: Gecko_195
+  - first:
+      213: -2373987534585006470
+    second: Gecko_196
+  - first:
+      213: -5818641487976897451
+    second: Gecko_197
+  - first:
+      213: 8271389977697543562
+    second: Gecko_198
+  - first:
+      213: -727975141283306885
+    second: Gecko_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gecko_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00336aef72005b60800000000000000
+      internalID: 7732683308611612685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776575ea6aad028f0800000000000000
+      internalID: -567213143624296841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc58d6c266f22f0800000000000000
+      internalID: -995464651623510582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676faa835de1a540800000000000000
+      internalID: 5017552402932262762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03982ba485b6f9a0800000000000000
+      internalID: -6199568255617035507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e5f07d465887a90800000000000000
+      internalID: -7315950926512038268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45bd7bb7aa23e60800000000000000
+      internalID: 7940596541349909755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5066eae161b6900800000000000000
+      internalID: 678660489880143349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058441a242269750800000000000000
+      internalID: 6311269597375137030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4560
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779eecd25b25c5f40800000000000000
+      internalID: 5718536564964780407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3763d51fd61010e0800000000000000
+      internalID: -2301314262186629318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8d473ab56815240800000000000000
+      internalID: 4778748407759296725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69f138f4e5ef4f60800000000000000
+      internalID: 8020882232949471596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12289142847a400800000000000000
+      internalID: 335316017146372513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e4cb02ccba0a50800000000000000
+      internalID: 6488205754787750933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54112ac3c9d97b8f0800000000000000
+      internalID: -524777537207660219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e70c1c0847d0b0800000000000000
+      internalID: -5704011186194358130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2752235097d0863d0800000000000000
+      internalID: -3213303520699472526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838aeb790040ad880800000000000000
+      internalID: -8585545339036063688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefbffd11c03538b0800000000000000
+      internalID: -5173174990975025170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba966395937fbc30800000000000000
+      internalID: 4377344449087707831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136e056e45b95380800000000000000
+      internalID: -8981948633506225386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352f19006425a030800000000000000
+      internalID: 3505247879866295615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0cd7580d31fe90800000000000000
+      internalID: -6993741640286598524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267a8f42797dfa060800000000000000
+      internalID: 6967024192725755746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e504b2358e6aa4f00800000000000000
+      internalID: 1101876575603474526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087a86e4f0729ee0800000000000000
+      internalID: -1255817148940781560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25467a0cb2ce6fa0800000000000000
+      internalID: -5805488756748827348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e129060a53092060800000000000000
+      internalID: 6929073186869420518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd5668c2fa15a370800000000000000
+      internalID: 8333096315565530608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a6129c1680d060800000000000000
+      internalID: 6976223280065061347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4922a0380f8d00800000000000000
+      internalID: 977008649134754786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9f67ca694508680800000000000000
+      internalID: -8754904669492938310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9f3593784c1750800000000000000
+      internalID: 6276971641910042275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e20a19de52dd20800000000000000
+      internalID: 3301805763353306066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8141afe066c67fa0800000000000000
+      internalID: -5803232950180822646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173110276ae6cd610800000000000000
+      internalID: 1647313224867058545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13281c8152f26db80800000000000000
+      internalID: -8370451021045857743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6652a518ce84acc0800000000000000
+      internalID: -3700676003784141201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3840
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e57e5e2286d0a70800000000000000
+      internalID: 8794800146419768941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fabdc876fbf390800000000000000
+      internalID: -7783356532271681529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfb3f045fe64c10800000000000000
+      internalID: 2037579025743608835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffbfaeffdfbc89f0800000000000000
+      internalID: -464785692754460681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a98c21503969a50800000000000000
+      internalID: 6527566359919368752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93064c6bae99a9d60800000000000000
+      internalID: 7897794129915306041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2009ee3208f75ec0800000000000000
+      internalID: -3578118690393489361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d72260ed2072220800000000000000
+      internalID: 2460938873990184209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438d15f5ec5dd010800000000000000
+      internalID: 1215229617189520194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae064ee47bb42420800000000000000
+      internalID: 2604412595415158441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e97df33baa0360800000000000000
+      internalID: 7136704799306279315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c07c71860fce3360800000000000000
+      internalID: 7151380885160095937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923bcff7a50925040800000000000000
+      internalID: 4634925684886385449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3359853519594e20800000000000000
+      internalID: 3335294946671940410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05a926fdec9bf80800000000000000
+      internalID: -8090207796767076182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a0974aee479b50800000000000000
+      internalID: 6599830547064726154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c90a41169873d50800000000000000
+      internalID: 6716988419297287271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ffade5651244d00800000000000000
+      internalID: 955925675751702350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_57
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe57510acbea9740800000000000000
+      internalID: 5159695575944748731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_58
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be53484d289ff5b0800000000000000
+      internalID: -5332376113530052939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_59
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3360
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764555b0e87b728c0800000000000000
+      internalID: -4024045921328868249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc47868403017490800000000000000
+      internalID: -7750410165756146498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d9e37e590a5ee0800000000000000
+      internalID: -1271693643502464717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb0f9aa08cb408e0800000000000000
+      internalID: -1728049096199042068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471afee21d3df05b0800000000000000
+      internalID: -5399864532804853388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f739b5dfd50996ea0800000000000000
+      internalID: -5879009105198476417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daf58dca768980c0800000000000000
+      internalID: -4572976084625786157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c819ccf07a18c220800000000000000
+      internalID: 2506282265211377863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aab99c010a00cc0800000000000000
+      internalID: -3746818896009909624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_68
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e28159e30252ad0800000000000000
+      internalID: -2727738546141516269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_69
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3120
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142a086072c15bd0800000000000000
+      internalID: -2643117718252149744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80892efd17c48dd40800000000000000
+      internalID: 5609317387861137416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996dbd95981b8fee0800000000000000
+      internalID: -1227035694982244711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b702bfb3978140800000000000000
+      internalID: 4721905185856140865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db686655fdcb7390800000000000000
+      internalID: -7819429874398368811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d191cba14b87bd0800000000000000
+      internalID: -2632155955280143062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f28d0f47c9a3a0800000000000000
+      internalID: -6653567832120166436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4ca2ea4fde4590800000000000000
+      internalID: -7687962001151340751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28493f5deb48550800000000000000
+      internalID: 6162260016273588920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7a7278d9ddbdc0800000000000000
+      internalID: -3621499001679216825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1810d6c99a76af70800000000000000
+      internalID: 9198174089834928156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d660806f0faa3e70800000000000000
+      internalID: 9095774878006535888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba39e278aebe5810800000000000000
+      internalID: 1756050535412742840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b714e3402814640800000000000000
+      internalID: 5062470410877107047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483e1bfb71a7ff10800000000000000
+      internalID: 2303487288289409090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c606fd2a0ed6e60800000000000000
+      internalID: 7957263106770496632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e72b22afd7f6f0800000000000000
+      internalID: -650805733530015676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71205a8fda1e2fc0800000000000000
+      internalID: -3517844711529242246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f2fb349629ef180800000000000000
+      internalID: -9079658817926516983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_88
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942db293b705e5b0800000000000000
+      internalID: -5339853315335445346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_89
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2640
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580275c0862c4f1d0800000000000000
+      internalID: -3317813273325789051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b15171963823360800000000000000
+      internalID: 7147920045972462393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef988ec71dd05d0800000000000000
+      internalID: -3094587034526155250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a73e20b295c02d0800000000000000
+      internalID: -3311173584757228902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd1b6a182cf557c0800000000000000
+      internalID: -4083080237969367591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2803bcb58e7ea8660800000000000000
+      internalID: 7388973123813191810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd61fbfb4dfc7ff20800000000000000
+      internalID: 3456459751687132891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_96
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6b52da24772fe0800000000000000
+      internalID: -1213873847286404176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_97
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b155a6855b966200800000000000000
+      internalID: 172996427333849527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_98
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a577a349220eac0800000000000000
+      internalID: -3828021663233517034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_99
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69bae8997bce640800000000000000
+      internalID: 5110661547310159591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33304c54cdf810210800000000000000
+      internalID: 1297476343885464371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878bf1810e7d0780800000000000000
+      internalID: -8715171158951229566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71e3158a1f1c190800000000000000
+      internalID: -7943802562485020732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e16b967bd99640800000000000000
+      internalID: 5087338556551193507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421792fc22b2a02d0800000000000000
+      internalID: -3311787147473096412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f62498697ec97f0800000000000000
+      internalID: -604353616240546001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_106
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf7ebfacda0dd350800000000000000
+      internalID: 6042998217958653885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_107
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9751ce28598e51880800000000000000
+      internalID: -8640744581196147335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_108
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b9c80e381cd9510800000000000000
+      internalID: 1557613818292247338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_109
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9bd65bf4feba00800000000000000
+      internalID: 774325546285506184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a01394d0e56c8e0800000000000000
+      internalID: -1673546800366024176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d48c39cf340d5f0800000000000000
+      internalID: -734011987171193472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f7b3a535fa6a10800000000000000
+      internalID: 1903603403246270404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295f307ab230dbd0800000000000000
+      internalID: -2607528407919011547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b7959c33df3090800000000000000
+      internalID: -8052485351553912298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a133e806d47c3c0800000000000000
+      internalID: -4339414638850270659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78165e48119e6780800000000000000
+      internalID: -8687847097571600260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_117
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe4be95caaafbd0800000000000000
+      internalID: -2595574469477732516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c7dcec8fa161b0800000000000000
+      internalID: -5665053836451526894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_119
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1920
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec323ea604c3de960800000000000000
+      internalID: 7632823190831702990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70872baf159e29550800000000000000
+      internalID: 6166247378131253255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c62f824644a550800000000000000
+      internalID: 6171134641087890254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3cf2a974b28220800000000000000
+      internalID: 2486748378780416985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bacb020fcba8e8b0800000000000000
+      internalID: -5122655670553032011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ded6be521967b0800000000000000
+      internalID: -5230629294209838315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d8e8deb46d9c00800000000000000
+      internalID: 908993470644409202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_126
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba07bd8adb22ec0c0800000000000000
+      internalID: -4553663975247875925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_127
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf55266355b17480800000000000000
+      internalID: -8903135618534121539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_128
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea75b7035de12960800000000000000
+      internalID: 7575596989081287399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_129
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1680
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ff7dee1904b7c0800000000000000
+      internalID: -4056607335915720578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c03ad19849a63f0800000000000000
+      internalID: -906749058333078497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da75df9f9e3bb590800000000000000
+      internalID: -7657457886111106352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b845d49c1783cc440800000000000000
+      internalID: 4957399351187821707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed338ca8d538520800000000000000
+      internalID: 2703107051998141964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d9e6e8c1f2ef30800000000000000
+      internalID: 4603507614295904930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_135
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed38c86f371354560800000000000000
+      internalID: 7297293145351160798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_136
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6adb596e81c74e0800000000000000
+      internalID: -1982682357316081923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_137
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9da39c6c2884490800000000000000
+      internalID: -7761810167481837073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_138
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533000999978aba00800000000000000
+      internalID: 773079379814122293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_139
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd17081c4c561f0800000000000000
+      internalID: -1052218602558464099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae5624fab9d7cec0800000000000000
+      internalID: -3546626784547676509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b520cdba5c05a0800000000000000
+      internalID: -6553763586711898111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36deb9f7abece1140800000000000000
+      internalID: 4692415162166799715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50391f724dc058d00800000000000000
+      internalID: 974198999738323717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_144
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b9cf3c13fe29810800000000000000
+      internalID: 1770740600530574214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4013d819e7d455da0800000000000000
+      internalID: -5956769726124445436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_146
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f890b824f21061880800000000000000
+      internalID: -8640717532572218993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_147
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071cdb1d3c06c66f0800000000000000
+      internalID: -690070248740765328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_148
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6623de7bb1579ce0800000000000000
+      internalID: -1398559293546748310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_149
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ed5bd831a57140800000000000000
+      internalID: 4716853450311066975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dffcad7ea5584760800000000000000
+      internalID: 7442292592150904789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124a3fe1302d67c0800000000000000
+      internalID: -4076566688861371886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6074af97095602100800000000000000
+      internalID: 81176464488810246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab8b1e16ddd42ed0800000000000000
+      internalID: -2439581186430104668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_154
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ece8c8bd430df0800000000000000
+      internalID: -215242901143362584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1142b4826b2cbe50800000000000000
+      internalID: 6826378837319893277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_156
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c1e2561f1e3160800000000000000
+      internalID: 7007072250975339617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_157
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfeb174a3d461620800000000000000
+      internalID: 2744465935625351097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_158
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d026c6aaacd4b9f0800000000000000
+      internalID: -453495036957024041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_159
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f3e784323a8190800000000000000
+      internalID: -7959494190224378885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb7dcfef7fa5060800000000000000
+      internalID: 6943134450080791668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949768682c918890800000000000000
+      internalID: -7457507810584587109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc84501d40bb2aa0800000000000000
+      internalID: -6184655818230297385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_163
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1f18cf9d7afb5a0800000000000000
+      internalID: -6503294782213590600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5931a8a999e5b0800000000000000
+      internalID: -5338566933732565740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_165
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309ee0d62519e5b0800000000000000
+      internalID: -5338712626812776393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_166
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39abbb20fed909b0800000000000000
+      internalID: -5113310778795251396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_167
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e4e26c2f6e0e30800000000000000
+      internalID: 4471633716453893184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_168
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059cfc0d647a8a70800000000000000
+      internalID: 8829998031131415816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_169
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cdc67d376360f20800000000000000
+      internalID: 3388455640806251631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca0ddedcbdab3c0800000000000000
+      internalID: -4342917213140767654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18694db951dce50800000000000000
+      internalID: 6831139968821658034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baae07e5cc6f0e80800000000000000
+      internalID: -8210223998432269648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_173
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746e70abef8e3650800000000000000
+      internalID: 6214562777990587505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_174
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdc8501d3659fb10800000000000000
+      internalID: 2015737128492256706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_175
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7739abb76b20e0800000000000000
+      internalID: -2293625529519605237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_176
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab0802859df6bc0800000000000000
+      internalID: -3787569789069641167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_177
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b072075dc3c7d0800000000000000
+      internalID: -2899247961509678585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_178
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d373318dcb09d0800000000000000
+      internalID: -2806923987937668115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_179
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd10f40f869c7620800000000000000
+      internalID: 2773257011560717788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa771408e49ac40800000000000000
+      internalID: 5524032730707767089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb54771bb170b20800000000000000
+      internalID: 3100477317492096035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36985d4ef1c3f3b40800000000000000
+      internalID: 5422118584058218851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b6fa5437ef6ab0800000000000000
+      internalID: -5012533648189639557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_184
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af6aa31be0c4d3e0800000000000000
+      internalID: -2029785416157466714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_185
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaa2d92eaf7e670800000000000000
+      internalID: 8568092667302031060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_186
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e04e69f84c2af0800000000000000
+      internalID: -419880429118494695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_187
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce699ac92a20660800000000000000
+      internalID: 7350616335565909123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_188
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44c5cfc01a76f10800000000000000
+      internalID: 2262954414922548449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_189
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 240
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8e39687d491a6f0800000000000000
+      internalID: -675094815732143884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a9f9e7ddaa4190800000000000000
+      internalID: -7977372647078385858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd74dedfa5015c0800000000000000
+      internalID: -4246794401956242663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df83eb81151db24f0800000000000000
+      internalID: -852357558218901251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_193
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e63240d386c9ca0800000000000000
+      internalID: -6008813191547359632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_194
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c6e3d20f01de40800000000000000
+      internalID: 5679337109910372975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_195
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8c1e051c44c800800000000000000
+      internalID: 631713501053489127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_196
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76fadb4ae6ed0fd0800000000000000
+      internalID: -2373987534585006470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_197
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55469c92568004fa0800000000000000
+      internalID: -5818641487976897451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_198
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85636b6c51e9c270800000000000000
+      internalID: 8271389977697543562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gecko_199
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b726e7a4776b5e5f0800000000000000
+      internalID: -727975141283306885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gecko_13: 335316017146372513
+      Gecko_106: 6042998217958653885
+      Gecko_84: 7957263106770496632
+      Gecko_96: -1213873847286404176
+      Gecko_40: -7783356532271681529
+      Gecko_25: 1101876575603474526
+      Gecko_67: -3746818896009909624
+      Gecko_68: -2727738546141516269
+      Gecko_189: -675094815732143884
+      Gecko_92: -3311173584757228902
+      Gecko_111: -734011987171193472
+      Gecko_129: -4056607335915720578
+      Gecko_95: 3456459751687132891
+      Gecko_48: 2604412595415158441
+      Gecko_138: 773079379814122293
+      Gecko_167: 4471633716453893184
+      Gecko_47: 1215229617189520194
+      Gecko_112: 1903603403246270404
+      Gecko_121: 6171134641087890254
+      Gecko_43: 6527566359919368752
+      Gecko_132: 4957399351187821707
+      Gecko_198: 8271389977697543562
+      Gecko_154: -215242901143362584
+      Gecko_65: -4572976084625786157
+      Gecko_77: 6162260016273588920
+      Gecko_52: 3335294946671940410
+      Gecko_11: 4778748407759296725
+      Gecko_142: 4692415162166799715
+      Gecko_126: -4553663975247875925
+      Gecko_5: -7315950926512038268
+      Gecko_164: -5338566933732565740
+      Gecko_114: -8052485351553912298
+      Gecko_23: -6993741640286598524
+      Gecko_133: 2703107051998141964
+      Gecko_190: -7977372647078385858
+      Gecko_145: -5956769726124445436
+      Gecko_37: -8370451021045857743
+      Gecko_20: 4377344449087707831
+      Gecko_110: -1673546800366024176
+      Gecko_188: 2262954414922548449
+      Gecko_14: 6488205754787750933
+      Gecko_128: 7575596989081287399
+      Gecko_159: -7959494190224378885
+      Gecko_87: -9079658817926516983
+      Gecko_184: -2029785416157466714
+      Gecko_63: -5399864532804853388
+      Gecko_51: 4634925684886385449
+      Gecko_8: 6311269597375137030
+      Gecko_136: -1982682357316081923
+      Gecko_179: 2773257011560717788
+      Gecko_194: 5679337109910372975
+      Gecko_158: -453495036957024041
+      Gecko_175: -2293625529519605237
+      Gecko_130: -906749058333078497
+      Gecko_197: -5818641487976897451
+      Gecko_10: -2301314262186629318
+      Gecko_4: -6199568255617035507
+      Gecko_34: 3301805763353306066
+      Gecko_36: 1647313224867058545
+      Gecko_127: -8903135618534121539
+      Gecko_19: -5173174990975025170
+      Gecko_31: 977008649134754786
+      Gecko_81: 1756050535412742840
+      Gecko_61: -1271693643502464717
+      Gecko_116: -8687847097571600260
+      Gecko_1: -567213143624296841
+      Gecko_15: -524777537207660219
+      Gecko_180: 5524032730707767089
+      Gecko_135: 7297293145351160798
+      Gecko_124: -5230629294209838315
+      Gecko_109: 774325546285506184
+      Gecko_54: 6599830547064726154
+      Gecko_119: 7632823190831702990
+      Gecko_0: 7732683308611612685
+      Gecko_150: 7442292592150904789
+      Gecko_113: -2607528407919011547
+      Gecko_152: 81176464488810246
+      Gecko_151: -4076566688861371886
+      Gecko_171: 6831139968821658034
+      Gecko_57: 5159695575944748731
+      Gecko_196: -2373987534585006470
+      Gecko_27: -5805488756748827348
+      Gecko_38: -3700676003784141201
+      Gecko_103: 5087338556551193507
+      Gecko_122: 2486748378780416985
+      Gecko_149: 4716853450311066975
+      Gecko_143: 974198999738323717
+      Gecko_104: -3311787147473096412
+      Gecko_169: 3388455640806251631
+      Gecko_9: 5718536564964780407
+      Gecko_181: 3100477317492096035
+      Gecko_105: -604353616240546001
+      Gecko_29: 8333096315565530608
+      Gecko_21: -8981948633506225386
+      Gecko_6: 7940596541349909755
+      Gecko_72: 4721905185856140865
+      Gecko_55: 6716988419297287271
+      Gecko_33: 6276971641910042275
+      Gecko_185: 8568092667302031060
+      Gecko_22: 3505247879866295615
+      Gecko_176: -3787569789069641167
+      Gecko_79: 9198174089834928156
+      Gecko_118: -5665053836451526894
+      Gecko_71: -1227035694982244711
+      Gecko_53: -8090207796767076182
+      Gecko_140: -3546626784547676509
+      Gecko_70: 5609317387861137416
+      Gecko_50: 7151380885160095937
+      Gecko_131: -7657457886111106352
+      Gecko_58: -5332376113530052939
+      Gecko_26: -1255817148940781560
+      Gecko_69: -2643117718252149744
+      Gecko_89: -3317813273325789051
+      Gecko_86: -3517844711529242246
+      Gecko_90: 7147920045972462393
+      Gecko_123: -5122655670553032011
+      Gecko_134: 4603507614295904930
+      Gecko_115: -4339414638850270659
+      Gecko_161: -7457507810584587109
+      Gecko_186: -419880429118494695
+      Gecko_62: -1728049096199042068
+      Gecko_177: -2899247961509678585
+      Gecko_187: 7350616335565909123
+      Gecko_195: 631713501053489127
+      Gecko_173: 6214562777990587505
+      Gecko_17: -3213303520699472526
+      Gecko_75: -6653567832120166436
+      Gecko_35: -5803232950180822646
+      Gecko_74: -2632155955280143062
+      Gecko_168: 8829998031131415816
+      Gecko_32: -8754904669492938310
+      Gecko_76: -7687962001151340751
+      Gecko_156: 7007072250975339617
+      Gecko_170: -4342917213140767654
+      Gecko_42: -464785692754460681
+      Gecko_83: 2303487288289409090
+      Gecko_166: -5113310778795251396
+      Gecko_120: 6166247378131253255
+      Gecko_7: 678660489880143349
+      Gecko_56: 955925675751702350
+      Gecko_141: -6553763586711898111
+      Gecko_100: 1297476343885464371
+      Gecko_162: -6184655818230297385
+      Gecko_85: -650805733530015676
+      Gecko_64: -5879009105198476417
+      Gecko_148: -1398559293546748310
+      Gecko_73: -7819429874398368811
+      Gecko_30: 6976223280065061347
+      Gecko_147: -690070248740765328
+      Gecko_28: 6929073186869420518
+      Gecko_182: 5422118584058218851
+      Gecko_191: -4246794401956242663
+      Gecko_41: 2037579025743608835
+      Gecko_125: 908993470644409202
+      Gecko_172: -8210223998432269648
+      Gecko_153: -2439581186430104668
+      Gecko_117: -2595574469477732516
+      Gecko_82: 5062470410877107047
+      Gecko_192: -852357558218901251
+      Gecko_16: -5704011186194358130
+      Gecko_60: -7750410165756146498
+      Gecko_174: 2015737128492256706
+      Gecko_49: 7136704799306279315
+      Gecko_139: -1052218602558464099
+      Gecko_137: -7761810167481837073
+      Gecko_24: 6967024192725755746
+      Gecko_46: 2460938873990184209
+      Gecko_3: 5017552402932262762
+      Gecko_98: -3828021663233517034
+      Gecko_59: -4024045921328868249
+      Gecko_183: -5012533648189639557
+      Gecko_45: -3578118690393489361
+      Gecko_160: 6943134450080791668
+      Gecko_165: -5338712626812776393
+      Gecko_12: 8020882232949471596
+      Gecko_155: 6826378837319893277
+      Gecko_157: 2744465935625351097
+      Gecko_101: -8715171158951229566
+      Gecko_97: 172996427333849527
+      Gecko_144: 1770740600530574214
+      Gecko_102: -7943802562485020732
+      Gecko_80: 9095774878006535888
+      Gecko_78: -3621499001679216825
+      Gecko_99: 5110661547310159591
+      Gecko_44: 7897794129915306041
+      Gecko_146: -8640717532572218993
+      Gecko_88: -5339853315335445346
+      Gecko_94: 7388973123813191810
+      Gecko_66: 2506282265211377863
+      Gecko_93: -4083080237969367591
+      Gecko_18: -8585545339036063688
+      Gecko_107: -8640744581196147335
+      Gecko_39: 8794800146419768941
+      Gecko_193: -6008813191547359632
+      Gecko_199: -727975141283306885
+      Gecko_178: -2806923987937668115
+      Gecko_91: -3094587034526155250
+      Gecko_2: -995464651623510582
+      Gecko_163: -6503294782213590600
+      Gecko_108: 1557613818292247338
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

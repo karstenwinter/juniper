@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 5a48bdd9c2f1edd49a28ae7d45185869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4292936501977373450
+    second: SnakeGuy_0
+  - first:
+      213: -8306274437399132868
+    second: SnakeGuy_1
+  - first:
+      213: 5870143625523082045
+    second: SnakeGuy_2
+  - first:
+      213: -8891161683033773457
+    second: SnakeGuy_3
+  - first:
+      213: -8565232014551521124
+    second: SnakeGuy_4
+  - first:
+      213: -7153588481739096262
+    second: SnakeGuy_5
+  - first:
+      213: 3844367643639911467
+    second: SnakeGuy_6
+  - first:
+      213: 1873413326610889750
+    second: SnakeGuy_7
+  - first:
+      213: 8296102491247220038
+    second: SnakeGuy_8
+  - first:
+      213: -8932372793450737783
+    second: SnakeGuy_9
+  - first:
+      213: -299436960725726370
+    second: SnakeGuy_10
+  - first:
+      213: 8581804053312715482
+    second: SnakeGuy_11
+  - first:
+      213: 4074972909065917709
+    second: SnakeGuy_12
+  - first:
+      213: -8243514980222732915
+    second: SnakeGuy_13
+  - first:
+      213: 6419375320742180045
+    second: SnakeGuy_14
+  - first:
+      213: 3688220790222757685
+    second: SnakeGuy_15
+  - first:
+      213: -8489392389247242685
+    second: SnakeGuy_16
+  - first:
+      213: 3108249513343393479
+    second: SnakeGuy_17
+  - first:
+      213: 157981180593280124
+    second: SnakeGuy_18
+  - first:
+      213: -7668769744940751206
+    second: SnakeGuy_19
+  - first:
+      213: -2639981138846875005
+    second: SnakeGuy_20
+  - first:
+      213: 3901436447579542807
+    second: SnakeGuy_21
+  - first:
+      213: -99371504852011678
+    second: SnakeGuy_22
+  - first:
+      213: -3524764137659338167
+    second: SnakeGuy_23
+  - first:
+      213: 5616266531690001456
+    second: SnakeGuy_24
+  - first:
+      213: -3648905534287387090
+    second: SnakeGuy_25
+  - first:
+      213: 7736723330931250507
+    second: SnakeGuy_26
+  - first:
+      213: 3313834516726001484
+    second: SnakeGuy_27
+  - first:
+      213: -4314650669420212170
+    second: SnakeGuy_28
+  - first:
+      213: 4321327488550787435
+    second: SnakeGuy_29
+  - first:
+      213: 578301069989251941
+    second: SnakeGuy_30
+  - first:
+      213: -3956113575491578799
+    second: SnakeGuy_31
+  - first:
+      213: -8285089003641642217
+    second: SnakeGuy_32
+  - first:
+      213: 5589993708083623279
+    second: SnakeGuy_33
+  - first:
+      213: -1758953073449149345
+    second: SnakeGuy_34
+  - first:
+      213: -8138872288993802389
+    second: SnakeGuy_35
+  - first:
+      213: 4663842484747216828
+    second: SnakeGuy_36
+  - first:
+      213: 2003689521614329072
+    second: SnakeGuy_37
+  - first:
+      213: -4143016226848353944
+    second: SnakeGuy_38
+  - first:
+      213: 6986225235369078747
+    second: SnakeGuy_39
+  - first:
+      213: 6437489708380704706
+    second: SnakeGuy_40
+  - first:
+      213: 4159743723759617894
+    second: SnakeGuy_41
+  - first:
+      213: -926912880007958045
+    second: SnakeGuy_42
+  - first:
+      213: -654445463361507977
+    second: SnakeGuy_43
+  - first:
+      213: -3428011194923303257
+    second: SnakeGuy_44
+  - first:
+      213: -5958600042178304201
+    second: SnakeGuy_45
+  - first:
+      213: 1572980609655487444
+    second: SnakeGuy_46
+  - first:
+      213: 9109706380578725517
+    second: SnakeGuy_47
+  - first:
+      213: -5993974619966722893
+    second: SnakeGuy_48
+  - first:
+      213: -4287075670708191562
+    second: SnakeGuy_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnakeGuy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5babe003939b30800000000000000
+      internalID: 4292936501977373450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35caef586f2abc80800000000000000
+      internalID: -8306274437399132868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b3dba680f67150800000000000000
+      internalID: 5870143625523082045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a25328e8f3c9480800000000000000
+      internalID: -8891161683033773457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986ad10dde222980800000000000000
+      internalID: -8565232014551521124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f7d9c5d2959bc90800000000000000
+      internalID: -7153588481739096262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249929e000f95530800000000000000
+      internalID: 3844367643639911467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cff1aae73bff910800000000000000
+      internalID: 1873413326610889750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645160bd24da12370800000000000000
+      internalID: 8296102491247220038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 983
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f41052546d90480800000000000000
+      internalID: -8932372793450737783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b0253bbaf28dbf0800000000000000
+      internalID: -299436960725726370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada36b17151b81770800000000000000
+      internalID: 8581804053312715482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d63a45463d8830800000000000000
+      internalID: 4074972909065917709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85763f2dc6299d80800000000000000
+      internalID: -8243514980222732915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc43fb8c7d3361950800000000000000
+      internalID: 6419375320742180045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f107684413f2330800000000000000
+      internalID: 3688220790222757685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6308c99e9f2a80800000000000000
+      internalID: -8489392389247242685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1d14d678b22b20800000000000000
+      internalID: 3108249513343393479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c749576fb03413200800000000000000
+      internalID: 157981180593280124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 743
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962b804c8e039590800000000000000
+      internalID: -7668769744940751206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820d453427ec5bd0800000000000000
+      internalID: -2639981138846875005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159db347cfa42630800000000000000
+      internalID: 3901436447579542807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ff709426fe9ef0800000000000000
+      internalID: -99371504852011678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94277c911b5851fc0800000000000000
+      internalID: -3524764137659338167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0343c4187acf0fd40800000000000000
+      internalID: 5616266531690001456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e7d1dfbb7c5dc0800000000000000
+      internalID: -3648905534287387090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4552a9e0ec5e5b60800000000000000
+      internalID: 7736723330931250507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa1ed7fea1dfd20800000000000000
+      internalID: 3313834516726001484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6309e4f73184f14c0800000000000000
+      internalID: -4314650669420212170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 503
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695339947078fb30800000000000000
+      internalID: 4321327488550787435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b00f952c9860800800000000000000
+      internalID: 578301069989251941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15459b9d9af0919c0800000000000000
+      internalID: -3956113575491578799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e17d8273750d80800000000000000
+      internalID: -8285089003641642217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653ef219a5a39d40800000000000000
+      internalID: 5589993708083623279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c5b70cf71f697e0800000000000000
+      internalID: -1758953073449149345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67014656caec0f80800000000000000
+      internalID: -8138872288993802389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7abbf970c49b040800000000000000
+      internalID: 4663842484747216828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49efff0098ecb10800000000000000
+      internalID: 2003689521614329072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861560c31bc0186c0800000000000000
+      internalID: -4143016226848353944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 263
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2b0346de04f060800000000000000
+      internalID: 6986225235369078747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc34158ce865950800000000000000
+      internalID: 6437489708380704706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674a53a0e06ab930800000000000000
+      internalID: 4159743723759617894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1346985a1f223f0800000000000000
+      internalID: -926912880007958045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da8778151fae6f0800000000000000
+      internalID: -654445463361507977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeb8880bf14d60d0800000000000000
+      internalID: -3428011194923303257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a557e4dcce4da0800000000000000
+      internalID: -5958600042178304201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbb71dc78954d510800000000000000
+      internalID: 1572980609655487444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e118610bd2c6e70800000000000000
+      internalID: 9109706380578725517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2d2037df11dca0800000000000000
+      internalID: -5993974619966722893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeGuy_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 23
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef732346f3184c0800000000000000
+      internalID: -4287075670708191562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SnakeGuy_23: -3524764137659338167
+      SnakeGuy_13: -8243514980222732915
+      SnakeGuy_9: -8932372793450737783
+      SnakeGuy_33: 5589993708083623279
+      SnakeGuy_10: -299436960725726370
+      SnakeGuy_48: -5993974619966722893
+      SnakeGuy_49: -4287075670708191562
+      SnakeGuy_8: 8296102491247220038
+      SnakeGuy_12: 4074972909065917709
+      SnakeGuy_36: 4663842484747216828
+      SnakeGuy_40: 6437489708380704706
+      SnakeGuy_25: -3648905534287387090
+      SnakeGuy_7: 1873413326610889750
+      SnakeGuy_28: -4314650669420212170
+      SnakeGuy_19: -7668769744940751206
+      SnakeGuy_37: 2003689521614329072
+      SnakeGuy_35: -8138872288993802389
+      SnakeGuy_3: -8891161683033773457
+      SnakeGuy_0: 4292936501977373450
+      SnakeGuy_45: -5958600042178304201
+      SnakeGuy_29: 4321327488550787435
+      SnakeGuy_44: -3428011194923303257
+      SnakeGuy_38: -4143016226848353944
+      SnakeGuy_4: -8565232014551521124
+      SnakeGuy_46: 1572980609655487444
+      SnakeGuy_22: -99371504852011678
+      SnakeGuy_6: 3844367643639911467
+      SnakeGuy_21: 3901436447579542807
+      SnakeGuy_18: 157981180593280124
+      SnakeGuy_43: -654445463361507977
+      SnakeGuy_24: 5616266531690001456
+      SnakeGuy_15: 3688220790222757685
+      SnakeGuy_14: 6419375320742180045
+      SnakeGuy_31: -3956113575491578799
+      SnakeGuy_17: 3108249513343393479
+      SnakeGuy_1: -8306274437399132868
+      SnakeGuy_16: -8489392389247242685
+      SnakeGuy_2: 5870143625523082045
+      SnakeGuy_42: -926912880007958045
+      SnakeGuy_39: 6986225235369078747
+      SnakeGuy_11: 8581804053312715482
+      SnakeGuy_26: 7736723330931250507
+      SnakeGuy_27: 3313834516726001484
+      SnakeGuy_34: -1758953073449149345
+      SnakeGuy_32: -8285089003641642217
+      SnakeGuy_20: -2639981138846875005
+      SnakeGuy_47: 9109706380578725517
+      SnakeGuy_5: -7153588481739096262
+      SnakeGuy_41: 4159743723759617894
+      SnakeGuy_30: 578301069989251941
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
