@@ -18,7 +18,7 @@ MonoBehaviour:
   climbJumpForce: {x: -9, y: 2}
   climbVelocity: -1
   climbGravity: 0
-  climbExitForce: {x: 0, y: 0}
+  climbExitForce: {x: 0, y: -1}
   fallSpeed: 1
   sprintSpeed: 10
   sprintTime: 0.37

@@ -13,16 +13,20 @@ using System.Text;
 public class PrefabMapItem
 {
     public string symbol, emoji, name;
+    public GameObject prefab;
     public GameObject Instantiate(Vector3 position, Transform parent)
     {
         var key = "Prefabs/" + name;
-        var loaded = Resources.Load<GameObject>(key);
-        Debug.LogWarning("no asset found for name in Resources: " + key);
-        if (loaded != null)
-            GameObject.Instantiate(loaded, position, Quaternion.identity, parent);
-        return loaded;
+
+        if (prefab != null)
+            GameObject.Instantiate(prefab, position, Quaternion.identity, parent);
+        else
+
+            Debug.LogWarning("no prefab found for name in 'Prefabs array of World': " + key);
+        return prefab;
     }
 }
+
 
 public class World : MonoBehaviour
 {
@@ -34,6 +38,7 @@ public class World : MonoBehaviour
     public Tilemap tilemap;
     public TileBase tileBlock;
     public TileBase[] tiles = new TileBase[0];
+    public GameObject[] prefabs = new GameObject[0];
     public Tilemap tilemapVisual, tilemapVisual2;
     public Image fader;
     //public PrefabMapItem[] prefabMap = new PrefabMapItem[0];
@@ -75,6 +80,13 @@ public class World : MonoBehaviour
                     {
                         var symbolCode = codeForChar(symbol);
                         var item = new PrefabMapItem { symbol = symbolCode, emoji = symbol, name = name };
+                        foreach (var p in prefabs)
+                        {
+                            if (p.name == name)
+                            {
+                                item.prefab = p;
+                            }
+                        }
                         prefabMap[symbol] = item;
                     }
                 }

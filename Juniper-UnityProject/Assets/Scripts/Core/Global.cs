@@ -9,8 +9,8 @@ using UnityEngine.SceneManagement;
 
 public static class Global
 {
-    public static string buildID = "2021-05-XX";
-    public static int pickups = 33;
+    public static string buildID = "2023-04-XX";
+    public static int pickups = 1000;
     public static string playerId { get { return AnalyticsSessionInfo.userId; } }
     public static string discordInvite = "https://discord.gg/PHXRWVf";
 

@@ -18,10 +18,10 @@ public class SetBuildNum : MonoBehaviour
         var t = GetComponent<Text>();
         if(t != null) {
             var mobile = "";
-            #if UNITY_ANDROID
+#if UNITY_ANDROID
             mobile = "-m";
-            #endif
-            t.text = Global.buildNum + mobile + " / " + Global.contentId;
+#endif
+            t.text = Global.buildNum + mobile; // + " / " + Global.contentId;
             if(Global.isDebug)
                 t.text += " / " + Global.GetPlayerIdOrName();
 

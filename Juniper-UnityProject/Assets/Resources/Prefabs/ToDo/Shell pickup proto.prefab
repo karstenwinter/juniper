@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2881157666127658980}
   - component: {fileID: 7863464472111645000}
   - component: {fileID: 7688325408692946289}
-  m_Layer: 11
+  m_Layer: 15
   m_Name: Shell pickup proto
   m_TagString: Interactable
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ MonoBehaviour:
   collectParticles: {fileID: 3712309370239545456}
   rb: {fileID: 7863464472111645000}
   partEjectSpeed: 12
-  partHitSpeed: 12
+  partHitSpeed: 444
   rotaSpeed: -2
   dampen: 0.9
 --- !u!50 &7863464472111645000
