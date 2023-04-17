@@ -26759,7 +26759,7 @@ MonoBehaviour:
   textImage: {fileID: 3888142441476311314}
   state:
     health: 1
-    maxHealth: 1
+    maxHealth: 2
     healRate: 1
     mana: 0
     maxMana: 5
@@ -26770,7 +26770,7 @@ MonoBehaviour:
     time: 0
     position: {x: 0, y: 0, z: 0}
     canProtection: 1
-    canAttack: 0
+    canAttack: 1
     canDash: 1
     canMagic: 1
     canClimb: 1

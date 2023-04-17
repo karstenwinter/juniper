@@ -89,6 +89,60 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""BtnScaleUp"",
+                    ""type"": ""Button"",
+                    ""id"": ""2eb65144-5d77-425f-b6e5-74c9ad97c0ad"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""BtnScaleDown"",
+                    ""type"": ""Button"",
+                    ""id"": ""f3f431eb-fbbc-428e-85c3-33812cf24bf4"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""BtnXUp"",
+                    ""type"": ""Button"",
+                    ""id"": ""b44cf8b5-791c-4595-a7ba-959a76f11cad"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""BtnXDown"",
+                    ""type"": ""Button"",
+                    ""id"": ""a3b5757b-4fdb-4381-bbd9-87b8870a961b"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""BtnYUp"",
+                    ""type"": ""Button"",
+                    ""id"": ""69967b3f-a145-4385-b16c-fb76a53acca9"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""BtnYDown"",
+                    ""type"": ""Button"",
+                    ""id"": ""017577ec-88c5-41e2-b2b3-d77bf4374d2a"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -432,6 +486,72 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""d486e510-7b4b-4f68-87ef-4575ffa68860"",
+                    ""path"": ""<Keyboard>/numpadPlus"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BtnScaleUp"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""96f3ea1c-105d-41a6-83c6-1dabf9ca8e2e"",
+                    ""path"": ""<Keyboard>/numpadMinus"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BtnScaleDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""33d0076d-f299-47f4-b39f-e00bbf426d62"",
+                    ""path"": ""<Keyboard>/numpadMultiply"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BtnXUp"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ffb84cc6-8040-4668-8ae7-3d13bb1731d4"",
+                    ""path"": ""<Keyboard>/numpadDivide"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BtnXDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""fdc55b3e-8f12-438d-99ff-2f89837dfd7d"",
+                    ""path"": ""<Keyboard>/numpadPeriod"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BtnYUp"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""b7740ef1-b052-4e06-b8f5-ca90406f36af"",
+                    ""path"": ""<Keyboard>/numpadEquals"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""BtnYDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -447,6 +567,12 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         m_Gameplay_Dash = m_Gameplay.FindAction("Dash", throwIfNotFound: true);
         m_Gameplay_Magic = m_Gameplay.FindAction("Magic", throwIfNotFound: true);
         m_Gameplay_Pause = m_Gameplay.FindAction("Pause", throwIfNotFound: true);
+        m_Gameplay_BtnScaleUp = m_Gameplay.FindAction("BtnScaleUp", throwIfNotFound: true);
+        m_Gameplay_BtnScaleDown = m_Gameplay.FindAction("BtnScaleDown", throwIfNotFound: true);
+        m_Gameplay_BtnXUp = m_Gameplay.FindAction("BtnXUp", throwIfNotFound: true);
+        m_Gameplay_BtnXDown = m_Gameplay.FindAction("BtnXDown", throwIfNotFound: true);
+        m_Gameplay_BtnYUp = m_Gameplay.FindAction("BtnYUp", throwIfNotFound: true);
+        m_Gameplay_BtnYDown = m_Gameplay.FindAction("BtnYDown", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -513,6 +639,12 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
     private readonly InputAction m_Gameplay_Dash;
     private readonly InputAction m_Gameplay_Magic;
     private readonly InputAction m_Gameplay_Pause;
+    private readonly InputAction m_Gameplay_BtnScaleUp;
+    private readonly InputAction m_Gameplay_BtnScaleDown;
+    private readonly InputAction m_Gameplay_BtnXUp;
+    private readonly InputAction m_Gameplay_BtnXDown;
+    private readonly InputAction m_Gameplay_BtnYUp;
+    private readonly InputAction m_Gameplay_BtnYDown;
     public struct GameplayActions
     {
         private @InputActions m_Wrapper;
@@ -524,6 +656,12 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         public InputAction @Dash => m_Wrapper.m_Gameplay_Dash;
         public InputAction @Magic => m_Wrapper.m_Gameplay_Magic;
         public InputAction @Pause => m_Wrapper.m_Gameplay_Pause;
+        public InputAction @BtnScaleUp => m_Wrapper.m_Gameplay_BtnScaleUp;
+        public InputAction @BtnScaleDown => m_Wrapper.m_Gameplay_BtnScaleDown;
+        public InputAction @BtnXUp => m_Wrapper.m_Gameplay_BtnXUp;
+        public InputAction @BtnXDown => m_Wrapper.m_Gameplay_BtnXDown;
+        public InputAction @BtnYUp => m_Wrapper.m_Gameplay_BtnYUp;
+        public InputAction @BtnYDown => m_Wrapper.m_Gameplay_BtnYDown;
         public InputActionMap Get() { return m_Wrapper.m_Gameplay; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -554,6 +692,24 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 @Pause.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnPause;
                 @Pause.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnPause;
                 @Pause.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnPause;
+                @BtnScaleUp.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnScaleUp;
+                @BtnScaleUp.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnScaleUp;
+                @BtnScaleUp.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnScaleUp;
+                @BtnScaleDown.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnScaleDown;
+                @BtnScaleDown.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnScaleDown;
+                @BtnScaleDown.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnScaleDown;
+                @BtnXUp.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnXUp;
+                @BtnXUp.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnXUp;
+                @BtnXUp.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnXUp;
+                @BtnXDown.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnXDown;
+                @BtnXDown.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnXDown;
+                @BtnXDown.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnXDown;
+                @BtnYUp.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnYUp;
+                @BtnYUp.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnYUp;
+                @BtnYUp.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnYUp;
+                @BtnYDown.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnYDown;
+                @BtnYDown.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnYDown;
+                @BtnYDown.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnBtnYDown;
             }
             m_Wrapper.m_GameplayActionsCallbackInterface = instance;
             if (instance != null)
@@ -579,6 +735,24 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
                 @Pause.started += instance.OnPause;
                 @Pause.performed += instance.OnPause;
                 @Pause.canceled += instance.OnPause;
+                @BtnScaleUp.started += instance.OnBtnScaleUp;
+                @BtnScaleUp.performed += instance.OnBtnScaleUp;
+                @BtnScaleUp.canceled += instance.OnBtnScaleUp;
+                @BtnScaleDown.started += instance.OnBtnScaleDown;
+                @BtnScaleDown.performed += instance.OnBtnScaleDown;
+                @BtnScaleDown.canceled += instance.OnBtnScaleDown;
+                @BtnXUp.started += instance.OnBtnXUp;
+                @BtnXUp.performed += instance.OnBtnXUp;
+                @BtnXUp.canceled += instance.OnBtnXUp;
+                @BtnXDown.started += instance.OnBtnXDown;
+                @BtnXDown.performed += instance.OnBtnXDown;
+                @BtnXDown.canceled += instance.OnBtnXDown;
+                @BtnYUp.started += instance.OnBtnYUp;
+                @BtnYUp.performed += instance.OnBtnYUp;
+                @BtnYUp.canceled += instance.OnBtnYUp;
+                @BtnYDown.started += instance.OnBtnYDown;
+                @BtnYDown.performed += instance.OnBtnYDown;
+                @BtnYDown.canceled += instance.OnBtnYDown;
             }
         }
     }
@@ -592,5 +766,11 @@ public partial class @InputActions : IInputActionCollection2, IDisposable
         void OnDash(InputAction.CallbackContext context);
         void OnMagic(InputAction.CallbackContext context);
         void OnPause(InputAction.CallbackContext context);
+        void OnBtnScaleUp(InputAction.CallbackContext context);
+        void OnBtnScaleDown(InputAction.CallbackContext context);
+        void OnBtnXUp(InputAction.CallbackContext context);
+        void OnBtnXDown(InputAction.CallbackContext context);
+        void OnBtnYUp(InputAction.CallbackContext context);
+        void OnBtnYDown(InputAction.CallbackContext context);
     }
 }

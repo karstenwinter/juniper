@@ -33,6 +33,7 @@ public class PlayerController : MonoBehaviour
     // New Input System
     internal float Horizontal, Vertical;
     internal bool Jump, Attack, AttackMelee, Map, Magic, Pause, Dash;
+    internal bool BtnScaleUp;
 
     public bool hasContactLeft;
     public bool hasContactRight;
@@ -64,6 +65,11 @@ public class PlayerController : MonoBehaviour
     public void OnDash(InputAction.CallbackContext context)
     {
         Dash = context.action.ReadButton();
+    }
+
+    public void OnBtnScaleUp(InputAction.CallbackContext context)
+    {
+        BtnScaleUp = context.action.ReadButton();
     }
 
     public void OnPause(InputAction.CallbackContext context)
@@ -936,7 +942,7 @@ public class PlayerController : MonoBehaviour
 
         int len = Physics2D.CircleCastNonAlloc(origin, values.protectDetectRadius, detectDirection, hitRecList, values.protectDetectDistance, layerMask);
 
-        if(Global.isDebug)
+        if (Global.isDebug)
             Debug.Log("protectCoroutine " + detectDirection + "," + attackRecoil + "" + String.Join(", ", Array.ConvertAll(hitRecList, x => x.transform.gameObject.name)));
 
         var canBounceOff = hitRecList.Length > 0;
@@ -946,7 +952,7 @@ public class PlayerController : MonoBehaviour
 
         Global.soundManager.Play("protect");
 
-        for(var i = 0; i < len; i++)
+        for (var i = 0; i < len; i++)
         {
             RaycastHit2D hitRec = hitRecList[i];
             GameObject obj = hitRec.collider.gameObject;
@@ -1038,7 +1044,7 @@ public class PlayerController : MonoBehaviour
 
         int len = Physics2D.CircleCastNonAlloc(origin, values.attackDetectRadius, detectDirection, hitRecList, values.attackDetectDistance, layerMask);
 
-        if(Global.isDebug)
+        if (Global.isDebug)
             Debug.Log("hitRecList " + String.Join(", ", hitRecList));
 
         var canBounceOff = hitRecList.Length > 0;

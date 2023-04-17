@@ -4786,7 +4786,7 @@ GameObject:
   - component: {fileID: 4515993331980949803}
   - component: {fileID: 1222514220648156145}
   m_Layer: 13
-  m_Name: Sprite and script
+  m_Name: Bug
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4848,7 +4848,7 @@ SpriteRenderer:
   m_SortingLayerID: 1110943873
   m_SortingLayer: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: 7077266120708515816, guid: 5794c24ea3b3d2742905cb70761f5c98,
+  m_Sprite: {fileID: 6710978388883721089, guid: 5794c24ea3b3d2742905cb70761f5c98,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4974,7 +4974,7 @@ MonoBehaviour:
   status:
   - Found 4 for Bug
   - 'states: idle, run, dead, particle'
-  - current 4
+  - current is idle with 8frames
   - 'current at 0: Bug_0 (UnityEngine.Sprite)'
   nextUp: 
 --- !u!1 &4515993331987900929

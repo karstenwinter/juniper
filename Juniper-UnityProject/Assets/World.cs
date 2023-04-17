@@ -18,7 +18,7 @@ public class PrefabMapItem
         var key = "Prefabs/" + name;
         var loaded = Resources.Load<GameObject>(key);
         Debug.LogWarning("no asset found for name in Resources: " + key);
-        if(loaded != null)
+        if (loaded != null)
             GameObject.Instantiate(loaded, position, Quaternion.identity, parent);
         return loaded;
     }
@@ -53,7 +53,6 @@ public class World : MonoBehaviour
         var y = -1;
 
         // var list = new List<PrefabMapItem>();
-        prefabMap = new Dictionary<string, PrefabMapItem>();
 
         Debug.Log("csv " + csv.Length);
         foreach (var row in rows)
@@ -94,25 +93,38 @@ public class World : MonoBehaviour
 
         var start = DateTime.Now;
         // int playerFound = -1;
+        var totalRows = maxY - minY;
 
         var textInfo = GameObject.Find("InfoText")?.GetComponent<Text>();
+        if (textInfo != null)
+            textInfo.text = "Processing " + totalRows + " CSV rows";
 
         //Debug.Log(csv);
         var rows = csv.Trim().Replace("\n_", "").Replace("_\n", "").Split('\n');
         var started = false;
         var y = 0;
-        var x = 0;
         //Debug.Log("csv " + csv.Length);
+        //var success = true;
+        var processedRows = 0;
         foreach (var item in rows)
         {
+            if (item.Contains("Map:"))
+            {
+                Debug.Log("start");
+                started = true;
+            }
             y++;
+            if (y < minY || y > maxY)
+                continue;
+
+            processedRows++;
             if (textInfo != null)
-                textInfo.text = "Loaded CSV, " + (y - minY) + "/" + (maxY - minY);
+                textInfo.text = "Processed " + processedRows + "/" + totalRows + ": " + Mathf.Floor((float)processedRows / (float)totalRows * 100) + "%";
 
             if (started)
             {
                 var cols = item.Split(',');
-                x = 0;
+                int x = 0;
 
                 // Debug.Log("r " + y + " has " + cols.Length + " cols, TXT: " + item);
                 foreach (var col in cols)
@@ -123,10 +135,8 @@ public class World : MonoBehaviour
                     var pos = new Vector3(x, -y + 1, z) * scale;
                     var r = new System.Random(x * 7 + y * 13 + z);
 
-                    if (y < minY || y > maxY)
-                        continue;
 
-                    if (c == "⬛") //"⬛") "\u2B1B"
+                    if (c == "⬛") // "\u2B1B"
                     {
                         Vector3Int position = new Vector3Int(x, -y, z);
                         tilemap.SetTile(position, tileBlock);
@@ -134,19 +144,15 @@ public class World : MonoBehaviour
                         tilemapVisual.SetTile(position, tile);
                         tile = tiles[r.Next(tiles.Length)];
                         tilemapVisual2.SetTile(position, tile);
-                        // var newObj = Instantiate(sprite, new Vector3(x, -y, z) * scale, Quaternion.identity, transform);
-                        //   newObj.GetComponent<SpriteRenderer>();
                     }
-                    else if (c == "🦎") //"🦎") { "\u1F98E"
+                    else if (c == "🦎") // "\u1F98E"
                     {
                         var globalPlayerPos = GameObject.Find("GlobalPlayerStart");
                         if (globalPlayerPos != null)
                             globalPlayerPos.transform.position = pos;
 
-                        playerFoundFadeIn = true;
-                        player.gameObject.SetActive(true);
                     }
-                    else if (c != "")
+                    else if (c != "") // && success)
                     {
                         var code = codeForChar(c);
                         PrefabMapItem value;
@@ -165,16 +171,26 @@ public class World : MonoBehaviour
                 yield return new WaitForEndOfFrame();
             }
 
-            if (item.Contains("Map:"))
+            /*
+            try
             {
-                Debug.Log("start");
-                started = true;
+                ...
             }
+            catch (Exception e)
+            {
+                if (textInfo != null)
+                    textInfo.text = "CSV Error at y" + y + "x" + x + ": " + e.ToString();
+                success = false;
+            }
+            */
         }
 
         Debug.Log("FoundCsv, took " + (DateTime.Now - start));
-        if (textInfo != null)
+        if (textInfo != null) // && success)
             textInfo.text = "";
+
+        playerFoundFadeIn = true;
+        player.gameObject.SetActive(true);
     }
 
     string codeForChar(string c)
@@ -191,12 +207,16 @@ public class World : MonoBehaviour
     [ContextMenu("Reset")]
     public void Reset()
     {
+        prefabMap = new Dictionary<string, PrefabMapItem>();
         player.gameObject.SetActive(false);
 
         var colorFader = fader.color;
         colorFader.a = 1;
         fader.color = colorFader;
         var start = DateTime.Now;
+        var textInfo = GameObject.Find("InfoText")?.GetComponent<Text>();
+        if (textInfo != null)
+            textInfo.text = "Downloading...";
 
         var url = "https://docs.google.com/spreadsheets/d/1wWr9c588Fg5bKED99buWJaaC6_Gc4b555nuNT3tC8QM/gviz/tq?tqx=out:csv";
         Download(url, whenDone: csv =>
@@ -205,9 +225,6 @@ public class World : MonoBehaviour
             StartCoroutine(ParseAndPopulateWorld(csv));
         }, onErr: x =>
         {
-            var textInfo = GameObject.Find("InfoText")?.GetComponent<Text>();
-            var oldText = textInfo?.text;
-
             if (textInfo != null)
                 textInfo.text = "Error on Download: " + x + " - using fallback";
 

@@ -1,2 +1,0 @@
-# juniper
-playload.web.app

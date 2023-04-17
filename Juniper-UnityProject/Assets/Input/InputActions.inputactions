@@ -11,7 +11,8 @@
                     "id": "165914f2-bdc3-4760-bc21-6069f2d20254",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Jump",
@@ -19,7 +20,8 @@
                     "id": "2b19a0b0-6d01-480b-be56-8c4d47b401ac",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Attack",
@@ -27,7 +29,8 @@
                     "id": "8717038f-70ce-4f98-b1b5-1e8550d8b4a9",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Map",
@@ -35,7 +38,8 @@
                     "id": "a527995e-d89f-4039-86d4-96f0ac51f590",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Dash",
@@ -43,7 +47,8 @@
                     "id": "efdee45e-a6ab-4507-a5e5-0722691c543a",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Magic",
@@ -51,7 +56,8 @@
                     "id": "cbd74634-d57d-4922-81f5-40356aebfdaa",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Pause",
@@ -59,7 +65,62 @@
                     "id": "62afcd88-d2ea-460e-aa37-a2f39562c0c4",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BtnScaleUp",
+                    "type": "Button",
+                    "id": "2eb65144-5d77-425f-b6e5-74c9ad97c0ad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BtnScaleDown",
+                    "type": "Button",
+                    "id": "f3f431eb-fbbc-428e-85c3-33812cf24bf4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BtnXUp",
+                    "type": "Button",
+                    "id": "b44cf8b5-791c-4595-a7ba-959a76f11cad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BtnXDown",
+                    "type": "Button",
+                    "id": "a3b5757b-4fdb-4381-bbd9-87b8870a961b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BtnYUp",
+                    "type": "Button",
+                    "id": "69967b3f-a145-4385-b16c-fb76a53acca9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BtnYDown",
+                    "type": "Button",
+                    "id": "017577ec-88c5-41e2-b2b3-d77bf4374d2a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -401,6 +462,72 @@
                     "processors": "",
                     "groups": "",
                     "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d486e510-7b4b-4f68-87ef-4575ffa68860",
+                    "path": "<Keyboard>/numpadPlus",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BtnScaleUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "96f3ea1c-105d-41a6-83c6-1dabf9ca8e2e",
+                    "path": "<Keyboard>/numpadMinus",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BtnScaleDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "33d0076d-f299-47f4-b39f-e00bbf426d62",
+                    "path": "<Keyboard>/numpadMultiply",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BtnXUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ffb84cc6-8040-4668-8ae7-3d13bb1731d4",
+                    "path": "<Keyboard>/numpadDivide",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BtnXDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fdc55b3e-8f12-438d-99ff-2f89837dfd7d",
+                    "path": "<Keyboard>/numpadPeriod",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BtnYUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b7740ef1-b052-4e06-b8f5-ca90406f36af",
+                    "path": "<Keyboard>/numpadEquals",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BtnYDown",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
