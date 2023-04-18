@@ -12,9 +12,9 @@
                                                                                        
 </pre>
 
-[Play the Game online 🎮](https://playload.web.app)
+[**Play the Game online** 🎮](https://playload.web.app)
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[Join the Discord community 🦎](https://discord.gg/PHXRWVf)
+[**Join the Discord community** 🦎](https://discord.gg/PHXRWVf)
 
 [Report a Bug 🪲](https://github.com/karstenwinter/juniper/issues/new?assignees=&labels=&template=bug_report.md&title=)
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
@@ -28,7 +28,7 @@
 - [You can be part of this journey!](https://discord.gg/PHXRWVf)
 
 # Credits
-- Constantine Font: Dukom Design / [ducom.org](https://ducom.org) 
-- Avdira Font: George Douros
+- Constantine Font: Dukom Design / [fontlibrary.org](https://fontlibrary.org/en/font/constantine) 
+- Avdira Font: George Douros / [fontlibrary.org](https://fontlibrary.org/en/font/avdira-textfonts)
 - Runes: Tyriel / [runesecrets.com](https://runesecrets.com)
 - Voices: [11.ai](https://11.ai)
