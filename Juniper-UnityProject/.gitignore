@@ -70,3 +70,5 @@ firebase-tools-instant-win.exe
 
 firebase.json
 firebase-debug.log
+
+*.secret.txt

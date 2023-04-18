@@ -26,4 +26,4 @@ write-output "rewritten UnityLoader.js"
 
 write-output "can be uploaded now"
 
-# TODO ./firebase-tools-instant-win firebase deploy
+./firebase-tools-instant-win deploy

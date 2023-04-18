@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 6965100020439139195}
   - component: {fileID: 7234051706614318535}
   m_Layer: 13
-  m_Name: TwistedSnake
+  m_Name: TwistedSnake/projectile
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -192,6 +192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd2a0f53b35df064bbc09aa0445a4787, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  takeNameFrom: {fileID: 0}
   isCharacter: 1
   state: projectile
   startFrame: 0
@@ -203,8 +204,8 @@ MonoBehaviour:
   pixelsPerUnit: 120
   pos: {x: 0.5, y: 0.5}
   status:
-  - Found 7 for TwistedSnake
-  - 'states: idle, head, body, dead, up, shoot, projectile'
-  - current is projectile with 3frames
+  - Found 0 for TwistedSnake/projectile
+  - 'states: '
+  - current is projectile with frames
   - 'current at 0: TwistedSnake_24 (UnityEngine.Sprite)'
   nextUp: 

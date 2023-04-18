@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 1143703889060335094}
   - component: {fileID: 3339190221301730490}
   m_Layer: 11
-  m_Name: Trap bottom
+  m_Name: Trap bottom/cave
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -201,14 +201,14 @@ MonoBehaviour:
   speed: 6
   pauseAfterCycle: 8
   waitCylces: 0
-  unit: 240
+  unit: 360
   pixelsPerUnit: 120
   pos: {x: 0.5, y: 0.5}
   status:
-  - Found 0 for Trap center
-  - 'states: '
-  - 'current '
-  - 'current at 0: Trap center (UnityEngine.Sprite)'
+  - Found 1 for Trap bottom/cave
+  - 'states: idle'
+  - current is idle with 3frames
+  - 'current at 0: cave_0 (UnityEngine.Sprite)'
   nextUp: 
 --- !u!1 &8613774332777113124
 GameObject:

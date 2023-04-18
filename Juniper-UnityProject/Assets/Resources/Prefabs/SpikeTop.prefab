@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 1538244956895308513}
   - component: {fileID: 1916672129545416878}
   m_Layer: 11
-  m_Name: Trap top
+  m_Name: Trap top/cave
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82,7 +82,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -105,7 +104,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1110943873
-  m_SortingLayer: -1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 8606453610214823136, guid: da3e07af0fe23484a9792b9624f3c5cd,
     type: 3}
@@ -202,13 +201,13 @@ MonoBehaviour:
   speed: 6
   pauseAfterCycle: 8
   waitCylces: 0
-  unit: 240
+  unit: 360
   pixelsPerUnit: 120
   pos: {x: 0.5, y: 0.5}
   status:
-  - Found 0 for Trap top
-  - 'states: '
-  - current is idle with frames
+  - Found 1 for Trap top/cave
+  - 'states: idle'
+  - current is idle with 3frames
   - 'current at 0: cave_0 (UnityEngine.Sprite)'
   nextUp: 
 --- !u!1 &5401258420612625591
@@ -257,7 +256,6 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -280,7 +278,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 2026876815
-  m_SortingLayer: -3
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 8606453610214823136, guid: da3e07af0fe23484a9792b9624f3c5cd,
     type: 3}
