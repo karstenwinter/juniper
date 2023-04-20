@@ -110,7 +110,7 @@ public class World : MonoBehaviour
         var textInfo = GameObject.Find("InfoText")?.GetComponent<Text>();
         if (textInfo != null)
             textInfo.text = "Processing " + totalRows + " CSV rows";
-
+        
         //Debug.Log(csv);
         var rows = csv.Trim().Replace("\n_", "").Replace("_\n", "").Split('\n');
         var started = false;
@@ -200,6 +200,10 @@ public class World : MonoBehaviour
         Debug.Log("FoundCsv, took " + (DateTime.Now - start));
         if (textInfo != null) // && success)
             textInfo.text = "";
+
+        var titleText = GameObject.Find("TitleText")?.GetComponent<Text>();
+        if (titleText != null)
+            titleText.text = "";
 
         playerFoundFadeIn = true;
         player.gameObject.SetActive(true);

@@ -14,7 +14,7 @@ public static class Global
     public static string playerId { get { return AnalyticsSessionInfo.userId; } }
     public static string discordInvite = "https://discord.gg/PHXRWVf";
 
-    public static string buildNum { get { return "Alpha Build " + buildID; } }
+    public static string buildNum { get { return "Build " + buildID; } }
     public static bool isPaused = false;
 
     public static HUD hud;

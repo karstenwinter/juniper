@@ -50,12 +50,56 @@ class Autobuild
     [MenuItem("WebGL/Push")]
     static void Push()
     {
-        Process.Start("git", "add .");
-        Process.Start("git", "commit -m update");
-        Process.Start("git", "pull");
-        Process.Start("git", "push");
+        var p = Process.Start("git", "add .");
+        p.ErrorDataReceived += (x, y) => UnityEngine.Debug.Log("Err" + x + "," + y);
+        p.WaitForExit();
+        //  UnityEngine.Debug.Log("" + p.StandardOutput.ReadToEnd());
+        if (p.ExitCode != 0)
+            return;
+        p = Process.Start("git", "commit -m update");
+        p.WaitForExit();
+        //   UnityEngine.Debug.Log("" + p.StandardOutput.ReadToEnd());
+        if (p.ExitCode != 0)
+            return;
+        p = Process.Start("git", "pull");
+        p.WaitForExit();
+        //  UnityEngine.Debug.Log("" + p.StandardOutput.ReadToEnd());
+        if (p.ExitCode != 0)
+            return;
+        p = Process.Start("git", "push");
+        p.WaitForExit();
+        //   UnityEngine.Debug.Log("" + p.StandardOutput.ReadToEnd());
+        if (p.ExitCode != 0)
+            return;
     }
-    
+
+    [MenuItem("WebGL/Upload")]
+    static void Upload()
+    {
+        var commandProcess = new Process();
+       
+        commandProcess.StartInfo.UseShellExecute = false;
+        commandProcess.StartInfo.FileName = "powershell"; // this is the path of curl where it is installed;    
+        commandProcess.StartInfo.Arguments = @"_upload.ps1"; // your curl command    
+        commandProcess.StartInfo.CreateNoWindow = false;
+        commandProcess.StartInfo.RedirectStandardInput = true;
+        commandProcess.StartInfo.RedirectStandardOutput = true;
+        commandProcess.StartInfo.RedirectStandardError = true;
+        commandProcess.OutputDataReceived += (x, y) => UnityEngine.Debug.Log("Data" + x + "," + y);
+        commandProcess.ErrorDataReceived += (x, y) => UnityEngine.Debug.Log("Err" + x + "," + y);
+        commandProcess.Start();
+
+        commandProcess.WaitForExit();
+        UnityEngine.Debug.Log("P" + commandProcess.ExitCode);
+        //var p = Process.Start("powershell", "_upload.ps1");
+        //p.ErrorDataReceived += (x, y) => UnityEngine.Debug.Log("Err" + x + "," + y);
+        //p.WaitForExit();
+        // UnityEngine.Debug.Log("" + p.StandardOutput.ReadToEnd());
+        //if (p.ExitCode != 0)
+        //  return;
+
+    }
+
 
     [MenuItem("WebGL/Build")]
     static void Build()
