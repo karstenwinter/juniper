@@ -245,7 +245,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("Update A" + Attack);
+        // Debug.Log("Update A" + Attack);
         takeWithMe.transform.position = transform.position;
 
         updatePlayerState();
@@ -639,33 +639,33 @@ public class PlayerController : MonoBehaviour
 
     void reallyDie(bool incDeaths)
     {
-        Global.hud.UiFadeOut(() =>
+        //Global.hud.UiFadeOut(() =>
+        //{
+        try
         {
-            try
+            if (incDeaths)
             {
-                if (incDeaths)
-                {
-                    SaveSystem.Load(Global.settings.profile, incDeaths: incDeaths);
-                }
-                else
-                {
-                    _animator.Activate("idle");
-                    transform.position = lastSafePosition;
-                }
+                SaveSystem.Load(Global.settings.profile, incDeaths: incDeaths);
             }
-            catch (Exception e)
+            else
             {
-                Global.HandleError(e);
+                _animator.Activate("idle");
+                transform.position = lastSafePosition;
             }
-            finally
-            {
-                Global.hud.UiFadeIn(() =>
-                {
-                    makeVulnerable();
-                    isInputEnabled = true;
-                });
-            }
-        });
+        }
+        catch (Exception e)
+        {
+            Global.HandleError(e);
+        }
+        finally
+        {
+            //Global.hud.UiFadeIn(() =>
+            //{
+            makeVulnerable();
+            isInputEnabled = true;
+            // });
+        }
+        //});
     }
 
     bool allDead()

@@ -316,6 +316,7 @@ public class HUD : MonoBehaviour, IModal
     public void UiFadeIn(Action then)
     {
         fadeInThen = then;
+        StopCoroutine("CFadeOut");
         StartCoroutine("CFadeIn");
     }
 

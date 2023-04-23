@@ -26546,7 +26546,7 @@ GameObject:
   - component: {fileID: 7559373654215980833}
   - component: {fileID: 6725240276515423581}
   - component: {fileID: 2110592338941126983}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: GeckoP2
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -26723,6 +26723,30 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 62afcd88-d2ea-460e-aa37-a2f39562c0c4
     m_ActionName: Gameplay/Pause[/DualShock4GamepadHID/start,/DualShock4GamepadHID/touchpadButton,/Keyboard/escape]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 2eb65144-5d77-425f-b6e5-74c9ad97c0ad
+    m_ActionName: Gameplay/BtnScaleUp[/Keyboard/numpadPlus]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: f3f431eb-fbbc-428e-85c3-33812cf24bf4
+    m_ActionName: Gameplay/BtnScaleDown[/Keyboard/numpadMinus]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: b44cf8b5-791c-4595-a7ba-959a76f11cad
+    m_ActionName: Gameplay/BtnXUp[/Keyboard/numpadMultiply]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: a3b5757b-4fdb-4381-bbd9-87b8870a961b
+    m_ActionName: Gameplay/BtnXDown[/Keyboard/numpadDivide]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 69967b3f-a145-4385-b16c-fb76a53acca9
+    m_ActionName: Gameplay/BtnYUp[/Keyboard/numpadPeriod]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 017577ec-88c5-41e2-b2b3-d77bf4374d2a
+    m_ActionName: Gameplay/BtnYDown[/Keyboard/numpadEquals]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Gameplay
