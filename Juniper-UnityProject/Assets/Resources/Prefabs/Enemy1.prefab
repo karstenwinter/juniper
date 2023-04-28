@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4515993331654112385}
   - component: {fileID: 4515993331654112387}
   - component: {fileID: 4515993331654112386}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Dust Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4988,7 +4988,7 @@ GameObject:
   - component: {fileID: 4515993331987900934}
   - component: {fileID: 4515993331987900928}
   - component: {fileID: 4515993331987900935}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Die Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9749,7 +9749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4515993332213248169}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Enemy1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9782,7 +9782,7 @@ GameObject:
   - component: {fileID: 4515993333064180430}
   - component: {fileID: 4515993333064180424}
   - component: {fileID: 4515993333064180431}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: Got Hit Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
