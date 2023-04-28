@@ -184,7 +184,15 @@ public class HUD : MonoBehaviour, IModal
 
         if (internalCanPause && Global.playerController.Pause)
         {
-            PauseUnpause();
+            // PauseUnpause();
+            var aParent = GameObject.Find("ActionButtonParent");
+            var dParent = GameObject.Find("DirButtonParent");
+            if (aParent && dParent)
+            {
+                var enabled = aParent.activeInHierarchy;
+                aParent.SetActive(!enabled);
+                dParent.SetActive(!enabled);
+            }
             Global.playerController.Pause = false;
         }
 
