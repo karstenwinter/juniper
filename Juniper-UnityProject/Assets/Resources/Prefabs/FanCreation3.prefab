@@ -129,8 +129,8 @@ MonoBehaviour:
   pos: {x: 0.5, y: 0.5}
   status:
   - Found 2 for FrogSensei
-  - 'states: idle, action'
-  - current 3
+  - 'states: idle, action, active, test'
+  - current is idle with 3frames
   - 'current at 0: FrogSensei_0 (UnityEngine.Sprite)'
   nextUp: 
 --- !u!1 &1054267502564832685
