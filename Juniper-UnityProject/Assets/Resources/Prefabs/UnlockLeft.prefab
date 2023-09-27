@@ -130,6 +130,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Destroyable wall left/cave
       objectReference: {fileID: 0}
+    - target: {fileID: 459173221265717894, guid: 46a680172427fb140adb75fd6de99905,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 459173221265717912, guid: 46a680172427fb140adb75fd6de99905,
         type: 3}
       propertyPath: m_FlipX

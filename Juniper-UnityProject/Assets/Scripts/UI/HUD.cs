@@ -504,9 +504,11 @@ public class HUD : MonoBehaviour, IModal
         modalMenu.SetActive(true);
 
         EventSystem.current.SetSelectedGameObject(null);
+        
         EventSystem.current.SetSelectedGameObject(yesButton.gameObject);
 
-        yesButton.GetComponentInChildren<Text>().text = Translations.For("OK");
+        // on walk away just close, no ok button anmymore
+        yesButton.GetComponentInChildren<Text>().text = ""; // Translations.For("OK");
         noButton.gameObject.SetActive(false);
         this.onYes = onOk;
         this.onNo = null;

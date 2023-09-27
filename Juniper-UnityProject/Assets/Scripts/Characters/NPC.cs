@@ -48,6 +48,7 @@ public class NPC : InteractableObject
 
     protected virtual void OnInteraction()
     {
+        Global.soundManager.PlayVoice(name);
         Global.hud.OpenModal(
             text,
             onOk: () =>

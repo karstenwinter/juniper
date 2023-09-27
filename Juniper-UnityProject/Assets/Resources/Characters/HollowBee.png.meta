@@ -143,8 +143,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -176,17 +174,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -198,7 +193,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -210,7 +205,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 4096
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -1073,47 +1080,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      HollowBee_1: -2916144155242249591
-      HollowBee_7: -3558337626946368552
-      HollowBee_20: -1834771141579215727
-      HollowBee_16: -6039288445005377999
-      HollowBee_4: 5095431484975460784
-      HollowBee_27: -2576597972818384150
-      HollowBee_22: -1903296412781140445
-      HollowBee_25: 6052517325648169071
-      HollowBee_38: 8878076109749550457
-      HollowBee_30: -8157589973434762741
-      HollowBee_37: 7960113573433892397
-      HollowBee_8: -8597251864004074566
-      HollowBee_3: -6734687773868569777
-      HollowBee_33: -3994885100573971338
-      HollowBee_11: 8341825112970533815
-      HollowBee_31: 4132570767444792693
-      HollowBee_15: 773306690694390059
-      HollowBee_17: -664474919033527740
-      HollowBee_10: -7518339914186934550
-      HollowBee_26: -5354051557382453330
-      HollowBee_24: -3097085453360802439
-      HollowBee_13: 166063757622552589
-      HollowBee_34: 7822888915342233171
-      HollowBee_36: -7387310597950091966
-      HollowBee_21: -8474974172893555308
-      HollowBee_32: 7869992368956473769
-      HollowBee_35: 5486631281240070201
-      HollowBee_0: 4059880985433211117
-      HollowBee_28: -902620140767561863
-      HollowBee_2: 8996556241156610491
-      HollowBee_29: -5949872379613110937
-      HollowBee_14: 4024279307254365031
-      HollowBee_23: -1437892957841104057
-      HollowBee_9: 3604283439494409612
-      HollowBee_5: -7302053441053490071
-      HollowBee_19: -3482808125043251550
-      HollowBee_6: 2002743047220214166
-      HollowBee_12: 5108444455823775032
-      HollowBee_18: 2228294300038329159
-      HollowBee_39: 1224187494247613983
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

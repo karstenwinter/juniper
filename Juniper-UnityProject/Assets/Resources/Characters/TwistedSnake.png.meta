@@ -203,8 +203,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -236,17 +234,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -258,7 +253,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -270,7 +265,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 4096
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -881,35 +888,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      TwistedSnake_22: 5501466554728706788
-      TwistedSnake_2: -2188302288575197551
-      TwistedSnake_6: 2014488485104668835
-      TwistedSnake_1: 3541395803749865943
-      TwistedSnake_20: -61456561976359162
-      TwistedSnake_21: -7432132104001803027
-      TwistedSnake_14: 7681625998258318880
-      TwistedSnake_16: 7930006669648517321
-      TwistedSnake_24: -7094943159577942508
-      TwistedSnake_17: -1532537802329546307
-      TwistedSnake_0: 3128138863376984732
-      TwistedSnake_3: 3932898578866105921
-      TwistedSnake_25: 3438351516126843632
-      TwistedSnake_7: 2861091725024318848
-      TwistedSnake_23: 4117166804233132920
-      TwistedSnake_19: 9001114837879853380
-      TwistedSnake_12: -4917191563675791467
-      TwistedSnake_13: 9216117204343204116
-      TwistedSnake_26: -3435474110148458260
-      TwistedSnake_15: 9092789618021835041
-      TwistedSnake_4: -8808604040682428898
-      TwistedSnake_8: 7363184482176054608
-      TwistedSnake_9: -6085653083834085731
-      TwistedSnake_10: -5863218886046920905
-      TwistedSnake_27: 3433831437640689130
-      TwistedSnake_5: -2049632825685073641
-      TwistedSnake_11: -355309243856128199
-      TwistedSnake_18: 6309210788523784937
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

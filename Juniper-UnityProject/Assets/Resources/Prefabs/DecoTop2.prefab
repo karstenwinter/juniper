@@ -9723,7 +9723,7 @@ MonoBehaviour:
   stopAfterSec: 0.5
   touchAnimation: 1
   destroyable: 1
-  alsoDestroy: {fileID: 0}
+  alsoDestroy: {fileID: 5008183195277059353}
 --- !u!212 &5951315028027888865
 SpriteRenderer:
   m_ObjectHideFlags: 0

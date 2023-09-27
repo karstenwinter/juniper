@@ -21,7 +21,6 @@ public class PrefabMapItem
         if (prefab != null)
             GameObject.Instantiate(prefab, position, Quaternion.identity, parent);
         else
-
             Debug.LogWarning("no prefab found for name in 'Prefabs array of World': " + key);
         return prefab;
     }
@@ -31,6 +30,11 @@ public class PrefabMapItem
 public class World : MonoBehaviour
 {
     static Encoding enc = new UTF32Encoding(false, true, true);
+
+    public Boolean test;
+    public int testMinY = 55;
+    public int testMaxY = 120;
+    public int populateRowsPerFrame = 2;
 
     public GameObject sprite;
     public Transform player;
@@ -85,13 +89,14 @@ public class World : MonoBehaviour
                             if (p.name == name)
                             {
                                 item.prefab = p;
+                                break;
                             }
                         }
                         prefabMap[symbol] = item;
                     }
                 }
                 var list = prefabMap.Values;
-                Debug.Log("Symbols (" + list.Count + "): " + String.Join(", ", list.Select(s => s.symbol + "->" + s.name)));
+                Debug.Log("Symbols (" + list.Count + "): " + String.Join(", ", list.Select(s => s.symbol + "->" + s.name + "(" + (s.prefab == null ? "NULL" : "PREFAB") + ")")));
                 yield break;
             }
             if (row.Contains("Symbols:"))
@@ -105,12 +110,12 @@ public class World : MonoBehaviour
 
         var start = DateTime.Now;
         // int playerFound = -1;
-        var totalRows = maxY - minY;
+        var totalRows = test ? testMaxY - testMinY : maxY - minY;
 
         var textInfo = GameObject.Find("InfoText")?.GetComponent<Text>();
         if (textInfo != null)
             textInfo.text = "Processing " + totalRows + " CSV rows";
-        
+
         //Debug.Log(csv);
         var rows = csv.Trim().Replace("\n_", "").Replace("_\n", "").Split('\n');
         var started = false;
@@ -180,7 +185,8 @@ public class World : MonoBehaviour
                         }
                     }
                 }
-                yield return new WaitForEndOfFrame();
+                if (y % (populateRowsPerFrame + 1) == 0)
+                    yield return new WaitForEndOfFrame();
             }
 
             /*
@@ -201,12 +207,15 @@ public class World : MonoBehaviour
         if (textInfo != null) // && success)
             textInfo.text = "";
 
-        var titleText = GameObject.Find("TitleText")?.GetComponent<Text>();
+        var titleText = GameObject.Find("TitleText");
         if (titleText != null)
-            titleText.text = "";
+            titleText.SetActive(false);
 
         playerFoundFadeIn = true;
         player.gameObject.SetActive(true);
+
+        if (!Global.isInEditor)
+            GetComponent<GridBasedEnabling>()?.StartManually();
     }
 
     string codeForChar(string c)
@@ -218,6 +227,15 @@ public class World : MonoBehaviour
     void Start()
     {
         Reset();
+    }
+
+    [ContextMenu("DeletePrefabsInPrefabParent")]
+    public void DestroyPrefabsInPrefabParent()
+    {
+        foreach (Transform item in prefabInstanceParent)
+        {
+            DestroyImmediate(item.gameObject);
+        }
     }
 
     [ContextMenu("Reset")]

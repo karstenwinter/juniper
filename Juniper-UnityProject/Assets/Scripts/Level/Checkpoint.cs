@@ -49,8 +49,7 @@ public class Checkpoint : InteractableObject
         {
             particles.Play();
             SetActive();
-            Global.playerController.lastCheckpointPos = Global.playerController.transform.position;
-            Global.playerController.state.checkpoint = myId;
+            Global.allPlayers.ForEach(x => x.ActivateCheckpoint(transform.position, myId));
             Global.SaveGame();
         }
     }

@@ -9,6 +9,11 @@ using UnityEngine.SceneManagement;
 
 public static class Global
 {
+#if UNITY_EDITOR
+    public static bool isInEditor = true;
+#else
+    public static bool isInEditor = false;
+#endif
     public static string buildID = "2023-04-XX";
     public static int pickups = 1000;
     public static string playerId { get { return AnalyticsSessionInfo.userId; } }

@@ -51,6 +51,13 @@ public class PlayerController : MonoBehaviour
             text.text = "J " + Jump.ToString();
     }
 
+    public void ActivateCheckpoint(Vector3 position, string checkpointId)
+    {
+        Global.playerController.lastCheckpointPos = position;
+        Global.playerController.lastSafePosition = position;
+        Global.playerController.state.checkpoint = checkpointId;
+    }
+
     public void OnAttack(InputAction.CallbackContext context)
     {
         Debug.Log("OnAttack");
@@ -416,7 +423,7 @@ public class PlayerController : MonoBehaviour
 
     public bool noDamagingEntitiesNear()
     {
-        var sqDist = minEnemyDistance * minEnemyDistance;
+        /*var sqDist = minEnemyDistance * minEnemyDistance;
         var enemies = GameObject.FindObjectsOfType<Enemy>();
         if (Array.Exists(enemies, en => (en.transform.position - transform.position).sqrMagnitude < sqDist))
             return false;
@@ -424,7 +431,7 @@ public class PlayerController : MonoBehaviour
         var traps = GameObject.FindObjectsOfType<Deadly>();
         if (Array.Exists(traps, trap => (trap.transform.position - transform.position).sqrMagnitude < sqDist))
             return false;
-
+        */
         return true;
     }
 

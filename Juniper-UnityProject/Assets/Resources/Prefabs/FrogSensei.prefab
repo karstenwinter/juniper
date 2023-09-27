@@ -116,6 +116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd2a0f53b35df064bbc09aa0445a4787, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  takeNameFrom: {fileID: 0}
   isCharacter: 1
   state: idle
   startFrame: 0

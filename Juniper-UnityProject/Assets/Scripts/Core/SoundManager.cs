@@ -26,6 +26,9 @@ public class SoundManager : MonoBehaviour
     public Sound[] musicClips = new Sound[0];
     internal Dictionary<string, Sound> musicMap = new Dictionary<string, Sound>();
 
+    public Sound[] voiceClips = new Sound[0];
+    internal Dictionary<string, Sound> voiceMap = new Dictionary<string, Sound>();
+
     AudioSource fightAudioSource, activeAudioSource, oldActiveAudioSource;
     public float fadeDuration = 4f;
 
@@ -36,6 +39,7 @@ public class SoundManager : MonoBehaviour
         Global.soundManager = this;
         soundMap.Clear();
         musicMap.Clear();
+        voiceMap.Clear();
 
         foreach (var item in clips)
         {
@@ -49,6 +53,11 @@ public class SoundManager : MonoBehaviour
 
             if (item.name == "Fight")
                 fightAudioSource = item.audioSource;
+        }
+        foreach (var item in voiceClips)
+        {
+            InitItem(item);
+            voiceMap[item.name] = item;
         }
     }
 
@@ -85,6 +94,23 @@ public class SoundManager : MonoBehaviour
         }
     }
 
+    public void PlayVoice(string name)
+    {
+        // Debug.Log("Play voice " + name + "/" + soundMap.Count);
+        if (voiceMap.Count == 0)
+            return;
+
+        Sound sound;
+        if (voiceMap.TryGetValue(name, out sound))
+        {
+            sound.audioSource.Play();
+        }
+        else
+        {
+            Debug.LogError("Voice not found: " + name);
+        }
+    }
+    
     public void EnterFight()
     {
         if (musicMap.Count == 0)
@@ -201,7 +227,7 @@ public class SoundManager : MonoBehaviour
     {
         if (!a.isPlaying)
         {
-            if (a.volume == 1)
+            if (a.volume != 0)
                 a.volume = 0;
             a.Play();
         }

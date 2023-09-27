@@ -143,8 +143,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -176,17 +174,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -198,7 +193,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -210,7 +205,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 4096
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -1073,47 +1080,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      HollowBug_33: -3030435923631658323
-      HollowBug_13: -398917080814040219
-      HollowBug_21: 1416603705398474421
-      HollowBug_1: -4295581428494052740
-      HollowBug_6: 7715067143130827122
-      HollowBug_11: -4465888009966410173
-      HollowBug_24: -8559163627220846261
-      HollowBug_25: 3216991224077582242
-      HollowBug_10: -280119851492479402
-      HollowBug_4: -3539627609787424376
-      HollowBug_23: -9033382693020631256
-      HollowBug_37: 6664472165314725864
-      HollowBug_26: -2197853677289376700
-      HollowBug_32: 7417146372784325273
-      HollowBug_27: -1186288332954492796
-      HollowBug_29: -3984366270756887522
-      HollowBug_30: -7453346602942647367
-      HollowBug_31: 1932586091508211349
-      HollowBug_2: -7302994046367259578
-      HollowBug_28: 5513304074731275731
-      HollowBug_39: 5719293551002219747
-      HollowBug_20: 2198683892565224646
-      HollowBug_18: 1039467150979337294
-      HollowBug_16: 1091054736745135414
-      HollowBug_0: 2408721135433182763
-      HollowBug_7: -1395752498925983962
-      HollowBug_15: 707518705111875633
-      HollowBug_5: -4822010782294218228
-      HollowBug_17: 8583795969756374411
-      HollowBug_12: 8143258564434357997
-      HollowBug_19: 3241988472591809431
-      HollowBug_14: -3784661327051589751
-      HollowBug_3: 2371436751601319331
-      HollowBug_35: 3235438022668324265
-      HollowBug_8: 5786210881978796796
-      HollowBug_22: -8724184895420592763
-      HollowBug_36: 1556453650087281806
-      HollowBug_34: 4887123297955669170
-      HollowBug_9: 7709424494148973898
-      HollowBug_38: -6693496222785314160
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

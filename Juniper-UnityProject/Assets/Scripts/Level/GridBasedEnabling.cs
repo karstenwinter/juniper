@@ -7,21 +7,22 @@ using UnityEngine;
 [Serializable]
 public class GridBasedEnabling : MonoBehaviour
 {
-    public Transform player;
+    Transform player;
 
     const int w = 100;
     const int h = 100;
-    List<GameObject>[,] grid;
+    List<GameObject>[,] grid = new List<GameObject>[w, h];
 
     public Vector2Int lastIdx;
     public bool test;
     public int testX, testY;
     public int fineX = 16, fineY = 16;
 
-    public string status = "";
+    public string status = "loading", status2 = "current cell";
     public void OnValidate()
     {
-        if (test) {
+        if (test)
+        {
             if (grid == null)
                 Load();
 
@@ -34,6 +35,16 @@ public class GridBasedEnabling : MonoBehaviour
         }
     }
 
+    public void StartManually()
+    {
+        Load();
+        DisableAll();
+
+        var pos = GameObject.Find("GlobalPlayerStart").transform.position;
+        var posIdx = getIndex(pos);
+        setForPos(pos, posIdx);
+    }
+
     [ContextMenu("Load")]
     public void Load()
     {
@@ -41,13 +52,13 @@ public class GridBasedEnabling : MonoBehaviour
 
         int found = 0, lists = 0, dis = 0;
         grid = new List<GameObject>[w, h];
-        foreach (var item in Resources.FindObjectsOfTypeAll<InteractableObject>())
+        foreach (var item in GameObject.FindObjectsOfTypeAll(typeof(InteractableObject)) as InteractableObject[])
         {
-            if(item.transform.parent?.name == "GEN Prefabs")
+            // if(item.transform.parent?.name == "PrefabInstanceParent") // GEN Prefabs
             {
                 var idx = getIndex(item.transform.position);
                 var listForPos = grid[idx.x, idx.y];
-                if(listForPos == null)
+                if (listForPos == null)
                 {
                     listForPos = new List<GameObject>();
                     grid[idx.x, idx.y] = listForPos;
@@ -55,21 +66,26 @@ public class GridBasedEnabling : MonoBehaviour
                 }
                 found++;
                 listForPos.Add(item.gameObject);
-            } else
-            {
-                dis++;
             }
+            //else
+            //{
+            //    dis++;
+            //}
         }
         status = "Found: " + found + ", lists: " + lists + ", disabled: " + dis;
     }
-    
+
     public void Update()
     {
+        player = Global.playerController?.transform;
+        if (!player)
+            return;
+
         var pos = player.transform.position;
         var posIdx = getIndex(pos);
         if (lastIdx.x != posIdx.x || lastIdx.y != posIdx.y)
         {
-            if(Math.Abs(lastIdx.x - posIdx.x) > 1 || Math.Abs(lastIdx.y - posIdx.y) > 1)
+            if (Math.Abs(lastIdx.x - posIdx.x) > 1 || Math.Abs(lastIdx.y - posIdx.y) > 1)
             {
                 DisableAll();
             }
@@ -112,14 +128,14 @@ public class GridBasedEnabling : MonoBehaviour
             for (int dx = 0; dx < w; dx++)
             {
                 var list = grid[dx, dy];
-                if(list != null)
+                if (list != null)
                     foreach (var item in list)
                     {
                         try
                         {
                             item.SetActive(false);
                         }
-                        catch 
+                        catch
                         {
 
                         }
@@ -130,6 +146,8 @@ public class GridBasedEnabling : MonoBehaviour
 
     void setForPos(Vector3 playerPos, Vector2Int indexToUpdate)
     {
+        var activeInCell = 0;
+        var inactiveInCell = 0;
         for (int dy = -2; dy <= 2; dy++)
         {
             var idxY = Mathf.Clamp(indexToUpdate.y + dy, 0, h - 1);
@@ -143,8 +161,13 @@ public class GridBasedEnabling : MonoBehaviour
                 foreach (var otherGameObject in listForPos)
                 {
                     otherGameObject.gameObject.SetActive(act);
+                    if (act)
+                        activeInCell++;
+                    else
+                        inactiveInCell++;
                 }
             }
         }
+        status2 = "last idx " + indexToUpdate + " act " + activeInCell + " inactive " + inactiveInCell + " for player pos" + playerPos;
     }
 }

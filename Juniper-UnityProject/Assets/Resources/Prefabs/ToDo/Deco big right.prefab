@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5254066842089999050}
   m_Layer: 0
-  m_Name: Deco big top
+  m_Name: Deco big right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -96,6 +96,11 @@ PrefabInstance:
     - target: {fileID: 3306765705858131479, guid: 673c87ae49538fa4a85451b2eafbc7a6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6019834542373172460, guid: 673c87ae49538fa4a85451b2eafbc7a6,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

@@ -111,7 +111,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1054267501748331936}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fd2a0f53b35df064bbc09aa0445a4787, type: 3}
   m_Name: 
@@ -120,7 +120,7 @@ MonoBehaviour:
   isCharacter: 1
   state: idle
   startFrame: 0
-  imgWidth: 10
+  imgWidth: 3
   speed: 3
   pauseAfterCycle: 0
   waitCylces: 0
