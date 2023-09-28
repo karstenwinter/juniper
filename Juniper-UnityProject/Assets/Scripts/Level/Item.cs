@@ -14,7 +14,8 @@ public class Item : NPC
 
         text = Translations.For("Received") + ": " + Translations.For(gameObject.name);
 
-        if(Array.IndexOf(Global.playerController.state.collected, data?.name) >= 0)
+        var arr = Global.playerController?.state?.collected;
+        if (arr != null && Array.IndexOf(arr, data?.name) >= 0)
         {
             SetCollected();   
         }

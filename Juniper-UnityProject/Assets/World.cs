@@ -36,6 +36,7 @@ public class World : MonoBehaviour
     public int testMaxY = 120;
     public int populateRowsPerFrame = 2;
 
+    public GridBasedEnabling gridBasedEnabling;
     public GameObject sprite;
     public Transform player;
     public Transform prefabInstanceParent;
@@ -214,8 +215,8 @@ public class World : MonoBehaviour
         playerFoundFadeIn = true;
         player.gameObject.SetActive(true);
 
-        if (!Global.isInEditor)
-            GetComponent<GridBasedEnabling>()?.StartManually();
+        //if (!Global.isInEditor)
+        gridBasedEnabling.StartManually();
     }
 
     string codeForChar(string c)
