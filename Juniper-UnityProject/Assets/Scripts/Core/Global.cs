@@ -259,20 +259,14 @@ public static class Global
         {
             var info = isDev ? " (Developer)" : "";
 
-            if (!isDev && discordWebhook != "")
+            //if (!isDev && discordWebhook != "")
             {
-                var message0 = type + " for version " + buildID + "/" + contentId + " for player " + Global.GetPlayerIdOrName() + info + "(" + WinUserName + "): " + x;
+                var message0 = type + " | " + buildID + "/" + contentId + " | " + Global.GetPlayerIdOrName() + info + " (" + WinUserName + ") | " + x + " | [src]";
 
-                var httpWebRequest = (HttpWebRequest)WebRequest.Create(discordWebhook);
-                httpWebRequest.ContentType = "application/json";
-                httpWebRequest.Method = "POST";
-
-                using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
-                {
-                    string json = "{\"content\": \"" + message0 + "\"}";
-                    streamWriter.Write(json);
-                }
-
+                var msgParam = System.Web.HttpUtility.UrlEncode(message0);
+                var telegramWebhook = "https://track-kw.vercel.app/api?channel=tJunipersPathActions&text=" + msgParam;
+                var httpWebRequest = (HttpWebRequest)WebRequest.Create(telegramWebhook);
+            
                 var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
                 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
                 {
